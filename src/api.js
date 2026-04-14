@@ -6,12 +6,21 @@ function buildErrorMessage(response, payload) {
     return payload.error
   }
   if (response.status === 404) {
-    return 'API route not found. Kiểm tra backend version hoặc cổng chạy.'
+    return 'API route not found. Kiểm tra VITE_API_BASE_URL hoặc route /api trên backend.'
   }
   if (response.status === 422) {
     return 'Validation failed.'
   }
   return `Request failed (${response.status}).`
+}
+
+const API_BASE_URL = `${import.meta.env.VITE_API_BASE_URL || ''}`.trim().replace(/\/+$/, '')
+
+function resolveApiUrl(url) {
+  if (/^https?:\/\//i.test(url)) return url
+  if (!API_BASE_URL) return url
+  const path = `${url || ''}`
+  return `${API_BASE_URL}${path.startsWith('/') ? path : `/${path}`}`
 }
 
 async function parseResponse(response) {
@@ -28,11 +37,11 @@ async function parseResponse(response) {
 
 async function request(url, options = {}) {
   try {
-    const response = await fetch(url, options)
+    const response = await fetch(resolveApiUrl(url), options)
     return await parseResponse(response)
   } catch (error) {
     if (error?.status) throw error
-    const networkError = new Error('Backend unavailable. Vui lòng chạy `npm run dev:full`.')
+    const networkError = new Error('Backend unavailable. Kiểm tra API URL/backend hoặc chạy npm run dev:full ở local.')
     networkError.code = 'backend_unavailable'
     throw networkError
   }

@@ -99,11 +99,18 @@ GOOGLE_API_KEY=
 OPENAI_API_KEY=
 ```
 
+Frontend (khi deploy tách riêng frontend/backend) cần biến build-time:
+
+```env
+VITE_API_BASE_URL=https://your-backend-domain
+```
+
 Ghi chú:
 
 - PORT mặc định là 3001 nếu không cấu hình.
 - GOOGLE_API_KEY và OPENAI_API_KEY là optional.
 - Nếu không có key hoặc provider lỗi, hệ thống dùng fallback parser/scorer local.
+- Nếu frontend và backend khác domain, bắt buộc set VITE_API_BASE_URL cho frontend.
 
 ## Các route chính trên frontend
 
@@ -151,6 +158,15 @@ Khi chạy lần đầu, backend sẽ tự tạo các file JSON còn thiếu tro
 - Màn hình recruiter login hiện là demo UI phía frontend.
 - Dữ liệu được lưu file-based để phục vụ phát triển nội bộ/local.
 
+## Deploy trên Verticals
+
+- Trường hợp deploy tách 2 service:
+	- Service backend: chạy npm run server
+	- Service frontend: build bằng npm run build
+	- Set biến VITE_API_BASE_URL trên service frontend trỏ về domain backend
+- Trường hợp deploy chung 1 domain có reverse proxy /api về backend:
+	- Có thể không cần set VITE_API_BASE_URL
+
 ## Troubleshooting nhanh
 
 - Frontend báo Backend unavailable:
@@ -161,3 +177,7 @@ Khi chạy lần đầu, backend sẽ tự tạo các file JSON còn thiếu tro
 	- Xem lại trạng thái job (closed/filled/archived sẽ chặn import).
 - Không có AI key:
 	- Hệ thống vẫn chạy với fallback parser/scoring local.
+- Lỗi API route not found:
+	- Mở trực tiếp URL backend-domain/api/health để xác nhận backend thật sự chạy.
+	- Kiểm tra frontend đã set đúng VITE_API_BASE_URL chưa.
+	- Nếu cùng domain, kiểm tra rule rewrite/proxy /api trên Verticals.
