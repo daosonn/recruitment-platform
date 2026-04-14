@@ -14,7 +14,14 @@ function buildErrorMessage(response, payload) {
   return `Request failed (${response.status}).`
 }
 
-const API_BASE_URL = `${import.meta.env.VITE_API_BASE_URL || ''}`.trim().replace(/\/+$/, '')
+function normalizeApiBaseUrl(value) {
+  const raw = `${value || ''}`.trim()
+  if (!raw) return ''
+  const withProtocol = /^https?:\/\//i.test(raw) || raw.startsWith('/') ? raw : `https://${raw}`
+  return withProtocol.replace(/\/+$/, '').replace(/\/api$/i, '')
+}
+
+const API_BASE_URL = normalizeApiBaseUrl(import.meta.env.VITE_API_BASE_URL)
 
 function resolveApiUrl(url) {
   if (/^https?:\/\//i.test(url)) return url

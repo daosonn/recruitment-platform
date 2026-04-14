@@ -105,12 +105,18 @@ Frontend (khi deploy tách riêng frontend/backend) cần biến build-time:
 VITE_API_BASE_URL=https://your-backend-domain
 ```
 
+Giá trị hợp lệ ví dụ:
+
+- https://api.your-domain.com
+- https://api.your-domain.com/api (được hỗ trợ, frontend sẽ tự normalize)
+
 Ghi chú:
 
 - PORT mặc định là 3001 nếu không cấu hình.
 - GOOGLE_API_KEY và OPENAI_API_KEY là optional.
 - Nếu không có key hoặc provider lỗi, hệ thống dùng fallback parser/scorer local.
 - Nếu frontend và backend khác domain, bắt buộc set VITE_API_BASE_URL cho frontend.
+- Sau khi đổi VITE_API_BASE_URL, cần redeploy lại frontend để Vite build lại biến này.
 
 ## Các route chính trên frontend
 
