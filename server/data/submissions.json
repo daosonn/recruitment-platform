@@ -1,0 +1,2833 @@
+[
+  {
+    "id": "sub-1776056486016",
+    "sessionId": "session-1776013313783-266",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "submittedAt": "2026-04-13T05:01:26.016Z",
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": {
+          "originalName": "japanese-qa.webm",
+          "mimeType": "text/plain",
+          "size": 661680,
+          "path": "/storage/assessment-media/session-1776013313783-266/japanese-qa/1776056450437-53019.webm",
+          "uploadedAt": "2026-04-13T05:00:50.442Z"
+        },
+        "answer": null
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": {
+          "originalName": "reading-aloud.webm",
+          "mimeType": "text/plain",
+          "size": 747285,
+          "path": "/storage/assessment-media/session-1776013313783-266/reading-aloud/1776056466068-31566.webm",
+          "uploadedAt": "2026-04-13T05:01:06.074Z"
+        },
+        "answer": null
+      },
+      "reading-comprehension": {
+        "completed": true,
+        "media": null,
+        "answer": "dfv"
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": "dfsvsdfv"
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": "dfvdssf"
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Japanese Data Processing Specialist",
+      "japaneseLevel": "N1",
+      "fullTimeAvailability": true,
+      "availableStartDate": "2026-04-28",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "savedAt": "2026-04-13T05:00:32.922Z"
+    }
+  },
+  {
+    "id": "sub-1776056596445",
+    "sessionId": "session-1776051259475-2275",
+    "candidateId": "cand-cv-daovanson-13971",
+    "jobId": "JD-5678",
+    "submittedAt": "2026-04-13T05:03:16.445Z",
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": {
+          "originalName": "japanese-qa.webm",
+          "mimeType": "text/plain",
+          "size": 99235,
+          "path": "/storage/assessment-media/session-1776051259475-2275/japanese-qa/1776056569960-20697.webm",
+          "uploadedAt": "2026-04-13T05:02:49.965Z"
+        },
+        "answer": null
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": {
+          "originalName": "reading-aloud.webm",
+          "mimeType": "text/plain",
+          "size": 1667358,
+          "path": "/storage/assessment-media/session-1776051259475-2275/reading-aloud/1776056581563-16190.webm",
+          "uploadedAt": "2026-04-13T05:03:01.571Z"
+        },
+        "answer": null
+      },
+      "reading-comprehension": {
+        "completed": true,
+        "media": null,
+        "answer": "th"
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": "rtgetrg"
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": "ẻtgrtg"
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Tester",
+      "japaneseLevel": "JLPT N3 trở lên",
+      "fullTimeAvailability": true,
+      "availableStartDate": "",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "savedAt": "2026-04-13T05:02:40.348Z"
+    }
+  },
+  {
+    "id": "sub-1776073623182",
+    "sessionId": "session-1776073433876-3351",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "submittedAt": "2026-04-13T09:47:03.182Z",
+    "questionSet": {
+      "version": "v1-2026-04-13",
+      "generatedAt": "2026-04-13T09:43:53.877Z",
+      "japaneseQa": {
+        "fixedIntro": "自己紹介をしてください。氏名、学歴、現在の状況、Japanese Data Processing Specialistへの志望理由を含めてください。",
+        "followUpQuestions": [
+          {
+            "id": "qa-4",
+            "prompt": "納期が厳しい時の優先順位の付け方を説明してください。"
+          },
+          {
+            "id": "qa-5",
+            "prompt": "チームで報連相を行う時に意識していることは何ですか。"
+          },
+          {
+            "id": "qa-1",
+            "prompt": "志望動機を1分で説明してください。"
+          }
+        ],
+        "answerGuide": "Tra loi bang tieng Nhat, ro rang va ngan gon."
+      },
+      "readingAloud": {
+        "passageId": "read-c",
+        "title": "シフト案内",
+        "passageText": "来週から新しいシフトが開始されます。早番は8時30分開始、遅番は13時開始です。体調不良や遅刻の見込みがある場合は、開始30分前までに必ず連絡してください。",
+        "instruction": "Doc to doan van tren man hinh voi toc do on dinh va phat am ro rang."
+      },
+      "readingComprehension": {
+        "passageId": "read-c",
+        "passageTitle": "シフト案内",
+        "passageText": "来週から新しいシフトが開始されます。早番は8時30分開始、遅番は13時開始です。体調不良や遅刻の見込みがある場合は、開始30分前までに必ず連絡してください。",
+        "questions": [
+          {
+            "id": "rc-1",
+            "prompt": "体調不良時の対応を1文でまとめてください。"
+          },
+          {
+            "id": "rc-2",
+            "prompt": "早番と遅番の開始時刻は何時ですか。"
+          },
+          {
+            "id": "rc-3",
+            "prompt": "遅刻の見込みがある時、いつまでに連絡する必要がありますか。"
+          }
+        ],
+        "instruction": "Tra loi ngan gon theo thu tu C1, C2, C3."
+      },
+      "typing": {
+        "sampleId": "typing-a",
+        "title": "Kanji Copy 01",
+        "copyText": "本日の確認対象は顧客情報一覧です。氏名、住所、電話番号、登録日を正確に入力し、重複データがあれば備考欄に記録してください。",
+        "instruction": "Nhap lai doan van dung chinh ta Kanji/Kana. He thong do do chinh xac va toc do."
+      },
+      "dataTask": {
+        "taskId": "data-b",
+        "title": "Data Correction Task",
+        "instruction": "So sánh 2 dòng có cùng Customer ID, xác định dòng đúng và ghi nội dung cần sửa cho dòng còn lại.",
+        "columns": [
+          "Customer ID",
+          "Kana Name",
+          "Start Date",
+          "Status"
+        ],
+        "rows": [
+          [
+            "JP-2026-1104",
+            "サトウ ノボル",
+            "2026-05-05",
+            "Verified"
+          ],
+          [
+            "JP-2026-1104",
+            "サトウ ノボリ",
+            "2026-05-15",
+            "Pending"
+          ]
+        ],
+        "expectedHint": "Kana Name va Start Date"
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": {
+          "originalName": "japanese-qa.webm",
+          "mimeType": "text/plain",
+          "size": 915099,
+          "path": "/storage/assessment-media/session-1776073433876-3351/japanese-qa/1776073482957-50739.webm",
+          "uploadedAt": "2026-04-13T09:44:42.965Z"
+        },
+        "answer": null
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": {
+          "originalName": "reading-aloud.webm",
+          "mimeType": "text/plain",
+          "size": 659922,
+          "path": "/storage/assessment-media/session-1776073433876-3351/reading-aloud/1776073503900-6224.webm",
+          "uploadedAt": "2026-04-13T09:45:03.906Z"
+        },
+        "answer": null
+      },
+      "reading-comprehension": {
+        "completed": true,
+        "media": null,
+        "answer": "fasdf"
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "inputText": "本日の確認対象は",
+          "sourceText": "本日の確認対象は顧客情報一覧です。氏名、住所、電話番号、登録日を正確に入力し、重複データがあれば備考欄に記録してください。",
+          "elapsedSec": 22,
+          "accuracyPercent": 100,
+          "cpm": 22,
+          "completenessPercent": 13,
+          "charactersTyped": 8
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "selectedRecord": "JP-2026-1104\t",
+          "correction": "あｓｄｃぇｗｆｖ",
+          "reason": ""
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Japanese Data Processing Specialist",
+      "japaneseLevel": "Unknown",
+      "fullTimeAvailability": true,
+      "availableStartDate": "2026-04-28",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-13T09:44:16.742Z"
+    }
+  },
+  {
+    "id": "sub-1776136484008",
+    "sessionId": "session-1776073778584-6788",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "submittedAt": "2026-04-14T03:14:44.008Z",
+    "questionSet": {
+      "version": "v1-2026-04-13",
+      "generatedAt": "2026-04-13T09:49:38.585Z",
+      "japaneseQa": {
+        "fixedIntro": "自己紹介をしてください。氏名、学歴、現在の状況、Japanese Data Processing Specialistへの志望理由を含めてください。",
+        "followUpQuestions": [
+          {
+            "id": "qa-4",
+            "prompt": "納期が厳しい時の優先順位の付け方を説明してください。"
+          },
+          {
+            "id": "qa-2",
+            "prompt": "前職で担当したデータ入力業務を具体的に話してください。"
+          },
+          {
+            "id": "qa-1",
+            "prompt": "志望動機を1分で説明してください。"
+          }
+        ],
+        "answerGuide": "Tra loi bang tieng Nhat, ro rang va ngan gon."
+      },
+      "readingAloud": {
+        "passageId": "read-c",
+        "title": "シフト案内",
+        "passageText": "来週から新しいシフトが開始されます。早番は8時30分開始、遅番は13時開始です。体調不良や遅刻の見込みがある場合は、開始30分前までに必ず連絡してください。",
+        "instruction": "Doc to doan van tren man hinh voi toc do on dinh va phat am ro rang."
+      },
+      "readingComprehension": {
+        "passageId": "read-c",
+        "passageTitle": "シフト案内",
+        "passageText": "来週から新しいシフトが開始されます。早番は8時30分開始、遅番は13時開始です。体調不良や遅刻の見込みがある場合は、開始30分前までに必ず連絡してください。",
+        "questions": [
+          {
+            "id": "rc-1",
+            "prompt": "早番と遅番の開始時刻は何時ですか。"
+          },
+          {
+            "id": "rc-2",
+            "prompt": "この案内で最も重要なルールを1つ説明してください。"
+          },
+          {
+            "id": "rc-3",
+            "prompt": "体調不良時の対応を1文でまとめてください。"
+          }
+        ],
+        "instruction": "Tra loi ngan gon theo thu tu C1, C2, C3."
+      },
+      "typing": {
+        "sampleId": "typing-b",
+        "title": "Kanji Copy 02",
+        "copyText": "受注管理システムへ入力する際は、注文番号、商品名、数量、出荷予定日を順番どおりに登録し、入力後に必ず再確認を行ってください。",
+        "instruction": "Nhap lai doan van dung chinh ta Kanji/Kana. He thong do do chinh xac va toc do."
+      },
+      "dataTask": {
+        "taskId": "data-c",
+        "title": "Form Mapping Task",
+        "instruction": "Chọn mã hồ sơ phù hợp với điều kiện: JLPT N2, có kinh nghiệm data entry, có thể làm full-time.",
+        "columns": [
+          "Profile ID",
+          "JLPT",
+          "Experience",
+          "Availability"
+        ],
+        "rows": [
+          [
+            "PF-771",
+            "N3",
+            "1 year customer support",
+            "Full-time"
+          ],
+          [
+            "PF-772",
+            "N2",
+            "2 years data entry",
+            "Full-time"
+          ],
+          [
+            "PF-773",
+            "N2",
+            "No experience",
+            "Part-time"
+          ]
+        ],
+        "expectedHint": "PF-772"
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": {
+          "originalName": "japanese-qa.webm",
+          "mimeType": "text/plain",
+          "size": 1380266,
+          "path": "/storage/assessment-media/session-1776073778584-6788/japanese-qa/1776075608946-46109.webm",
+          "uploadedAt": "2026-04-13T10:20:08.958Z"
+        },
+        "answer": null
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": {
+          "originalName": "reading-aloud.webm",
+          "mimeType": "text/plain",
+          "size": 334914,
+          "path": "/storage/assessment-media/session-1776073778584-6788/reading-aloud/1776075618599-62489.webm",
+          "uploadedAt": "2026-04-13T10:20:18.603Z"
+        },
+        "answer": null
+      },
+      "reading-comprehension": {
+        "completed": true,
+        "media": null,
+        "answer": "始されま"
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "inputText": "受注管理システムへ入力する際は、注文番号、商品名、数量、出荷予定日を順番どおりに登録し、入力後に必ず再確認を行ってください。\n",
+          "sourceText": "受注管理システムへ入力する際は、注文番号、商品名、数量、出荷予定日を順番どおりに登録し、入力後に必ず再確認を行ってください。",
+          "elapsedSec": 12,
+          "accuracyPercent": 98,
+          "cpm": 315,
+          "completenessPercent": 100,
+          "charactersTyped": 63
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "selectedRecord": "eg",
+          "correction": "ewg",
+          "reason": ""
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Japanese Data Processing Specialist",
+      "japaneseLevel": "Unknown",
+      "fullTimeAvailability": true,
+      "availableStartDate": "2026-04-28",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-13T10:19:43.974Z"
+    }
+  },
+  {
+    "id": "sub-1776156607679",
+    "sessionId": "session-1776139316775-1749",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "submittedAt": "2026-04-14T08:50:07.679Z",
+    "questionSet": {
+      "version": "v1-2026-04-13",
+      "generatedAt": "2026-04-14T04:01:56.778Z",
+      "japaneseQa": {
+        "title": "Self-introduction / motivation / work-fit",
+        "introduction": "以下の質問に日本語で回答してください。Japanese Data Processing Specialistへの適性と仕事理解を確認します。",
+        "answerGuide": "各質問に対して、簡潔かつ論理的に回答してください。",
+        "questions": [
+          {
+            "id": "qa-1",
+            "prompt": "自己紹介をしてください。"
+          },
+          {
+            "id": "qa-2",
+            "prompt": "なぜこの仕事に応募しましたか。"
+          },
+          {
+            "id": "qa-3",
+            "prompt": "あなたの強みと弱みを教えてください。"
+          },
+          {
+            "id": "qa-4",
+            "prompt": "細かい作業を続けるとき、どのように集中力を保ちますか。"
+          }
+        ]
+      },
+      "readingAloud": {
+        "title": "Japanese reading aloud",
+        "instruction": "表示された文章をそのまま読み上げてください。各パッセージは1つずつ進みます。",
+        "items": [
+          {
+            "id": "read-a",
+            "title": "社内連絡メール",
+            "passageText": "本日16時までに、4月分の受注データを確認してください。重複レコードが見つかった場合は、備考欄に理由を記入し、担当者へ共有してください。完了後、チェックシートを更新してから退勤してください。",
+            "sourceType": "Work instruction"
+          },
+          {
+            "id": "read-c",
+            "title": "シフト案内",
+            "passageText": "来週から新しいシフトが開始されます。早番は8時30分開始、遅番は13時開始です。体調不良や遅刻の見込みがある場合は、開始30分前までに必ず連絡してください。",
+            "sourceType": "Internal notice"
+          }
+        ]
+      },
+      "typing": {
+        "title": "Japanese typing test",
+        "instruction": "各タスクを順番に完了してください。コピー入力とフォーム入力の両方を評価します。",
+        "tasks": [
+          {
+            "id": "typing-a",
+            "type": "copy-typing",
+            "title": "Kanji Copy 01",
+            "instruction": "以下の日本語テキストをそのまま正確に入力してください。",
+            "sourceText": "本日の確認対象は顧客情報一覧です。氏名、住所、電話番号、登録日を正確に入力し、重複データがあれば備考欄に記録してください。"
+          },
+          {
+            "id": "typing-form-1",
+            "type": "structured-form",
+            "title": "Structured form input",
+            "instruction": "元データを見て、各項目を正しいフィールドに入力してください。",
+            "sourceText": "会社名: 株式会社東和ビジネス\n担当者: 鈴木一郎\n電話番号: 03-6811-2205\nメール: support@towa-biz.jp\n依頼番号: REF-22018",
+            "fields": [
+              {
+                "key": "companyName",
+                "label": "Company Name",
+                "expectedValue": "株式会社東和ビジネス"
+              },
+              {
+                "key": "contactPerson",
+                "label": "Contact Person",
+                "expectedValue": "鈴木一郎"
+              },
+              {
+                "key": "phoneNumber",
+                "label": "Phone Number",
+                "expectedValue": "03-6811-2205"
+              },
+              {
+                "key": "email",
+                "label": "Email",
+                "expectedValue": "support@towa-biz.jp"
+              },
+              {
+                "key": "referenceCode",
+                "label": "Reference Code",
+                "expectedValue": "REF-22018"
+              }
+            ]
+          }
+        ]
+      },
+      "dataTask": {
+        "title": "Information extraction from business documents",
+        "instruction": "書類を確認し、指定された項目を正確に抽出してください。",
+        "documents": [
+          {
+            "id": "invoice-a",
+            "title": "請求書 A",
+            "instruction": "請求書を確認し、必要項目を正確に入力してください。",
+            "documentText": "株式会社青空商事\n請求書番号: INV-2026-0418\n得意先コード: C-1182\n発行日: 2026/04/18\n合計金額: 154,000円\n消費税: 14,000円\n住所: 東京都千代田区丸の内1-8-2\n電話番号: 03-5561-8821\n担当者: 佐藤恵",
+            "expectedFields": {
+              "companyName": "株式会社青空商事",
+              "invoiceNumber": "INV-2026-0418",
+              "customerCode": "C-1182",
+              "date": "2026/04/18",
+              "totalAmount": "154,000円",
+              "taxAmount": "14,000円",
+              "address": "東京都千代田区丸の内1-8-2",
+              "phoneNumber": "03-5561-8821",
+              "personInCharge": "佐藤恵"
+            }
+          },
+          {
+            "id": "invoice-b",
+            "title": "納品関連書類 B",
+            "instruction": "書類から会社情報・金額・担当者情報を抽出してください。",
+            "documentText": "株式会社みなとデータサービス\n管理番号: SL-88-203\n顧客コード: TK-2047\n作成日: 2026/05/02\n請求総額: 87,450円\n税額: 7,950円\n所在地: 大阪府大阪市北区梅田2-4-9\n連絡先: 06-6123-4400\n担当: 田中由美",
+            "expectedFields": {
+              "companyName": "株式会社みなとデータサービス",
+              "invoiceNumber": "SL-88-203",
+              "customerCode": "TK-2047",
+              "date": "2026/05/02",
+              "totalAmount": "87,450円",
+              "taxAmount": "7,950円",
+              "address": "大阪府大阪市北区梅田2-4-9",
+              "phoneNumber": "06-6123-4400",
+              "personInCharge": "田中由美"
+            }
+          }
+        ]
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 3,
+          "responses": [
+            {
+              "itemId": "qa-1",
+              "prompt": "自己紹介をしてください。",
+              "durationSec": 0,
+              "recordedAt": "2026-04-14T08:48:10.617Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-2",
+              "prompt": "なぜこの仕事に応募しましたか。",
+              "durationSec": 2,
+              "recordedAt": "2026-04-14T08:48:30.213Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-3",
+              "prompt": "あなたの強みと弱みを教えてください。",
+              "durationSec": 5,
+              "recordedAt": "2026-04-14T08:48:41.267Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-4",
+              "prompt": "細かい作業を続けるとき、どのように集中力を保ちますか。",
+              "durationSec": 4,
+              "recordedAt": "2026-04-14T08:49:00.969Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            }
+          ]
+        }
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "responses": [
+            {
+              "itemId": "read-a",
+              "prompt": "社内連絡メール",
+              "durationSec": 4,
+              "recordedAt": "2026-04-14T08:49:22.391Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "read-c",
+              "prompt": "シフト案内",
+              "durationSec": 7,
+              "recordedAt": "2026-04-14T08:49:33.868Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            }
+          ]
+        }
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "inputText": "nsdjfsoiajfoiwfejfeoiwjqoifejqwjfoiqwjfqwef",
+          "sourceText": "",
+          "elapsedSec": 9,
+          "accuracyPercent": 0,
+          "completenessPercent": 0,
+          "cpm": 287,
+          "charactersTyped": 43
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "selectedRecord": "è",
+          "correction": "wef",
+          "reason": "ề"
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Japanese Data Processing Specialist",
+      "japaneseLevel": "Unknown",
+      "fullTimeAvailability": true,
+      "availableStartDate": "2026-04-28",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-14T08:47:57.216Z"
+    }
+  },
+  {
+    "id": "sub-1776156779124",
+    "sessionId": "session-1776156639591-542",
+    "candidateId": "cand-cv-daovanson-19962",
+    "jobId": "JD-5678",
+    "submittedAt": "2026-04-14T08:52:59.124Z",
+    "questionSet": {
+      "version": "v1-2026-04-13",
+      "generatedAt": "2026-04-14T08:50:39.591Z",
+      "japaneseQa": {
+        "title": "Self-introduction / motivation / work-fit",
+        "introduction": "以下の質問に日本語で回答してください。Testerへの適性と仕事理解を確認します。",
+        "answerGuide": "各質問に対して、簡潔かつ論理的に回答してください。",
+        "questions": [
+          {
+            "id": "qa-1",
+            "prompt": "自己紹介をしてください。"
+          },
+          {
+            "id": "qa-2",
+            "prompt": "なぜこの仕事に応募しましたか。"
+          },
+          {
+            "id": "qa-3",
+            "prompt": "あなたの強みと弱みを教えてください。"
+          },
+          {
+            "id": "qa-4",
+            "prompt": "細かい作業を続けるとき、どのように集中力を保ちますか。"
+          }
+        ]
+      },
+      "readingAloud": {
+        "title": "Japanese reading aloud",
+        "instruction": "表示された文章をそのまま読み上げてください。各パッセージは1つずつ進みます。",
+        "items": [
+          {
+            "id": "read-b",
+            "title": "業務手順メモ",
+            "passageText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+            "sourceType": "Work instruction"
+          },
+          {
+            "id": "read-a",
+            "title": "社内連絡メール",
+            "passageText": "本日16時までに、4月分の受注データを確認してください。重複レコードが見つかった場合は、備考欄に理由を記入し、担当者へ共有してください。完了後、チェックシートを更新してから退勤してください。",
+            "sourceType": "Internal notice"
+          }
+        ]
+      },
+      "typing": {
+        "title": "Japanese typing test",
+        "instruction": "各タスクを順番に完了してください。コピー入力とフォーム入力の両方を評価します。",
+        "tasks": [
+          {
+            "id": "typing-a",
+            "type": "copy-typing",
+            "title": "Kanji Copy 01",
+            "instruction": "以下の日本語テキストをそのまま正確に入力してください。",
+            "sourceText": "本日の確認対象は顧客情報一覧です。氏名、住所、電話番号、登録日を正確に入力し、重複データがあれば備考欄に記録してください。"
+          },
+          {
+            "id": "typing-form-1",
+            "type": "structured-form",
+            "title": "Structured form input",
+            "instruction": "元データを見て、各項目を正しいフィールドに入力してください。",
+            "sourceText": "会社名: 株式会社東和ビジネス\n担当者: 鈴木一郎\n電話番号: 03-6811-2205\nメール: support@towa-biz.jp\n依頼番号: REF-22018",
+            "fields": [
+              {
+                "key": "companyName",
+                "label": "Company Name",
+                "expectedValue": "株式会社東和ビジネス"
+              },
+              {
+                "key": "contactPerson",
+                "label": "Contact Person",
+                "expectedValue": "鈴木一郎"
+              },
+              {
+                "key": "phoneNumber",
+                "label": "Phone Number",
+                "expectedValue": "03-6811-2205"
+              },
+              {
+                "key": "email",
+                "label": "Email",
+                "expectedValue": "support@towa-biz.jp"
+              },
+              {
+                "key": "referenceCode",
+                "label": "Reference Code",
+                "expectedValue": "REF-22018"
+              }
+            ]
+          }
+        ]
+      },
+      "dataTask": {
+        "title": "Information extraction from business documents",
+        "instruction": "書類を確認し、指定された項目を正確に抽出してください。",
+        "documents": [
+          {
+            "id": "invoice-a",
+            "title": "請求書 A",
+            "instruction": "請求書を確認し、必要項目を正確に入力してください。",
+            "documentText": "株式会社青空商事\n請求書番号: INV-2026-0418\n得意先コード: C-1182\n発行日: 2026/04/18\n合計金額: 154,000円\n消費税: 14,000円\n住所: 東京都千代田区丸の内1-8-2\n電話番号: 03-5561-8821\n担当者: 佐藤恵",
+            "expectedFields": {
+              "companyName": "株式会社青空商事",
+              "invoiceNumber": "INV-2026-0418",
+              "customerCode": "C-1182",
+              "date": "2026/04/18",
+              "totalAmount": "154,000円",
+              "taxAmount": "14,000円",
+              "address": "東京都千代田区丸の内1-8-2",
+              "phoneNumber": "03-5561-8821",
+              "personInCharge": "佐藤恵"
+            }
+          },
+          {
+            "id": "invoice-b",
+            "title": "納品関連書類 B",
+            "instruction": "書類から会社情報・金額・担当者情報を抽出してください。",
+            "documentText": "株式会社みなとデータサービス\n管理番号: SL-88-203\n顧客コード: TK-2047\n作成日: 2026/05/02\n請求総額: 87,450円\n税額: 7,950円\n所在地: 大阪府大阪市北区梅田2-4-9\n連絡先: 06-6123-4400\n担当: 田中由美",
+            "expectedFields": {
+              "companyName": "株式会社みなとデータサービス",
+              "invoiceNumber": "SL-88-203",
+              "customerCode": "TK-2047",
+              "date": "2026/05/02",
+              "totalAmount": "87,450円",
+              "taxAmount": "7,950円",
+              "address": "大阪府大阪市北区梅田2-4-9",
+              "phoneNumber": "06-6123-4400",
+              "personInCharge": "田中由美"
+            }
+          }
+        ]
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 3,
+          "responses": [
+            {
+              "itemId": "qa-1",
+              "prompt": "自己紹介をしてください。",
+              "durationSec": 3,
+              "recordedAt": "2026-04-14T08:51:16.861Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-2",
+              "prompt": "なぜこの仕事に応募しましたか。",
+              "durationSec": 28,
+              "recordedAt": "2026-04-14T08:51:47.787Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-3",
+              "prompt": "あなたの強みと弱みを教えてください。",
+              "durationSec": 2,
+              "recordedAt": "2026-04-14T08:51:52.617Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-4",
+              "prompt": "細かい作業を続けるとき、どのように集中力を保ちますか。",
+              "durationSec": 1,
+              "recordedAt": "2026-04-14T08:51:56.020Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            }
+          ]
+        }
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "responses": [
+            {
+              "itemId": "read-b",
+              "prompt": "業務手順メモ",
+              "durationSec": 20,
+              "recordedAt": "2026-04-14T08:52:29.065Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "read-a",
+              "prompt": "社内連絡メール",
+              "durationSec": 3,
+              "recordedAt": "2026-04-14T08:52:41.672Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            }
+          ]
+        }
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "inputText": "sadfewgfqewfqewfwefasdfewe",
+          "sourceText": "",
+          "elapsedSec": 2,
+          "accuracyPercent": 0,
+          "completenessPercent": 0,
+          "cpm": 780,
+          "charactersTyped": 26
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "selectedRecord": "àdawefe",
+          "correction": "fwqefwqqef",
+          "reason": "ádfqwe"
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Tester",
+      "japaneseLevel": "JLPT N3",
+      "fullTimeAvailability": true,
+      "availableStartDate": "",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-14T08:50:57.804Z"
+    }
+  },
+  {
+    "id": "sub-1776161251802",
+    "sessionId": "session-1776160925239-7207",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "submittedAt": "2026-04-14T10:07:31.802Z",
+    "questionSet": {
+      "version": "v1-2026-04-13",
+      "generatedAt": "2026-04-14T10:02:05.240Z",
+      "japaneseQa": {
+        "title": "Self-introduction / motivation / work-fit",
+        "introduction": "以下の質問に日本語で回答してください。Japanese Data Processing Specialistへの適性と仕事理解を確認します。",
+        "answerGuide": "各質問に対して、簡潔かつ論理的に回答してください。",
+        "questions": [
+          {
+            "id": "qa-1",
+            "prompt": "自己紹介をしてください。"
+          },
+          {
+            "id": "qa-2",
+            "prompt": "なぜこの仕事に応募しましたか。"
+          },
+          {
+            "id": "qa-3",
+            "prompt": "あなたの強みと弱みを教えてください。"
+          },
+          {
+            "id": "qa-4",
+            "prompt": "細かい作業を続けるとき、どのように集中力を保ちますか。"
+          }
+        ]
+      },
+      "readingAloud": {
+        "title": "Japanese reading aloud",
+        "instruction": "表示された文章をそのまま読み上げてください。各パッセージは1つずつ進みます。",
+        "items": [
+          {
+            "id": "read-a",
+            "title": "社内連絡メール",
+            "passageText": "本日16時までに、4月分の受注データを確認してください。重複レコードが見つかった場合は、備考欄に理由を記入し、担当者へ共有してください。完了後、チェックシートを更新してから退勤してください。",
+            "sourceType": "Work instruction"
+          },
+          {
+            "id": "read-b",
+            "title": "業務手順メモ",
+            "passageText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+            "sourceType": "Internal notice"
+          }
+        ]
+      },
+      "typing": {
+        "title": "Japanese typing test",
+        "instruction": "各タスクを順番に完了してください。コピー入力とフォーム入力の両方を評価します。",
+        "tasks": [
+          {
+            "id": "typing-c",
+            "type": "copy-typing",
+            "title": "Kanji Copy 03",
+            "instruction": "以下の日本語テキストをそのまま正確に入力してください。",
+            "sourceText": "業務品質を維持するため、入力内容の誤字脱字を確認し、修正履歴を残したうえで担当者へ完了報告を提出してください。"
+          },
+          {
+            "id": "typing-form-1",
+            "type": "structured-form",
+            "title": "Structured form input",
+            "instruction": "元データを見て、各項目を正しいフィールドに入力してください。",
+            "sourceText": "会社名: 株式会社東和ビジネス\n担当者: 鈴木一郎\n電話番号: 03-6811-2205\nメール: support@towa-biz.jp\n依頼番号: REF-22018",
+            "fields": [
+              {
+                "key": "companyName",
+                "label": "Company Name",
+                "expectedValue": "株式会社東和ビジネス"
+              },
+              {
+                "key": "contactPerson",
+                "label": "Contact Person",
+                "expectedValue": "鈴木一郎"
+              },
+              {
+                "key": "phoneNumber",
+                "label": "Phone Number",
+                "expectedValue": "03-6811-2205"
+              },
+              {
+                "key": "email",
+                "label": "Email",
+                "expectedValue": "support@towa-biz.jp"
+              },
+              {
+                "key": "referenceCode",
+                "label": "Reference Code",
+                "expectedValue": "REF-22018"
+              }
+            ]
+          }
+        ]
+      },
+      "dataTask": {
+        "title": "Information extraction from business documents",
+        "instruction": "書類を確認し、指定された項目を正確に抽出してください。",
+        "documents": [
+          {
+            "id": "invoice-a",
+            "title": "請求書 A",
+            "instruction": "請求書を確認し、必要項目を正確に入力してください。",
+            "documentText": "株式会社青空商事\n請求書番号: INV-2026-0418\n得意先コード: C-1182\n発行日: 2026/04/18\n合計金額: 154,000円\n消費税: 14,000円\n住所: 東京都千代田区丸の内1-8-2\n電話番号: 03-5561-8821\n担当者: 佐藤恵",
+            "expectedFields": {
+              "companyName": "株式会社青空商事",
+              "invoiceNumber": "INV-2026-0418",
+              "customerCode": "C-1182",
+              "date": "2026/04/18",
+              "totalAmount": "154,000円",
+              "taxAmount": "14,000円",
+              "address": "東京都千代田区丸の内1-8-2",
+              "phoneNumber": "03-5561-8821",
+              "personInCharge": "佐藤恵"
+            }
+          },
+          {
+            "id": "invoice-b",
+            "title": "納品関連書類 B",
+            "instruction": "書類から会社情報・金額・担当者情報を抽出してください。",
+            "documentText": "株式会社みなとデータサービス\n管理番号: SL-88-203\n顧客コード: TK-2047\n作成日: 2026/05/02\n請求総額: 87,450円\n税額: 7,950円\n所在地: 大阪府大阪市北区梅田2-4-9\n連絡先: 06-6123-4400\n担当: 田中由美",
+            "expectedFields": {
+              "companyName": "株式会社みなとデータサービス",
+              "invoiceNumber": "SL-88-203",
+              "customerCode": "TK-2047",
+              "date": "2026/05/02",
+              "totalAmount": "87,450円",
+              "taxAmount": "7,950円",
+              "address": "大阪府大阪市北区梅田2-4-9",
+              "phoneNumber": "06-6123-4400",
+              "personInCharge": "田中由美"
+            }
+          }
+        ]
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 3,
+          "responses": [
+            {
+              "itemId": "qa-1",
+              "prompt": "自己紹介をしてください。",
+              "durationSec": 2,
+              "recordedAt": "2026-04-14T10:02:36.705Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-2",
+              "prompt": "なぜこの仕事に応募しましたか。",
+              "durationSec": 3,
+              "recordedAt": "2026-04-14T10:02:43.066Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-3",
+              "prompt": "あなたの強みと弱みを教えてください。",
+              "durationSec": 3,
+              "recordedAt": "2026-04-14T10:02:48.091Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "qa-4",
+              "prompt": "細かい作業を続けるとき、どのように集中力を保ちますか。",
+              "durationSec": 4,
+              "recordedAt": "2026-04-14T10:02:55.300Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            }
+          ]
+        }
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "responses": [
+            {
+              "itemId": "read-a",
+              "prompt": "社内連絡メール",
+              "durationSec": 0,
+              "recordedAt": "2026-04-14T10:03:08.090Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            },
+            {
+              "itemId": "read-b",
+              "prompt": "業務手順メモ",
+              "durationSec": 1,
+              "recordedAt": "2026-04-14T10:03:15.523Z",
+              "recordingStatus": "captured",
+              "transcript": "",
+              "summary": "",
+              "aiScore": null
+            }
+          ]
+        }
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "inputText": "dfsvsd",
+          "sourceText": "",
+          "elapsedSec": 1,
+          "accuracyPercent": 0,
+          "completenessPercent": 0,
+          "cpm": 360,
+          "charactersTyped": 6
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "selectedRecord": "asdf",
+          "correction": "ádc",
+          "reason": "vv"
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Japanese Data Processing Specialist",
+      "japaneseLevel": "Unknown",
+      "fullTimeAvailability": true,
+      "availableStartDate": "2026-04-28",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-14T10:02:19.479Z"
+    }
+  },
+  {
+    "id": "sub-1776162501227",
+    "sessionId": "session-1776162290176-5976",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "submittedAt": "2026-04-14T10:28:21.227Z",
+    "questionSet": {
+      "version": "v2-2026-04-14",
+      "generatedAt": "2026-04-14T10:24:50.176Z",
+      "japaneseQa": {
+        "title": "Basic Japanese work response",
+        "introduction": "Answer one short Japanese prompt at a time. Each answer is fixed or near-fixed so the system can check it clearly.",
+        "answerGuide": "Please answer exactly to the point. If a sentence is shown on screen, read it as written.",
+        "questions": [
+          {
+            "id": "qa-1",
+            "prompt": "画面に表示された氏名を、そのまま読んでください。",
+            "referenceText": "Akira Yoshi",
+            "expectedKeywords": [
+              "Akira",
+              "Yoshi"
+            ]
+          },
+          {
+            "id": "qa-2",
+            "prompt": "応募職種を、そのまま読んでください。",
+            "referenceText": "Japanese Data Processing Specialist",
+            "expectedKeywords": [
+              "Japanese",
+              "Data",
+              "Processing",
+              "Specialist"
+            ]
+          },
+          {
+            "id": "qa-3",
+            "prompt": "次の文をそのまま読んでください。",
+            "referenceText": "フルタイム勤務が可能です。",
+            "expectedKeywords": [
+              "フルタイム",
+              "勤務",
+              "可能"
+            ]
+          },
+          {
+            "id": "qa-4",
+            "prompt": "次の文をそのまま読んでください。",
+            "referenceText": "数字・日付・氏名を正確に確認して入力します。",
+            "expectedKeywords": [
+              "数字",
+              "日付",
+              "氏名",
+              "正確",
+              "入力"
+            ]
+          }
+        ]
+      },
+      "readingAloud": {
+        "title": "Japanese reading aloud",
+        "instruction": "Read each business passage aloud. Complete one passage before moving to the next.",
+        "items": [
+          {
+            "id": "read-a",
+            "title": "社内連絡メール",
+            "passageText": "本日16時までに、4月分の受注データを確認してください。重複レコードが見つかった場合は、備考欄に理由を記入し、担当者へ共有してください。完了後、チェックシートを更新してから退勤してください。",
+            "sourceType": "Work instruction"
+          },
+          {
+            "id": "read-b",
+            "title": "業務手順メモ",
+            "passageText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+            "sourceType": "Internal notice"
+          }
+        ]
+      },
+      "typing": {
+        "title": "Japanese typing test",
+        "instruction": "Complete one typing task at a time. Accuracy is more important than rushing.",
+        "tasks": [
+          {
+            "id": "typing-b",
+            "type": "copy-typing",
+            "title": "Kanji Copy 02",
+            "instruction": "Type the Japanese text exactly as shown.",
+            "sourceText": "受注管理システムへ入力する際は、注文番号、商品名、数量、出荷予定日を順番どおりに登録し、入力後に必ず再確認を行ってください。"
+          },
+          {
+            "id": "typing-form-1",
+            "type": "structured-form",
+            "title": "Structured form input",
+            "instruction": "Read the source note and enter each value into the correct field.",
+            "sourceText": "会社名: 東和ビジネスサービス\n担当者: 鈴木一郎\n電話番号: 03-6811-2205\nメール: support@towa-biz.jp\n参照番号: REF-22018",
+            "fields": [
+              {
+                "key": "companyName",
+                "label": "Company Name",
+                "expectedValue": "東和ビジネスサービス"
+              },
+              {
+                "key": "contactPerson",
+                "label": "Contact Person",
+                "expectedValue": "鈴木一郎"
+              },
+              {
+                "key": "phoneNumber",
+                "label": "Phone Number",
+                "expectedValue": "03-6811-2205"
+              },
+              {
+                "key": "email",
+                "label": "Email",
+                "expectedValue": "support@towa-biz.jp"
+              },
+              {
+                "key": "referenceCode",
+                "label": "Reference Code",
+                "expectedValue": "REF-22018"
+              }
+            ]
+          }
+        ]
+      },
+      "dataTask": {
+        "title": "Information extraction from business documents",
+        "instruction": "Review each Japanese invoice or business document and extract the requested fields accurately.",
+        "documents": [
+          {
+            "id": "invoice-a",
+            "title": "請求書 A",
+            "instruction": "請求書を確認し、指定された項目をフォームに入力してください。",
+            "documentText": "株式会社青空商事\n請求番号: INV-2026-0418\n得意先コード: C-1182\n発行日: 2026/04/18\n合計金額: 154,000円\n消費税: 14,000円\n住所: 東京都千代田区丸の内1-8-2\n電話番号: 03-5561-8821\n担当者: 佐藤恵",
+            "expectedFields": {
+              "companyName": "株式会社青空商事",
+              "invoiceNumber": "INV-2026-0418",
+              "customerCode": "C-1182",
+              "date": "2026/04/18",
+              "totalAmount": "154,000円",
+              "taxAmount": "14,000円",
+              "address": "東京都千代田区丸の内1-8-2",
+              "phoneNumber": "03-5561-8821",
+              "personInCharge": "佐藤恵"
+            }
+          },
+          {
+            "id": "invoice-b",
+            "title": "納品関連書類 B",
+            "instruction": "書類を確認し、各フィールドに正しい情報を入力してください。",
+            "documentText": "株式会社みなとデータサービス\n管理番号: SL-88-203\n顧客コード: TK-2047\n作成日: 2026/05/02\n請求総額: 87,450円\n税額: 7,950円\n所在地: 大阪府大阪市北区梅田2-4-9\n連絡先: 06-6123-4400\n担当: 田中美",
+            "expectedFields": {
+              "companyName": "株式会社みなとデータサービス",
+              "invoiceNumber": "SL-88-203",
+              "customerCode": "TK-2047",
+              "date": "2026/05/02",
+              "totalAmount": "87,450円",
+              "taxAmount": "7,950円",
+              "address": "大阪府大阪市北区梅田2-4-9",
+              "phoneNumber": "06-6123-4400",
+              "personInCharge": "田中美"
+            }
+          }
+        ]
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 3,
+          "responses": [
+            {
+              "itemId": "qa-1",
+              "prompt": "画面に表示された氏名を、そのまま読んでください。",
+              "referenceText": "Akira Yoshi",
+              "durationSec": 4,
+              "recordedAt": "2026-04-14T10:25:25.254Z",
+              "recordingStatus": "captured",
+              "transcript": "うん。",
+              "summary": "The response 'うん' does not match the expected answer 'Akira Yoshi' and does not fulfill the task of reading the displayed name.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 1,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-2",
+              "prompt": "応募職種を、そのまま読んでください。",
+              "referenceText": "Japanese Data Processing Specialist",
+              "durationSec": 4,
+              "recordedAt": "2026-04-14T10:25:42.240Z",
+              "recordingStatus": "captured",
+              "transcript": "他是来玩YouTube。",
+              "summary": "The response is unrelated to the expected answer. It is in Chinese and mentions playing YouTube, which does not match the requested job title in Japanese.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 1,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-3",
+              "prompt": "次の文をそのまま読んでください。",
+              "referenceText": "フルタイム勤務が可能です。",
+              "durationSec": 9,
+              "recordedAt": "2026-04-14T10:25:59.551Z",
+              "recordingStatus": "captured",
+              "transcript": "Xin chào anh chị, xin chào anh chị.",
+              "summary": "The response does not match the expected Japanese sentence and is in Vietnamese instead. It does not contain any of the expected keywords and is not relevant to the prompt.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 5,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-4",
+              "prompt": "次の文をそのまま読んでください。",
+              "referenceText": "数字・日付・氏名を正確に確認して入力します。",
+              "durationSec": 0,
+              "recordedAt": "2026-04-14T10:26:33.384Z",
+              "recordingStatus": "captured",
+              "transcript": "ああ。",
+              "summary": "The response 'ああ' does not match the expected answer and lacks the required keywords. It is not understandable in the context of the prompt.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 1,
+              "keywordCoverage": 0
+            }
+          ]
+        }
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "responses": [
+            {
+              "itemId": "read-a",
+              "prompt": "社内連絡メール",
+              "referenceText": "本日16時までに、4月分の受注データを確認してください。重複レコードが見つかった場合は、備考欄に理由を記入し、担当者へ共有してください。完了後、チェックシートを更新してから退勤してください。",
+              "durationSec": 1,
+              "recordedAt": "2026-04-14T10:26:45.084Z",
+              "recordingStatus": "captured",
+              "transcript": "ああ。",
+              "summary": "The transcript contains only a single interjection 'ああ。' and does not include any part of the source passage. The reading is completely inaccurate with total omission of the content. Fluency cannot be assessed meaningfully due to lack of content.",
+              "aiScore": 1,
+              "accuracyScore": 0,
+              "fluencyScore": 1,
+              "omissionRate": 1,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": null,
+              "clarity": null,
+              "keywordCoverage": null
+            },
+            {
+              "itemId": "read-b",
+              "prompt": "業務手順メモ",
+              "referenceText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+              "durationSec": 2,
+              "recordedAt": "2026-04-14T10:27:08.035Z",
+              "recordingStatus": "captured",
+              "transcript": "Daarover viel nu maar.",
+              "summary": "The transcript does not match the source passage at all. There is no accurate reading of the original Japanese text, resulting in complete omission of the content. Fluency is minimal due to the unrelated phrase.",
+              "aiScore": 1,
+              "accuracyScore": 0,
+              "fluencyScore": 1,
+              "omissionRate": 1,
+              "majorMisreadings": [
+                "Entire passage not read or recognized"
+              ],
+              "matchedPhrases": [],
+              "correctness": null,
+              "clarity": null,
+              "keywordCoverage": null
+            }
+          ]
+        }
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "tasks": [
+            {
+              "taskId": "typing-b",
+              "type": "copy-typing",
+              "completedAt": "2026-04-14T10:27:24.973Z",
+              "inputText": "fasdsadfsdafsadfwqertq53rfwefsadfasdfvsdasdfsdfasdfsadfsafsdfsdadfsadfsadf",
+              "sourceText": "受注管理システムへ入力する際は、注文番号、商品名、数量、出荷予定日を順番どおりに登録し、入力後に必ず再確認を行ってください。",
+              "accuracyPercent": 0,
+              "completenessPercent": 100,
+              "cpm": 740,
+              "charactersTyped": 74,
+              "corrections": 0,
+              "pasteAttempts": 0,
+              "elapsedSec": 6,
+              "taskScore": 35
+            },
+            {
+              "taskId": "typing-form-1",
+              "type": "structured-form",
+              "completedAt": "2026-04-14T10:27:35.161Z",
+              "fieldValues": {
+                "companyName": "dsgdfg",
+                "contactPerson": "sdgfds",
+                "phoneNumber": "dfgdsf",
+                "email": "gdsfgdsfg",
+                "referenceCode": "dfgsdfg"
+              },
+              "accuracyPercent": 0,
+              "cpm": 680,
+              "corrections": 0,
+              "pasteAttempts": 0,
+              "elapsedSec": 3,
+              "taskScore": 20
+            }
+          ]
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "tasks": [
+            {
+              "documentId": "invoice-a",
+              "completedAt": "2026-04-14T10:28:13.676Z",
+              "fieldValues": {
+                "companyName": "sdf",
+                "invoiceNumber": "sdgfsd",
+                "customerCode": "dfgds",
+                "date": "dgsf",
+                "totalAmount": "",
+                "taxAmount": "",
+                "address": "",
+                "phoneNumber": "03-5561-8821",
+                "personInCharge": ""
+              },
+              "report": {
+                "rows": [
+                  {
+                    "key": "companyName",
+                    "expected": "株式会社青空商事",
+                    "entered": "sdf",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  },
+                  {
+                    "key": "invoiceNumber",
+                    "expected": "INV-2026-0418",
+                    "entered": "sdgfsd",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  },
+                  {
+                    "key": "customerCode",
+                    "expected": "C-1182",
+                    "entered": "dfgds",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  },
+                  {
+                    "key": "date",
+                    "expected": "2026/04/18",
+                    "entered": "dgsf",
+                    "correct": false,
+                    "formatStatus": "format_warning"
+                  },
+                  {
+                    "key": "totalAmount",
+                    "expected": "154,000円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "taxAmount",
+                    "expected": "14,000円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "address",
+                    "expected": "東京都千代田区丸の内1-8-2",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "phoneNumber",
+                    "expected": "03-5561-8821",
+                    "entered": "03-5561-8821",
+                    "correct": true,
+                    "formatStatus": "ok"
+                  },
+                  {
+                    "key": "personInCharge",
+                    "expected": "佐藤恵",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  }
+                ],
+                "correctCount": 1,
+                "total": 9,
+                "accuracyPercent": 11,
+                "missingFields": [
+                  "totalAmount",
+                  "taxAmount",
+                  "address",
+                  "personInCharge"
+                ],
+                "formatWarnings": [
+                  "date"
+                ]
+              },
+              "taskScore": 11
+            },
+            {
+              "documentId": "invoice-b",
+              "completedAt": "2026-04-14T10:28:18.368Z",
+              "fieldValues": {
+                "companyName": "sadf",
+                "invoiceNumber": "",
+                "customerCode": "",
+                "date": "",
+                "totalAmount": "",
+                "taxAmount": "",
+                "address": "",
+                "phoneNumber": "",
+                "personInCharge": ""
+              },
+              "report": {
+                "rows": [
+                  {
+                    "key": "companyName",
+                    "expected": "株式会社みなとデータサービス",
+                    "entered": "sadf",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  },
+                  {
+                    "key": "invoiceNumber",
+                    "expected": "SL-88-203",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "customerCode",
+                    "expected": "TK-2047",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "date",
+                    "expected": "2026/05/02",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "totalAmount",
+                    "expected": "87,450円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "taxAmount",
+                    "expected": "7,950円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "address",
+                    "expected": "大阪府大阪市北区梅田2-4-9",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "phoneNumber",
+                    "expected": "06-6123-4400",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "personInCharge",
+                    "expected": "田中美",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  }
+                ],
+                "correctCount": 0,
+                "total": 9,
+                "accuracyPercent": 0,
+                "missingFields": [
+                  "invoiceNumber",
+                  "customerCode",
+                  "date",
+                  "totalAmount",
+                  "taxAmount",
+                  "address",
+                  "phoneNumber",
+                  "personInCharge"
+                ],
+                "formatWarnings": []
+              },
+              "taskScore": 0
+            }
+          ]
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Japanese Data Processing Specialist",
+      "japaneseLevel": "Unknown",
+      "fullTimeAvailability": true,
+      "availableStartDate": "2026-04-28",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-14T10:26:18.929Z"
+    }
+  },
+  {
+    "id": "sub-1776162667384",
+    "sessionId": "session-1776162537528-1851",
+    "candidateId": "cand-cv-daovanson-nontech-47490",
+    "jobId": "JD-5678",
+    "submittedAt": "2026-04-14T10:31:07.384Z",
+    "questionSet": {
+      "version": "v2-2026-04-14",
+      "generatedAt": "2026-04-14T10:28:57.528Z",
+      "japaneseQa": {
+        "title": "Basic Japanese work response",
+        "introduction": "Answer one short Japanese prompt at a time. Each answer is fixed or near-fixed so the system can check it clearly.",
+        "answerGuide": "Please answer exactly to the point. If a sentence is shown on screen, read it as written.",
+        "questions": [
+          {
+            "id": "qa-1",
+            "prompt": "画面に表示された氏名を、そのまま読んでください。",
+            "referenceText": "CV DaoVanSon Nontech",
+            "expectedKeywords": [
+              "CV",
+              "DaoVanSon",
+              "Nontech"
+            ]
+          },
+          {
+            "id": "qa-2",
+            "prompt": "応募職種を、そのまま読んでください。",
+            "referenceText": "Tester",
+            "expectedKeywords": [
+              "Tester"
+            ]
+          },
+          {
+            "id": "qa-3",
+            "prompt": "次の文をそのまま読んでください。",
+            "referenceText": "フルタイム勤務が可能です。",
+            "expectedKeywords": [
+              "フルタイム",
+              "勤務",
+              "可能"
+            ]
+          },
+          {
+            "id": "qa-4",
+            "prompt": "次の文をそのまま読んでください。",
+            "referenceText": "数字・日付・氏名を正確に確認して入力します。",
+            "expectedKeywords": [
+              "数字",
+              "日付",
+              "氏名",
+              "正確",
+              "入力"
+            ]
+          }
+        ]
+      },
+      "readingAloud": {
+        "title": "Japanese reading aloud",
+        "instruction": "Read each business passage aloud. Complete one passage before moving to the next.",
+        "items": [
+          {
+            "id": "read-c",
+            "title": "シフト案内",
+            "passageText": "来週から新しいシフトが開始されます。早番は8時30分開始、遅番は13時開始です。体調不良や遅刻の見込みがある場合は、開始30分前までに必ず連絡してください。",
+            "sourceType": "Work instruction"
+          },
+          {
+            "id": "read-b",
+            "title": "業務手順メモ",
+            "passageText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+            "sourceType": "Internal notice"
+          }
+        ]
+      },
+      "typing": {
+        "title": "Japanese typing test",
+        "instruction": "Complete one typing task at a time. Accuracy is more important than rushing.",
+        "tasks": [
+          {
+            "id": "typing-a",
+            "type": "copy-typing",
+            "title": "Kanji Copy 01",
+            "instruction": "Type the Japanese text exactly as shown.",
+            "sourceText": "本日の確認対象は顧客情報一覧です。氏名、住所、電話番号、登録日を正確に入力し、重複データがあれば備考欄に記録してください。"
+          },
+          {
+            "id": "typing-form-1",
+            "type": "structured-form",
+            "title": "Structured form input",
+            "instruction": "Read the source note and enter each value into the correct field.",
+            "sourceText": "会社名: 東和ビジネスサービス\n担当者: 鈴木一郎\n電話番号: 03-6811-2205\nメール: support@towa-biz.jp\n参照番号: REF-22018",
+            "fields": [
+              {
+                "key": "companyName",
+                "label": "Company Name",
+                "expectedValue": "東和ビジネスサービス"
+              },
+              {
+                "key": "contactPerson",
+                "label": "Contact Person",
+                "expectedValue": "鈴木一郎"
+              },
+              {
+                "key": "phoneNumber",
+                "label": "Phone Number",
+                "expectedValue": "03-6811-2205"
+              },
+              {
+                "key": "email",
+                "label": "Email",
+                "expectedValue": "support@towa-biz.jp"
+              },
+              {
+                "key": "referenceCode",
+                "label": "Reference Code",
+                "expectedValue": "REF-22018"
+              }
+            ]
+          }
+        ]
+      },
+      "dataTask": {
+        "title": "Information extraction from business documents",
+        "instruction": "Review each Japanese invoice or business document and extract the requested fields accurately.",
+        "documents": [
+          {
+            "id": "invoice-a",
+            "title": "請求書 A",
+            "instruction": "請求書を確認し、指定された項目をフォームに入力してください。",
+            "documentText": "株式会社青空商事\n請求番号: INV-2026-0418\n得意先コード: C-1182\n発行日: 2026/04/18\n合計金額: 154,000円\n消費税: 14,000円\n住所: 東京都千代田区丸の内1-8-2\n電話番号: 03-5561-8821\n担当者: 佐藤恵",
+            "expectedFields": {
+              "companyName": "株式会社青空商事",
+              "invoiceNumber": "INV-2026-0418",
+              "customerCode": "C-1182",
+              "date": "2026/04/18",
+              "totalAmount": "154,000円",
+              "taxAmount": "14,000円",
+              "address": "東京都千代田区丸の内1-8-2",
+              "phoneNumber": "03-5561-8821",
+              "personInCharge": "佐藤恵"
+            }
+          },
+          {
+            "id": "invoice-b",
+            "title": "納品関連書類 B",
+            "instruction": "書類を確認し、各フィールドに正しい情報を入力してください。",
+            "documentText": "株式会社みなとデータサービス\n管理番号: SL-88-203\n顧客コード: TK-2047\n作成日: 2026/05/02\n請求総額: 87,450円\n税額: 7,950円\n所在地: 大阪府大阪市北区梅田2-4-9\n連絡先: 06-6123-4400\n担当: 田中美",
+            "expectedFields": {
+              "companyName": "株式会社みなとデータサービス",
+              "invoiceNumber": "SL-88-203",
+              "customerCode": "TK-2047",
+              "date": "2026/05/02",
+              "totalAmount": "87,450円",
+              "taxAmount": "7,950円",
+              "address": "大阪府大阪市北区梅田2-4-9",
+              "phoneNumber": "06-6123-4400",
+              "personInCharge": "田中美"
+            }
+          }
+        ]
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 3,
+          "responses": [
+            {
+              "itemId": "qa-1",
+              "prompt": "画面に表示された氏名を、そのまま読んでください。",
+              "referenceText": "CV DaoVanSon Nontech",
+              "durationSec": 0,
+              "recordedAt": "2026-04-14T10:29:26.305Z",
+              "recordingStatus": "captured",
+              "transcript": "ChatGPT",
+              "summary": "The spoken response 'ChatGPT' does not match the expected answer 'CV DaoVanSon Nontech'.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 1,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-2",
+              "prompt": "応募職種を、そのまま読んでください。",
+              "referenceText": "Tester",
+              "durationSec": 4,
+              "recordedAt": "2026-04-14T10:29:38.648Z",
+              "recordingStatus": "captured",
+              "transcript": "我想把它打破了。",
+              "summary": "The response does not match the expected answer 'Tester' and is not in Japanese. It is a Chinese sentence meaning 'I want to break it.'",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 2,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-3",
+              "prompt": "次の文をそのまま読んでください。",
+              "referenceText": "フルタイム勤務が可能です。",
+              "durationSec": 5,
+              "recordedAt": "2026-04-14T10:29:49.520Z",
+              "recordingStatus": "captured",
+              "transcript": "本日。",
+              "summary": "The response '本日。' does not match the expected answer and does not include any of the expected keywords.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 1,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-4",
+              "prompt": "次の文をそのまま読んでください。",
+              "referenceText": "数字・日付・氏名を正確に確認して入力します。",
+              "durationSec": 2,
+              "recordedAt": "2026-04-14T10:29:59.743Z",
+              "recordingStatus": "captured",
+              "transcript": "これはいい。",
+              "summary": "The response does not match the expected answer and lacks the required keywords. It is a short phrase unrelated to the prompt.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 1,
+              "clarity": 5,
+              "keywordCoverage": 0
+            }
+          ]
+        }
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "responses": [
+            {
+              "itemId": "read-c",
+              "prompt": "シフト案内",
+              "referenceText": "来週から新しいシフトが開始されます。早番は8時30分開始、遅番は13時開始です。体調不良や遅刻の見込みがある場合は、開始30分前までに必ず連絡してください。",
+              "durationSec": 0,
+              "recordedAt": "2026-04-14T10:30:19.959Z",
+              "recordingStatus": "captured",
+              "transcript": "All right.",
+              "summary": "The transcript does not contain any of the source passage content. The reading was not performed as the transcript only says 'All right.'",
+              "aiScore": 1,
+              "accuracyScore": 0,
+              "fluencyScore": 1,
+              "omissionRate": 1,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": null,
+              "clarity": null,
+              "keywordCoverage": null
+            },
+            {
+              "itemId": "read-b",
+              "prompt": "業務手順メモ",
+              "referenceText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+              "durationSec": 3,
+              "recordedAt": "2026-04-14T10:30:31.935Z",
+              "recordingStatus": "captured",
+              "transcript": "一關係。",
+              "summary": "The transcript contains only a single unrelated word and does not reflect the source passage. The reading is mostly omitted with no meaningful accuracy or fluency.",
+              "aiScore": 1,
+              "accuracyScore": 1,
+              "fluencyScore": 2,
+              "omissionRate": 1,
+              "majorMisreadings": [
+                "一關係"
+              ],
+              "matchedPhrases": [],
+              "correctness": null,
+              "clarity": null,
+              "keywordCoverage": null
+            }
+          ]
+        }
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "tasks": [
+            {
+              "taskId": "typing-a",
+              "type": "copy-typing",
+              "completedAt": "2026-04-14T10:30:41.683Z",
+              "inputText": "sadvsvdaadfvdfsgawerfsadfsdvsdvsavdvasdfgvfdbgfgbfgnbgdbd vhjbshjvbsadjvbashdbvadsi",
+              "sourceText": "本日の確認対象は顧客情報一覧です。氏名、住所、電話番号、登録日を正確に入力し、重複データがあれば備考欄に記録してください。",
+              "accuracyPercent": 0,
+              "completenessPercent": 100,
+              "cpm": 830,
+              "charactersTyped": 83,
+              "corrections": 0,
+              "pasteAttempts": 0,
+              "elapsedSec": 6,
+              "taskScore": 35
+            },
+            {
+              "taskId": "typing-form-1",
+              "type": "structured-form",
+              "completedAt": "2026-04-14T10:30:51.193Z",
+              "fieldValues": {
+                "contactPerson": "dsvfasd",
+                "phoneNumber": "sdaffasdfasdf",
+                "referenceCode": "d"
+              },
+              "accuracyPercent": 0,
+              "cpm": 180,
+              "corrections": 0,
+              "pasteAttempts": 0,
+              "elapsedSec": 7,
+              "taskScore": 20
+            }
+          ]
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "tasks": [
+            {
+              "documentId": "invoice-a",
+              "completedAt": "2026-04-14T10:30:59.877Z",
+              "fieldValues": {
+                "companyName": "",
+                "invoiceNumber": "",
+                "customerCode": "d",
+                "date": "",
+                "totalAmount": "",
+                "taxAmount": "",
+                "address": "",
+                "phoneNumber": "",
+                "personInCharge": "dsdfsdfwefwqefasdfsd"
+              },
+              "report": {
+                "rows": [
+                  {
+                    "key": "companyName",
+                    "expected": "株式会社青空商事",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "invoiceNumber",
+                    "expected": "INV-2026-0418",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "customerCode",
+                    "expected": "C-1182",
+                    "entered": "d",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  },
+                  {
+                    "key": "date",
+                    "expected": "2026/04/18",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "totalAmount",
+                    "expected": "154,000円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "taxAmount",
+                    "expected": "14,000円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "address",
+                    "expected": "東京都千代田区丸の内1-8-2",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "phoneNumber",
+                    "expected": "03-5561-8821",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "personInCharge",
+                    "expected": "佐藤恵",
+                    "entered": "dsdfsdfwefwqefasdfsd",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  }
+                ],
+                "correctCount": 0,
+                "total": 9,
+                "accuracyPercent": 0,
+                "missingFields": [
+                  "companyName",
+                  "invoiceNumber",
+                  "date",
+                  "totalAmount",
+                  "taxAmount",
+                  "address",
+                  "phoneNumber"
+                ],
+                "formatWarnings": []
+              },
+              "taskScore": 0
+            },
+            {
+              "documentId": "invoice-b",
+              "completedAt": "2026-04-14T10:31:03.392Z",
+              "fieldValues": {
+                "companyName": "",
+                "invoiceNumber": "",
+                "customerCode": "",
+                "date": "",
+                "totalAmount": "",
+                "taxAmount": "",
+                "address": "",
+                "phoneNumber": "sadfsdfasdfsadfsdfsadfsadf",
+                "personInCharge": ""
+              },
+              "report": {
+                "rows": [
+                  {
+                    "key": "companyName",
+                    "expected": "株式会社みなとデータサービス",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "invoiceNumber",
+                    "expected": "SL-88-203",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "customerCode",
+                    "expected": "TK-2047",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "date",
+                    "expected": "2026/05/02",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "totalAmount",
+                    "expected": "87,450円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "taxAmount",
+                    "expected": "7,950円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "address",
+                    "expected": "大阪府大阪市北区梅田2-4-9",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "phoneNumber",
+                    "expected": "06-6123-4400",
+                    "entered": "sadfsdfasdfsadfsdfsadfsadf",
+                    "correct": false,
+                    "formatStatus": "format_warning"
+                  },
+                  {
+                    "key": "personInCharge",
+                    "expected": "田中美",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  }
+                ],
+                "correctCount": 0,
+                "total": 9,
+                "accuracyPercent": 0,
+                "missingFields": [
+                  "companyName",
+                  "invoiceNumber",
+                  "customerCode",
+                  "date",
+                  "totalAmount",
+                  "taxAmount",
+                  "address",
+                  "personInCharge"
+                ],
+                "formatWarnings": [
+                  "phoneNumber"
+                ]
+              },
+              "taskScore": 0
+            }
+          ]
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Tester",
+      "japaneseLevel": "JLPT N3 trở lên",
+      "fullTimeAvailability": true,
+      "availableStartDate": "",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-14T10:29:17.073Z"
+    }
+  },
+  {
+    "id": "sub-1776184827804",
+    "sessionId": "session-1776184237646-743",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "submittedAt": "2026-04-14T16:40:27.804Z",
+    "questionSet": {
+      "version": "v2-2026-04-14",
+      "generatedAt": "2026-04-14T16:30:37.647Z",
+      "japaneseQa": {
+        "title": "Basic Japanese work response",
+        "introduction": "Answer one short Japanese prompt at a time. Each answer is fixed or near-fixed so the system can check it clearly.",
+        "answerGuide": "Please answer exactly to the point. If a sentence is shown on screen, read it as written.",
+        "questions": [
+          {
+            "id": "qa-1",
+            "prompt": "画面に表示された氏名を、そのまま読んでください。",
+            "referenceText": "Akira Yoshi",
+            "expectedKeywords": [
+              "Akira",
+              "Yoshi"
+            ]
+          },
+          {
+            "id": "qa-2",
+            "prompt": "応募職種を、そのまま読んでください。",
+            "referenceText": "Japanese Data Processing Specialist",
+            "expectedKeywords": [
+              "Japanese",
+              "Data",
+              "Processing",
+              "Specialist"
+            ]
+          },
+          {
+            "id": "qa-3",
+            "prompt": "次の文をそのまま読んでください。",
+            "referenceText": "フルタイム勤務が可能です。",
+            "expectedKeywords": [
+              "フルタイム",
+              "勤務",
+              "可能"
+            ]
+          },
+          {
+            "id": "qa-4",
+            "prompt": "次の文をそのまま読んでください。",
+            "referenceText": "数字・日付・氏名を正確に確認して入力します。",
+            "expectedKeywords": [
+              "数字",
+              "日付",
+              "氏名",
+              "正確",
+              "入力"
+            ]
+          }
+        ]
+      },
+      "readingAloud": {
+        "title": "Japanese reading aloud",
+        "instruction": "Read each business passage aloud. Complete one passage before moving to the next.",
+        "items": [
+          {
+            "id": "read-b",
+            "title": "業務手順メモ",
+            "passageText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+            "sourceType": "Work instruction"
+          },
+          {
+            "id": "read-a",
+            "title": "社内連絡メール",
+            "passageText": "本日16時までに、4月分の受注データを確認してください。重複レコードが見つかった場合は、備考欄に理由を記入し、担当者へ共有してください。完了後、チェックシートを更新してから退勤してください。",
+            "sourceType": "Internal notice"
+          }
+        ]
+      },
+      "typing": {
+        "title": "Japanese typing test",
+        "instruction": "Complete one typing task at a time. Accuracy is more important than rushing.",
+        "tasks": [
+          {
+            "id": "typing-b",
+            "type": "copy-typing",
+            "title": "Kanji Copy 02",
+            "instruction": "Type the Japanese text exactly as shown.",
+            "sourceText": "受注管理システムへ入力する際は、注文番号、商品名、数量、出荷予定日を順番どおりに登録し、入力後に必ず再確認を行ってください。"
+          },
+          {
+            "id": "typing-form-1",
+            "type": "structured-form",
+            "title": "Structured form input",
+            "instruction": "Read the source note and enter each value into the correct field.",
+            "sourceText": "会社名: 東和ビジネスサービス\n担当者: 鈴木一郎\n電話番号: 03-6811-2205\nメール: support@towa-biz.jp\n参照番号: REF-22018",
+            "fields": [
+              {
+                "key": "companyName",
+                "label": "Company Name",
+                "expectedValue": "東和ビジネスサービス"
+              },
+              {
+                "key": "contactPerson",
+                "label": "Contact Person",
+                "expectedValue": "鈴木一郎"
+              },
+              {
+                "key": "phoneNumber",
+                "label": "Phone Number",
+                "expectedValue": "03-6811-2205"
+              },
+              {
+                "key": "email",
+                "label": "Email",
+                "expectedValue": "support@towa-biz.jp"
+              },
+              {
+                "key": "referenceCode",
+                "label": "Reference Code",
+                "expectedValue": "REF-22018"
+              }
+            ]
+          }
+        ]
+      },
+      "dataTask": {
+        "title": "Information extraction from business documents",
+        "instruction": "Review each Japanese invoice or business document and extract the requested fields accurately.",
+        "documents": [
+          {
+            "id": "invoice-a",
+            "title": "請求書 A",
+            "instruction": "請求書を確認し、指定された項目をフォームに入力してください。",
+            "documentText": "株式会社青空商事\n請求番号: INV-2026-0418\n得意先コード: C-1182\n発行日: 2026/04/18\n合計金額: 154,000円\n消費税: 14,000円\n住所: 東京都千代田区丸の内1-8-2\n電話番号: 03-5561-8821\n担当者: 佐藤恵",
+            "expectedFields": {
+              "companyName": "株式会社青空商事",
+              "invoiceNumber": "INV-2026-0418",
+              "customerCode": "C-1182",
+              "date": "2026/04/18",
+              "totalAmount": "154,000円",
+              "taxAmount": "14,000円",
+              "address": "東京都千代田区丸の内1-8-2",
+              "phoneNumber": "03-5561-8821",
+              "personInCharge": "佐藤恵"
+            }
+          },
+          {
+            "id": "invoice-b",
+            "title": "納品関連書類 B",
+            "instruction": "書類を確認し、各フィールドに正しい情報を入力してください。",
+            "documentText": "株式会社みなとデータサービス\n管理番号: SL-88-203\n顧客コード: TK-2047\n作成日: 2026/05/02\n請求総額: 87,450円\n税額: 7,950円\n所在地: 大阪府大阪市北区梅田2-4-9\n連絡先: 06-6123-4400\n担当: 田中美",
+            "expectedFields": {
+              "companyName": "株式会社みなとデータサービス",
+              "invoiceNumber": "SL-88-203",
+              "customerCode": "TK-2047",
+              "date": "2026/05/02",
+              "totalAmount": "87,450円",
+              "taxAmount": "7,950円",
+              "address": "大阪府大阪市北区梅田2-4-9",
+              "phoneNumber": "06-6123-4400",
+              "personInCharge": "田中美"
+            }
+          }
+        ]
+      }
+    },
+    "sectionResults": {
+      "japanese-qa": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 3,
+          "responses": [
+            {
+              "itemId": "qa-1",
+              "prompt": "画面に表示された氏名を、そのまま読んでください。",
+              "referenceText": "Akira Yoshi",
+              "durationSec": 6,
+              "recordedAt": "2026-04-14T16:38:25.800Z",
+              "recordingStatus": "captured",
+              "transcript": "Xin chào.",
+              "summary": "The response 'Xin chào' does not match the expected answer 'Akira Yoshi' and is unrelated to the prompt asking to read the displayed name.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 1,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-2",
+              "prompt": "応募職種を、そのまま読んでください。",
+              "referenceText": "Japanese Data Processing Specialist",
+              "durationSec": 4,
+              "recordedAt": "2026-04-14T16:38:43.894Z",
+              "recordingStatus": "captured",
+              "transcript": "ベイベイベイベイベー",
+              "summary": "The response does not match the expected answer and is not understandable as a job title.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 0,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-3",
+              "prompt": "次の文をそのまま読んでください。",
+              "referenceText": "フルタイム勤務が可能です。",
+              "durationSec": 8,
+              "recordedAt": "2026-04-14T16:39:00.718Z",
+              "recordingStatus": "captured",
+              "transcript": "フルタマギムガキョノです。",
+              "summary": "The response is largely unintelligible and does not match the expected answer. The expected phrase 'フルタイム勤務が可能です。' was not clearly spoken.",
+              "aiScore": 1,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": 0,
+              "clarity": 0,
+              "keywordCoverage": 0
+            },
+            {
+              "itemId": "qa-4",
+              "prompt": "次の文をそのまま読んでください。",
+              "referenceText": "数字・日付・氏名を正確に確認して入力します。",
+              "durationSec": 5,
+              "recordedAt": "2026-04-14T16:39:12.775Z",
+              "recordingStatus": "captured",
+              "transcript": "フィーニキーを確認して、入力して。",
+              "summary": "The response partially matches the expected answer but misses key elements such as '数字', '日付', and '氏名'. The phrase 'フィーニキーを確認して、入力して' is somewhat unclear and does not fully convey the instruction to accurately check numbers, dates, and names before inputting.",
+              "aiScore": 2,
+              "accuracyScore": null,
+              "fluencyScore": null,
+              "omissionRate": null,
+              "majorMisreadings": [],
+              "matchedPhrases": [
+                "確認して",
+                "入力して"
+              ],
+              "correctness": 2,
+              "clarity": 2,
+              "keywordCoverage": 1
+            }
+          ]
+        }
+      },
+      "reading-aloud": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "responses": [
+            {
+              "itemId": "read-b",
+              "prompt": "業務手順メモ",
+              "referenceText": "顧客情報を登録する前に、氏名・生年月日・電話番号の3項目を必ず照合してください。入力後はステータスを「確認済み」に変更し、誤入力がある場合は修正ログを残してください。",
+              "durationSec": 9,
+              "recordedAt": "2026-04-14T16:39:31.716Z",
+              "recordingStatus": "captured",
+              "transcript": "Не-не-не-не-не-не-не.",
+              "summary": "The transcript does not contain any of the source text content, consisting only of repeated 'не' sounds. There is no accurate reading of the passage, resulting in complete omission of the text. Fluency is minimal as the utterance is not meaningful Japanese reading.",
+              "aiScore": 1,
+              "accuracyScore": 0,
+              "fluencyScore": 1,
+              "omissionRate": 1,
+              "majorMisreadings": [],
+              "matchedPhrases": [],
+              "correctness": null,
+              "clarity": null,
+              "keywordCoverage": null
+            },
+            {
+              "itemId": "read-a",
+              "prompt": "社内連絡メール",
+              "referenceText": "本日16時までに、4月分の受注データを確認してください。重複レコードが見つかった場合は、備考欄に理由を記入し、担当者へ共有してください。完了後、チェックシートを更新してから退勤してください。",
+              "durationSec": 9,
+              "recordedAt": "2026-04-14T16:39:44.743Z",
+              "recordingStatus": "captured",
+              "transcript": "Hey, people, I wanna go.",
+              "summary": "The transcript does not match the source passage at all. The reading is completely inaccurate with no correct content from the original text. Fluency cannot be properly evaluated as the transcript is unrelated.",
+              "aiScore": 1,
+              "accuracyScore": 0,
+              "fluencyScore": 1,
+              "omissionRate": 1,
+              "majorMisreadings": [
+                "The entire content is incorrect and unrelated to the source passage."
+              ],
+              "matchedPhrases": [],
+              "correctness": null,
+              "clarity": null,
+              "keywordCoverage": null
+            }
+          ]
+        }
+      },
+      "typing": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "tasks": [
+            {
+              "taskId": "typing-b",
+              "type": "copy-typing",
+              "completedAt": "2026-04-14T16:39:52.397Z",
+              "inputText": "dfgdfsg",
+              "sourceText": "受注管理システムへ入力する際は、注文番号、商品名、数量、出荷予定日を順番どおりに登録し、入力後に必ず再確認を行ってください。",
+              "accuracyPercent": 0,
+              "completenessPercent": 11,
+              "cpm": 420,
+              "charactersTyped": 7,
+              "corrections": 0,
+              "pasteAttempts": 0,
+              "elapsedSec": 1,
+              "taskScore": 17
+            },
+            {
+              "taskId": "typing-form-1",
+              "type": "structured-form",
+              "completedAt": "2026-04-14T16:40:04.745Z",
+              "fieldValues": {
+                "companyName": "dfg",
+                "contactPerson": "dfgdsfg",
+                "phoneNumber": "sdfgdsfg",
+                "email": "dfg",
+                "referenceCode": "jh"
+              },
+              "accuracyPercent": 0,
+              "cpm": 138,
+              "corrections": 0,
+              "pasteAttempts": 0,
+              "elapsedSec": 10,
+              "taskScore": 15
+            }
+          ]
+        }
+      },
+      "data-task": {
+        "completed": true,
+        "media": null,
+        "answer": {
+          "currentIndex": 1,
+          "tasks": [
+            {
+              "documentId": "invoice-a",
+              "completedAt": "2026-04-14T16:40:16.215Z",
+              "fieldValues": {
+                "companyName": "",
+                "invoiceNumber": "j",
+                "customerCode": "",
+                "date": "",
+                "totalAmount": "",
+                "taxAmount": "",
+                "address": "",
+                "phoneNumber": "",
+                "personInCharge": ""
+              },
+              "report": {
+                "rows": [
+                  {
+                    "key": "companyName",
+                    "expected": "株式会社青空商事",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "invoiceNumber",
+                    "expected": "INV-2026-0418",
+                    "entered": "j",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  },
+                  {
+                    "key": "customerCode",
+                    "expected": "C-1182",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "date",
+                    "expected": "2026/04/18",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "totalAmount",
+                    "expected": "154,000円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "taxAmount",
+                    "expected": "14,000円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "address",
+                    "expected": "東京都千代田区丸の内1-8-2",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "phoneNumber",
+                    "expected": "03-5561-8821",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "personInCharge",
+                    "expected": "佐藤恵",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  }
+                ],
+                "correctCount": 0,
+                "total": 9,
+                "accuracyPercent": 0,
+                "missingFields": [
+                  "companyName",
+                  "customerCode",
+                  "date",
+                  "totalAmount",
+                  "taxAmount",
+                  "address",
+                  "phoneNumber",
+                  "personInCharge"
+                ],
+                "formatWarnings": []
+              },
+              "taskScore": 0
+            },
+            {
+              "documentId": "invoice-b",
+              "completedAt": "2026-04-14T16:40:23.646Z",
+              "fieldValues": {
+                "companyName": "",
+                "invoiceNumber": "",
+                "customerCode": "",
+                "date": "",
+                "totalAmount": "",
+                "taxAmount": "",
+                "address": "",
+                "phoneNumber": "",
+                "personInCharge": "jl"
+              },
+              "report": {
+                "rows": [
+                  {
+                    "key": "companyName",
+                    "expected": "株式会社みなとデータサービス",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "invoiceNumber",
+                    "expected": "SL-88-203",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "customerCode",
+                    "expected": "TK-2047",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "date",
+                    "expected": "2026/05/02",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "totalAmount",
+                    "expected": "87,450円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "taxAmount",
+                    "expected": "7,950円",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "address",
+                    "expected": "大阪府大阪市北区梅田2-4-9",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "phoneNumber",
+                    "expected": "06-6123-4400",
+                    "entered": "",
+                    "correct": false,
+                    "formatStatus": "missing"
+                  },
+                  {
+                    "key": "personInCharge",
+                    "expected": "田中美",
+                    "entered": "jl",
+                    "correct": false,
+                    "formatStatus": "ok"
+                  }
+                ],
+                "correctCount": 0,
+                "total": 9,
+                "accuracyPercent": 0,
+                "missingFields": [
+                  "companyName",
+                  "invoiceNumber",
+                  "customerCode",
+                  "date",
+                  "totalAmount",
+                  "taxAmount",
+                  "address",
+                  "phoneNumber"
+                ],
+                "formatWarnings": []
+              },
+              "taskScore": 0
+            }
+          ]
+        }
+      }
+    },
+    "candidateConfirmation": {
+      "appliedRole": "Japanese Data Processing Specialist",
+      "japaneseLevel": "Unknown",
+      "fullTimeAvailability": true,
+      "availableStartDate": "2026-04-28",
+      "shiftFit": "",
+      "reportIncorrectInfo": "",
+      "confirmAcknowledged": true,
+      "savedAt": "2026-04-14T16:37:57.653Z"
+    }
+  }
+]

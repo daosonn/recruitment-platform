@@ -1,0 +1,948 @@
+[
+  {
+    "id": "cand-sato",
+    "jobId": "JD-9921",
+    "name": "Sato Noboru",
+    "role": "Japanese Data Processing Specialist",
+    "stage": "assessment_invited",
+    "recommendation": "Reject",
+    "risk": "Low Risk",
+    "email": "sato.noboru@example.com",
+    "phone": "+84 90 234 7788",
+    "japaneseLevel": "Unknown",
+    "startDate": "2026-05-05",
+    "summary": "AI parsed summary unavailable.",
+    "cvSummary": "AI parsed summary unavailable.",
+    "matchScore": 56,
+    "cvFilePath": null,
+    "cvTextSnapshot": "",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "Unknown"
+      ],
+      [
+        "Full-time availability",
+        "No/Unclear"
+      ],
+      [
+        "Experience",
+        []
+      ]
+    ],
+    "recruiterNotes": [
+      "Candidate may need clarification on shift flexibility.",
+      "Excel evidence is strong and verifiable from CV bullets."
+    ],
+    "activity": [
+      {
+        "title": "CV imported from TopCV",
+        "time": "2026-04-10 09:14"
+      },
+      {
+        "title": "Parsed fields manually corrected",
+        "time": "2026-04-10 10:03"
+      },
+      {
+        "title": "Assessment invitation sent",
+        "time": "2026-04-11 08:30"
+      },
+      {
+        "title": "Assessment completed",
+        "time": "2026-04-11 14:42"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file",
+      "Parsed CV data snapshot",
+      "Assessment attempt history",
+      "Transcript and audio/video evidence",
+      "Score history and recruiter notes"
+    ],
+    "matching": {
+      "hardCriteria": "Yêu cầu bắt buộc: N2+, full-time, có kỹ năng máy tính cơ bản và có thể làm tại Hà Nội.",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N2-N1)",
+          "Unknown",
+          "missing"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "No clear evidence",
+          "missing"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": [
+        {
+          "label": "Japanese Fit",
+          "ai": "94",
+          "hr": "94",
+          "final": "94"
+        },
+        {
+          "label": "Experience Fit",
+          "ai": "89",
+          "hr": "91",
+          "final": "91"
+        },
+        {
+          "label": "Computer Skills Fit",
+          "ai": "92",
+          "hr": "92",
+          "final": "92"
+        },
+        {
+          "label": "Work Condition Fit",
+          "ai": "74",
+          "hr": "78",
+          "final": "78"
+        }
+      ]
+    },
+    "attemptId": "attempt-akari"
+  },
+  {
+    "id": "cand-minh",
+    "jobId": "JD-9921",
+    "name": "Minh Tran",
+    "role": "Japanese Data Processing Specialist",
+    "stage": "assessment_invited",
+    "recommendation": "Reject",
+    "risk": "Low Risk",
+    "email": "minh.tran@example.com",
+    "phone": "+84 93 999 1234",
+    "japaneseLevel": "Unknown",
+    "startDate": "2026-05-20",
+    "summary": "AI parsed summary unavailable.",
+    "cvSummary": "AI parsed summary unavailable.",
+    "matchScore": 56,
+    "cvFilePath": null,
+    "cvTextSnapshot": "",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "Unknown"
+      ],
+      [
+        "Full-time availability",
+        "No/Unclear"
+      ],
+      [
+        "Experience",
+        []
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [],
+    "storedRecords": [
+      "Original CV file"
+    ],
+    "matching": {
+      "hardCriteria": "Yêu cầu bắt buộc: N2+, full-time, có kỹ năng máy tính cơ bản và có thể làm tại Hà Nội.",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N2-N1)",
+          "Unknown",
+          "missing"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "No clear evidence",
+          "missing"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": null
+  },
+  {
+    "id": "cand-akira",
+    "jobId": "JD-9921",
+    "name": "Akira Yoshi",
+    "role": "Japanese Data Processing Specialist",
+    "stage": "assessment_completed",
+    "recommendation": "Reject",
+    "risk": "Medium Risk",
+    "email": "akira.yoshi@example.com",
+    "phone": "+84 91 111 3322",
+    "japaneseLevel": "Unknown",
+    "startDate": "2026-04-28",
+    "summary": "AI parsed summary unavailable.",
+    "cvSummary": "AI parsed summary unavailable.",
+    "matchScore": 56,
+    "cvFilePath": null,
+    "cvTextSnapshot": "",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "Unknown"
+      ],
+      [
+        "Full-time availability",
+        "No/Unclear"
+      ],
+      [
+        "Experience",
+        []
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-13T05:01:26.016Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-13T09:47:03.183Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-14T03:14:44.008Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-14T08:50:07.679Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-14T10:07:31.802Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-14T10:28:21.227Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-14T16:40:27.805Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file"
+    ],
+    "matching": {
+      "hardCriteria": "Yêu cầu bắt buộc: N2+, full-time, có kỹ năng máy tính cơ bản và có thể làm tại Hà Nội.",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N2-N1)",
+          "Unknown",
+          "missing"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "No clear evidence",
+          "missing"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": "attempt-akira-yoshi-1776056486016"
+  },
+  {
+    "id": "cand-tmp-cv-test-97231",
+    "jobId": "JD-5678",
+    "name": "Tmp Cv Test",
+    "role": "Tester",
+    "stage": "abandoned",
+    "recommendation": "Recommended to Proceed",
+    "risk": "Low Risk",
+    "email": "tmp-cv-test@example.com",
+    "phone": "",
+    "japaneseLevel": "N2",
+    "startDate": "",
+    "summary": "Experienced in data entry with proficiency in Excel and Japanese language skills at N2 level. Seeking full-time position in Ha Noi.",
+    "cvSummary": "Experienced in data entry with proficiency in Excel and Japanese language skills at N2 level. Seeking full-time position in Ha Noi.",
+    "matchScore": 96,
+    "cvFilePath": "/storage/cvs/JD-5678/cand-tmp-cv-test-97231/1776050671668-28381.pdf",
+    "cvTextSnapshot": "CV Dao Van Son N2 Excel full-time Ha Noi data entry",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "N2"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Location",
+        "Ha Noi"
+      ],
+      [
+        "Skills",
+        "Excel, Data entry, Japanese N2"
+      ],
+      [
+        "Experience",
+        "Data entry work with Japanese language proficiency at N2 level."
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:24:33.869Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "Chi tiết tin tuyển dụng\nYêu cầu:\nKhông yêu cầu kinh nghiệm\nTrung cấp trở lên\nTuổi 20 - 40\nTiếng Nhật JLPT N3\nTiếng Nhật JLPT N2\nXem chi tiết Yêu cầu\nQuyền lợi:\nNghỉ thứ 7\nBảo hiểm xã hội\nBảo hiểm sức khỏe\nXem chi tiết Quyền lợi\nChuyên môn:\nBiên phiên dịch tiếng Nhật\nGiáo dục / Đào tạo\nNhân sự\nTài chính\nMô tả công việc\nNhập thông tin từ dữ liệu được cung cấp lên trên excel hoặc hệ thống của khách hàng chỉ định;\nXử lý và gia công dữ liệu theo quy trình được đào tạo;\nBáo cáo tiến độ công việc/sự cố phát sinh cho Quản lý;\nYêu cầu ứng viên\nTrình độ tiếng Nhật tương đương N3 trở lên (có bằng JLPT là lợi thế);\nThao tác đánh máy nhanh và chính xác;\nLàm việc được ngày Lễ và Tết âm lịch Việt Nam (Nghỉ theo Lễ Nhật);\nQuyền lợi\nLương tổng 8.300.000 VNĐ – 11.000.000 VNĐ/tháng tùy theo năng lực bao gồm: LCB + Phụ cấp tiếng Nhật + Thưởng hiệu suất;\nHưởng lương tháng 13 theo quy định Công ty;\nReview lương hàng năm theo năng lực;\nLàm việc ngày Lễ, Tết Việt Nam hưởng lương theo Luật Lao động Việt Nam;\nĐược tham gia BHXH, BHYT, BHTN theo Luật\nHưởng chế độ 14 ngày phép/năm theo quy định Công ty;\nTham gia Công đoàn hưởng các chế độ ngày Lễ, Tết, sinh nhật, kết hôn, thăm hỏi,...\nMôi trường làm việc thân thiện, chuyên nghiệp;\nĐược trang bị máy tính hiện đại phục vụ công việc;\nCơ hội được đào tạo nâng cao, thăng tiến trong công việc;\nThiết bị làm việc\nĐược cấp Máy tính\nQuyền lợi\nBảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13\nĐịa điểm làm việc (đã được cập nhật theo Danh mục Hành chính mới - thêm quận/huyện cũ tương ứng để dễ dàng tra cứu)\n- Hà Nội: Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy (quận Cầu Giấy cũ)\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)\nThứ 2 - Thứ 6 (từ 07:00 đến 16:00)",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N3+)",
+          "N2",
+          "matched"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "Evidence found",
+          "matched"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Evidence found",
+          "matched"
+        ]
+      ],
+      "standoutStrengths": [
+        "Excel proficiency highlighted in CV.",
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": null
+  },
+  {
+    "id": "cand-cv-daovanson-19962",
+    "jobId": "JD-5678",
+    "name": "CV DaoVanSon",
+    "role": "Tester",
+    "stage": "assessment_completed",
+    "recommendation": "Recommended to Proceed",
+    "risk": "Low Risk",
+    "email": "cv-daovanson@example.com",
+    "phone": "",
+    "japaneseLevel": "JLPT N3",
+    "startDate": "",
+    "summary": "Ứng viên có trình độ tiếng Nhật tương đương JLPT N3 trở lên, có khả năng nhập thông tin và xử lý dữ liệu trên Excel hoặc hệ thống khách hàng chỉ định. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc ngày Lễ và Tết âm lịch Việt Nam. Mong muốn làm việc tại Hà Nội với môi trường thân thiện, chuyên nghiệp và có cơ hội đào tạo, thăng tiến.",
+    "cvSummary": "Ứng viên có trình độ tiếng Nhật tương đương JLPT N3 trở lên, có khả năng nhập thông tin và xử lý dữ liệu trên Excel hoặc hệ thống khách hàng chỉ định. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc ngày Lễ và Tết âm lịch Việt Nam. Mong muốn làm việc tại Hà Nội với môi trường thân thiện, chuyên nghiệp và có cơ hội đào tạo, thăng tiến.",
+    "matchScore": 86,
+    "cvFilePath": "/storage/cvs/JD-5678/cand-cv-daovanson-19962/1776050822619-30237.pdf",
+    "cvTextSnapshot": "%PDF-1.7 %���� 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en) /StructTreeRoot 52 0 R/MarkInfo<</Marked true>>/Metadata 353 0 R/ViewerPreferences 354 0 R>> endobj 2 0 obj <</Type/Pages/Count 4/Kids[ 3 0 R 31 0 R 35 0 R 43 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</ExtGState<</GS5 5 0 R/GS8 8 0 R>>/Font<</F1 6 0 R/F2 10 0 R/F3 12 0 R/F4 17 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 9 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 4401>> stream x��]mo�F\u0012�n���� �W3�Nn�(�I�6mҤ�����\u0007Ŗm6\u0012�J�S\u0003��of)9�����/�\u0014Zo������\u000e�G��o�y����������'٣�mv1��\u0013���^!rk3gTnTf�/o3��2����ο��ˎ^>ɲ{�#���~��2�;~S}�MY��\u0016��Y�ҭ��jT�}_?z1�/���>x{<\\��\u001f�H.�\u0007:D���*�Я_f������G�d��s&;9�ߓ�9��+�̍\u0007zL.��rL`���\b}�������O��d'?��\u001d�O���� �(��u�%T�\bT�\\�8Pv \u001fw��NN\u001b<=|Ň��ˍ} ���[�Ӣ��C��Ӆ�\u001d\u0001��]l �~KX�u����5�+]�� �~\u001a\u001e���� .�Q�\u001f��d�\u0006���\u0019|� �\u001e|�/_��5<.����c�L�u�6�T�^`�\u0013D��\u0013��ZS@�W_ ��\u0002$p\u00145 g\u0011\u001e�\u0007^\bx���� |H>z�\u0004M&\u001f�q�dnI�\u0019�R+�+�#G1Q�ܢ�U�˵U���.VWo\u0002mg0���,\u0006 \\�QĚ�t)�Æ�� �zE��\u0001\u0017\u0006.�5�6��t��gJ\u0010[xg\u0002/�C)\u0007��\u001f���\b8�\u00110^�\u0018Ǧ���lQ��N\u0017�c���p� ��ߓ��\u0012y������\u001dԛ\u000e8���>Ԩ\b5�ʅ\u0002��˝۠�\bV�S����\u001a���!<Np1<��W�nG3\u0017#EZ��B���������#�\u0016s�}?��\u0007v�T���\u001cM �\u001bG�uT�\u0011\u0014�K �m\u001dl��\u0018�v�J�Z�r�Z��29w V4Js�\u0005\u0003+C� ��� �#P�q�Nѽ\u001aקc&H%U�ujƔ���\u0014 ��\u0006c�\u000e���@ p5�\u0006_\u0012^ o6��ka*_\u0004�\"-�Z�-(�\u0006J(�\u0005�Bp�ː�@��W�@�F���[&vtA\u0003�͏\u0011[P^�\u00074\u001bJ\u0003k\u0011��c4�5�* �x7�\"�\u0004���R��?)z�*q�\u0007Q�Q\u001b��\u001c ���f�ug�{�2\u0019��\u0004Z�Pb\u001d���%P�R��fC S�\u0004�m^�gK��S\u0014����\u0018&�� U�\u0019\u0017d�\u001f�1p������/��9\u0013��:\u0017>5W \u0016�/(�\u0011�m\\Ӥ�\u000e�-1C� I�<\u000f�r1F�\u0002\u0003�I�\u00120�A\u0012��A�mƺz�\u001b0Z����eF�r ��eU_pɓ6*�S\u00123��7r �\u001b��{>T�9��)�C���job��nw�0j�e\u001f�m\b�m�@��N�\u0013��_\u001fv4�\u001b`\u001e̎#�:N�\u0006�\u0014\u0012ǖ@�C%0I%\u0006� \u000f\u0002��ĳ\\(J�ŎC\u0017]7*Q*�B\u0014me��������� �\u001f\u001fǌ�\u001f\u0005�\u0002�e<z��ٍ�-��0.7:\u0012�\u0014�MR�}\u0017�A�ͭ�Hbt�K��B�\u0015f��}`�KΑ����jqɆ�&�\b��\u00102ޢ�Z ��%^4�T�Sލ��e+A%\u0017[���70��v��\u000eR� �-|Wq��@�[�$vq���\u0011��\u001c�m\u001c�\u0010�8ғa1x\u0004����\u0003\u00137�O� �W� �O�zm@��&�\\ڮ��k\u0017�\u0014�(I�\u0016GI#h�9��8J!hq�\u0017\u0018T�P�\u0016�T�?y �¢\u0017r���Y��CR�D̟�Q�T��.)gQ���,��F�\u0012s���S (f\\8�?\u00047 �4 ��&��A\u0011��\u0016���N�rh�c9Vb�p\u000f�F9E-�L�+����\u000e;;��9� \u0011�\u0002S\u0010V\u001bK+\u00026\u0005�z%�(\u0005f�\"/�� �W��R`q��\u0015\u0018�\u00122h�1����_����� ��\\'�φL �_qO,P\u0018>\u0017 N��(*XŢg��\u001a�\u0016�_�s��\u0013��WBhK���\"/6=3���\u0012�7������p\u0003��E[���\\���3��C�\u001bA�.cֳ�R�ޭ͠��ecu��b�<\u0003�h�T@�L��\u0015$��6J\u0012����\u001c�\u000e]бa�zZ�\u0005O\\*��69{��Ir\u0010\u000fW>�e5�����f�\u0013U� Fb�� ��\u0004�]��e3 \u0015\u0015��� �T�K>���w\u0019E 'Y� G=� �.�Jϗ\u0007U\\P(�G3\u001d��vH�6<�=`-���mp��b\u001e`��v[F�{�\u001c�H�k��&�s�$\u0007��-W�%����U[yܽ�x\u0003�H��Zb����'G��8�h�G\u0016S3\u0003+�\u001e��ʎ�c��&l\u0011�詙+ \u0016�\u0010(m�����p���\u0003~\u001b�8�X �W[ ���B|6�`,\\\\��-k�Յ*�8U��Y��\u0004ғ\u0016\u001e��:zҽ���'\u001d%�ݓ������z��ز\u0014\u001a�\u0014�Y2�\b'�����עa��mX󉹂0����|q}\u0006Q W�\u001dnQ> K��\u0013�n�)�L�آ\u001b\u0011N8$fK�pЛ@�\u0017�4\u0013.Dc\u001e�/Sl��YQ��Ezf �v�B9���k�1*�V�t\u0002�ta�.6�H�!��jr�XKŵ�[\u0006��!U�\b����A؍A����n@�\u0002\u0002�� �\"�4��EU� �NŶs�.�OΛ1\u0012s�\u0004 W�m����\u000e�1�\u0010I^�\u001f�^\u0014\u0007�� �H�Ql\u0019<6�p�� � ��\u0011�h��\b���ɎO�1\u001e\u0010A}�$f8�ː�d��C�����O��YX�0Lq�8#\u001dݫ���tt)��F�HG��/�\"�8Iܑ\u000e�� \u0005�?_R(\\z\u000e�\u0019xr�N�pk�eǭ�薇#\u0007�yσ@�� p\u001d Uң 'fPa�OS(��{Q��9��9ۑDg0\u0019��/W��\u0013(�G\u0012K���S3T\u0016XvC��ƕ8k�O��L\u0019][I� ΍��\u001c��A� v�as.1q��3�-��3����\u0013�㉾�dwbƌ��$e���\u001a�fX���gc�bu� �IHw����U�E�9�\u0002;'tu��\u001f�͉�����Q�^>�*���\u0010G>=�'.��\u0004'!1s\u0010\b�̅pd���D�D 5W�2�{��\u000f\u001b.K�^�-Rs����\u0013�r���^H�f�\u001f�5�A�����5~�\u0014���^�� ��\u0012��}�N�(oV�B\u001a4�y���ca�K�\u001fv\u0003�$)K��׸?��_���0yCڻ�m�\".���\u0018\u001d\u001f�\u0005\u001f��?��K���>\\1\u0006\u0016w\u001a\u0012��?k�\"�\u00167���\u001c\u0013���U���+���{�2�{[� � ��j�y�K��\u0014�z4�B�{3���\"\u0004���;�Ҷ�'����\u0017�\u000f��U�D�]s�f<�\u001a�i��-��Y ^!�m�\u001bVg�W�6�̂\u000e\u0013�sv���Ig6J\u0012�3\u001bG9�/&a��/�\u001c>\u0003�xr�l��A���\u0002�?z�A�\u0013.��m\u0019F6��2/J �a���I�\u0013\u001e��x�\u0005g���\"�n(I���r���Jȕ�\u0011��-�ߤ���QT�r�A� ��g\u0007���>D��\bqz~�ւ�!���_�@��\u0011\\\b�\u001a;��\u0011��� |b�^����\u000edI^��\u0016��\u0019&�L��5E�O;��y����\"G�@�a&�c��\u001e�eY�Q\u0010�(rQ�s\u0007z\u001c3=\u0016[;�\u0018����vK�Z�J�'\u000eQ��P���\b���ҵf�\u001dM���;\u0010�K��̡*�I\u0006�\u001c�[�@�n�|����\u001bHK.<�+�f�m�\u0006\u000e�%�R���Q~l0��J$�|^��s��Y3\u001eO?\u0013(���W����\u0002�6T��ᵰ9���ݘLL\u0019+�\u0016N?�&i �|ؙ�(\u001aIZ\u0003�I� \u0002�eu��Mh��9[�h��Lj�l�\"A��:�ګ��4�<_��HD�\u001d��7�@ �����\u0005��Ahb�J��\u0017ٯ ��\u0019[}J!�Ҧ�Y\u0015f �����g1|�u�t][\u0015A* >%��\u0001�*\u0005��Q�%i \u001a'�]��Q�)��\\�\u001d#K \u0005�� :���*��D�Tr�J�(kJn4��l�pt��\"5{X�K���G�\u0011�'�^7!�\\/�\u000e��a;�Qm\u0011�!�Y��}\u0010Uj����aU�I��*\u0017�뎪4Is�8I�4��N�&�j�J�()Uib���4�� �4-{+U\u001aG9��t\u0019�O8=^�����\u001bG�w����]���HMǧ��t\u0005VV�\u0003�$M��\u0014���(H:�����v���T�i�Z��(HT5\u0003�Y�m����+��--��4I��?���fƵ\u001eѻ�Ԃ�2\u0003Z8<��v�0�J�lO{$�\u0002Ncu\u001d�M��@���J;L\u0007v�\u0002.I��8I�f ���\u000e$�ji\b�()-Ab��� �� nzZ�Vnz\u001c垛�l�\u0012s�4k\u0014Wi�Z\u001c�۰�\u001d9�l\u0005�\u001e>e�\\$��L<\u0019j<9-�K�Q�d��|�Z�4\u001b�Q��-Z\u001c�-�>k{�c ��f�9\u0005���Ή\\R l�� ���Yq�\u0003�@ ����e�5?J�-�M� �\u0005�\u001c�(��\u0019��\u0013n�N7z͇{�L���\u0010\u001aŒ:�O��ُ\u0004�\u0013���N�,�~d�$v]\u0016GI��\u0012s��8\b�.K�J�˨��;����\u0014�\u0016�u\u0015\u0016\u0014՚�\u001aa]&��2&\u0004\u0007�\u0012�S^�v �ܩB\u0016\u001e���G�;\u0018�W�8\\�]��β\"�\u0014�\u000e%�.��\u001e��X��Q�'��C�$n=N�\u001c^]Mn3T�C^�ү��\u0011�\u001d< ��>u\u0006�>� ��q\u0012\u000e�^�~a�&�_�5��jf��\u001c�\u0007^�vbmO��΂��W\u0017�W���M���\u001e-�&���[��n�/��y��� �\u0005\u0005\u0019�^4S\u001c����`�Y�11��^��\u001b�2}�4�� \u0001��1��c1�\u0014# !��m\u0004�.\u0012�� 5ޜNt�:������.�q��(ӡ�ह��\u001d�Y\u0003<���>��<���:[�ErYW���M��V<Q���V)���W�\u001c����]�\u0016�DnVwHh�\u001aE\u001aT\b�^�\u001aӫ�E�\u001a��\u0012W���pC��Cl�݂�z���dB�D\u0004�AO�Ӽ�C�\u0015N�R{fU�h�\u000f�'�W�wW\u0013\u0016�f�\u0004�χ��gl*Ay�GG���\u0011�$�\u001a%�m���/��k��Į\u0011�(m�V/o�w�\\�'��mV\u0005Su5knP��l4�A�'c��9�Ĝ*A\u0016Wԥ�� M�̛�M��.��� \u0005�WM=\u000fc��sV\u0005\u0011�]y$�\u0013Q\u0017N?6hF?��sڠ��\u0017��=�oP|�L�F�����b �7i�\u0005W#;X�\u0018\u0004$���\u0007\u0015�6\u0003��\u0018\u000fOMqM�]�^�\"��z4YN5[\u0002.t\u0016�S�G���O�F-uK�R\u0001�� �T��Dآ�f\"7� ��t�����\u0001K�� endstream endobj 5 0 obj <</Type/ExtGState/BM/Normal/ca 1>> endobj 6 0 obj <</Type/Font/Subtype/TrueType/Name/F1/BaseFont/BCDEEE+TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 7 0 R/FirstChar 32/LastChar 124/Widths 334 0 R>> endobj 7 0 obj <</Type/FontDescriptor/FontName/BCDEEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 8 0 obj <</Type/ExtGState/BM/Normal/CA 1>> endobj 9 0 obj <</Subtype/Link/Rect[ 324.76 683.85 494.9 699.65] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(mailto:daoson25102004@gmail.com) >>/StructParent 1>> endobj 10 0 obj <</Type/Font/Subtype/TrueType/Name/F2/BaseFont/BCDFEE+TimesNewRomanPS-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 11 0 R/FirstChar 32/LastChar 121/Widths 338 0 R>> endobj 11 0 obj <</Type/FontDescriptor/FontName/BCDFEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 12 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Encoding/Identity-H/DescendantFonts 13 0 R/ToUnicode 335 0 R>> endobj 13 0 obj [ 14 0 R] endobj 14 0 obj <</BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 15 0 R/FontDescriptor 16 0 R/W 337 0 R>> endobj 15 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 16 0 obj <</Type/FontDescriptor/FontName/BCDGEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 17 0 obj <</Type/Font/Subtype/TrueType/Name/F4/BaseFont/BCDHEE+TimesNewRomanPS-ItalicMT/Encoding/WinAnsiEncoding/FontDescriptor 18 0 R/FirstChar 32/LastChar 121/Widths 342 0 R>> endobj 18 0 obj <</Type/FontDescriptor/FontName/BCDHEE+TimesNewRomanPS-ItalicMT/Flags 32/ItalicAngle -16.4/Ascent 891/Descent -216/CapHeight 694/AvgWidth 402/MaxWidth 1831/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -498 -216 1333 694] /FontFile2 340 0 R>> endobj 19 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDIEE+SymbolMT/Encoding/Identity-H/DescendantFonts 20 0 R/ToUnicode 343 0 R>> endobj 20 0 obj [ 21 0 R] endobj 21 0 obj <</BaseFont/BCDIEE+SymbolMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 22 0 R/FontDescriptor 23 0 R/W 345 0 R>> endobj 22 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 23 0 obj <</Type/FontDescriptor/FontName/BCDIEE+SymbolMT/Flags 32/ItalicAngle 0/Ascent 1005/Descent -216/CapHeight 693/AvgWidth 600/MaxWidth 1113/FontWeight 400/XHeight 250/StemV 60/FontBBox[ 0 -216 1113 693] /FontFile2 344 0 R>> endobj 24 0 obj <</Type/Font/Subtype/TrueType/Name/F6/BaseFont/BCDJEE+ArialMT/Encoding/WinAnsiEncoding/FontDescriptor 25 0 R/FirstChar 32/LastChar 32/Widths 346 0 R>> endobj 25 0 obj <</Type/FontDescriptor/FontName/BCDJEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 347 0 R>> endobj 26 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDKEE+TimesNewRomanPSMT/Encoding/Identity-H/DescendantFonts 27 0 R/ToUnicode 331 0 R>> endobj 27 0 obj [ 28 0 R] endobj 28 0 obj <</BaseFont/BCDKEE+TimesNewRomanPSMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 29 0 R/FontDescriptor 30 0 R/W 333 0 R>> endobj 29 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 30 0 obj <</Type/FontDescriptor/FontName/BCDKEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 31 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F2 10 0 R/F1 6 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R/F8 33 0 R/F4 17 0 R>>/ExtGState<</GS5 5 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 32 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 2>> endobj 32 0 obj <</Filter/FlateDecode/Length 4916>> stream x��][s�F�~w���<m��\b��p٤R%�Y�^��\u0015�n���� 0 (��ן�\u0006@S�a\u0012�=I�\"�\u0014�o\u001a���o\u0006���rV�o�=~��� \u0011\u001f�Ϊ\u001b1)��\u001f?L��N<{�\\���I\u001c��_.��E\u0002?�\\��x��\u001f_���g�O�\u001c�M i�؈��O$|/\u0016R�qd3\u0003��Q���\u0005|��\u0007+nZ����w�����'�������O��+���'\u0007A�(�\u001f@\u0013� ��4��sj&����2���\u0017��7o������m<2QQ�v��Qpkd�$�\u0013H|��8>i��zvىg�����8\u0013�0p3�T�H�C��j���\u001e'b<T2y����Ӭ�X\u0019�d\u0012\u0006<H;�𑚼8��|����� ~�'ᆧ>��gp\u001b ������t2��xr1M&5�h���\u001fu��5���\u001aFj�L�ɉ�mk��Id]Y\u0005\\PY���'of{ ��K�(ӁeJ�HJ\u000f�\u00025僱���oz�81Lp\u0015�`��o9�C�n@狩�'-��\u0002���R�����,�9$\u001cM閭S��:���%\u0019��9��t�`�������4���n�@\b���f��\u0016\u0017� �����2\u0016���׸\u0003�_S\u001e\u0002h�#%= ?��\u001aVuɅcUd}8l�X\u001bI�\u0001��*�hJڲ���=\u00043���<�4&�� �5\u0017�\u0004\u0004��b\u0013AI���\u001e��%�HYT��d\u0005\u0017�\u0005�B��I@\"ߤ�@�� %͢, )\u0006\u0018e/�9�0 3\u0003��B�F��\u001cL\u001a���\u001f\\+\b���\u0010r�Ї�\u0007�=�<���Q�I6��m\u001c��wnܿ5\u0018s�`\u0012g06��3\u00186\u0005�1͊ �j�q\u0005�w3\u0019�\u0007\u0001%�}0� �ӣ|r-�[.�#a��A'\u0005V�\u0007 C�<����\u0015\u0017Tn@�Bʒ����듅ij PW�r�?��@�5�\u0014��һ�c�\u001d�ձA�\u000e\u000e\\=��$A���`ح�\u0003�\u001c� �|�a\u0003zڋ��AXޕ�Auö��\u001f�M>ȑ��\u0003PWl&\"�#�[I��\u0001X6�O��RT׵�#�&bՖ8ql\u0013� �Kl@�\u0014�w�\u0003�\u000e\u0015��������r�E\u0006�E�22�\u0007��l�\u0007߷e����ёNCJc�H� NQ��&4Uɦh:�#\u0013T�\\Eڧ�a�\u001e%eB�$0��\u0003�((�3ູ��<ʃ��\u0015e�>�:2�rM�2>K��R�34l2��\u001f�\u001b U}���\u0015%z%|� �X �.�������\u0005gȕ\u0006 ���d���+ \u0012rm\u000f�=�r Λi���$��=�A8a��\u0004i @\u001c��LF\u0019�l�\u0002�v^i(q '�M1Kq\u0001�c�1� ' d{^��X\u0004BF9a H�\u0006��\u0006\u0014Ia\u0012i= C@rd���-^��> *\u0010D��O v��e\u0012e>$��J�~�M�>=J&�\u0011c\u0002�M��)I\"�{ �i`�P��\u0002m\u0003�TFK���Ie��\u0003t\u0005�\u0005n��rz��ls��(�h/�LY�\u0007X\u000e�\u0002�QLof�G��!W��*M% O��\u0016q嬭W� \u0016����f�7 y(���\u0001�\u0019\u0005\u0011�ݪ��\u0003��<k\u0006c(�\u0003S�n� �=~�7~1h�Onī NWLS���.>\u00113�<8����O E�i��.�1(�����h�H�\u001e��+�Ejud��`-��.���e���\u0018{ ���x�g\"`�?��]�;�\u0019%\b\u0001g\u0002\u0012.�L������1^;�\b\u0016l���#T�}ڙ{�d�a��꫼B�S�|���B�p��q$=�l�i��Ms\u0001~�?���A��;\u0004r\u000f�J��]�ޡl\u0016\u001f������f ���� �ö�W�\u001a{O\u0013=�|��j�˃\u0018���+֤H ytqE\u001e���U]qF�]]q\u0001�6�*���V��*�A��`\u001d�4\u0017`�V���KBJ I{�E��\u000e�$\u0012\u000f.Z�_�l�$����\u0014+C&�{�9��\u0015��n���V�P\u0010N\u001c�I���S�p�pvz\u0014X�4 ) �|}w�3�U.؊7 ��\u0002���X�r\u0001��Yw=E�����\u0017��\u000f& 6+� \u0005&ml,>�H���0��ȷ\u0001,��\u0001D�c����\\P)�i\u0002ʒf��y愑X��>� �Zy�\u0007�\\v�l��\u00187 �\u0013�(�\u0007x\u0007\u0016�~�!n��PJ+��\u0017S�&?� ��W�\"מZ�D�\u0006Bp� @8K[2\bm�Bl��=\u0002� �Qg4�\u0001�\u0003�\u000f�8�-��i���\u0003|��< \u0018\"��z12�:j[���Q\u0012TF�n!_3�6K� ]�v{���x\u0001�NʀR(�P�� |�,��s��\u001c/�;,�RLϕg�L�~\u0019\u0017��\u0017*�\u0017d�\u0001�\u001a �v��V��P�\u001bl��J��z �\u0002s��\u0019�$�`�`��է6J� \u0006\u0011���\u0001 S_��qM��5�y��b�*�^sǷ�\u0005�4�\u0018�z�.@I�z��w�tWhMv�2E\u0006�ƨ�b ?����?Ƒ-�2{M��!eo\u00163X\u0012���^�F\\��\u000fu��ŕ�+�\u0003�����\u000f+�ȅ�gQ|QLѠ��Wwe�\u0019�#W�р���\u0015�5D ±�1���!Z\u0010��3\u001a�\u0010�\u0001��t7þ��e��v�q\u0006jX�t \u0002��R:�!�,H\u001c�M���h\u0005��ld\"��S\u000e&�R2ʵwZ�ЌM\u0014k(\u001a '�� &� �p\u000e�����s�0i�|`�/�(�A�\u0011�2?��ɳ�rzH\u0004��4�~���l�fJ,���� \u0011>�~�� �8c�����x�� ����\u001e%A�U�\b�N6�i���g�كx�>��ɨ`�H��A��],\u001f�nǈ�\u001eO!٬�x�X���9i۲�講U\u001d�r����� '})�Nf]�d\u001e5ac��Ir�8�����ea\u0004�Є46�] >f�\u0001㯃�`\u0013�\"] N�\u0010�}/\u0006\u001fM��\u000e /M\b /�D����\u0012��.��q69�i6.�R��� r�I���\u001fN�qaٜ�`�\\��l\u001e�\u0013��\u0014<�9\u001aw��?~\u0010�D\u0006x�\u0016����G:����m-^�<�9\u001b��x\u0002 7z�+=���+q6�`,���Y\u001dD�ݕ8;��N�]�� 9\u0016���a\u0004q%��C����J���Zr=�?㿭@�Iu%� �͗5�\u001cW�\u0004 ;\\�7h�G\u000f�X����H .�\u0005��A$�>9 \u0013ڳ_W���D�\u001a?hEG��\u0005�勾Vg�X\u0003;ΰ��ܺՄ�ƪ\\yY\u0016=�;� �~��� jW�u�N,f8�Պ�/��\u0001y�\u001a)����<�\u0002����\u0011�\u001d�\u0016��g �M���� �?g4�&�\u0001�=Ut&ټ^\u0016�RҾo�X�:\\\u000f���]ٖ�T��/�ߔ�T�k4\u001e¿��Bb�~I K+R Y�4s\\�U]�/���4fs���Gl����p�w��A=���\u0006aO�n���]58y��K����˦�� \u0007`܋��q\u0007f\u0003fj���Of���aͨ)�\u001b6C��X\u0006s��v�\u000fb\"�2\u0004:�\u0018�=�\u0010\u001c�\u0002�e\b��p\u001b\u0002\u0017�\u0001\u0011X��A7���b岘�U\u0001 �\u0002 ���\u001d ��P� *",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "JLPT N3"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Location",
+        "Hà Nội"
+      ],
+      [
+        "Skills",
+        "Nhập liệu trên Excel, Xử lý và gia công dữ liệu, Đánh máy nhanh và chính xác, Biên phiên dịch tiếng Nhật, Giáo dục / Đào tạo, Nhân sự, Tài chính"
+      ],
+      [
+        "Experience",
+        "Không yêu cầu kinh nghiệm"
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:27:06.786Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-14T08:52:59.124Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "Chi tiết tin tuyển dụng\nYêu cầu:\nKhông yêu cầu kinh nghiệm\nTrung cấp trở lên\nTuổi 20 - 40\nTiếng Nhật JLPT N3\nTiếng Nhật JLPT N2\nXem chi tiết Yêu cầu\nQuyền lợi:\nNghỉ thứ 7\nBảo hiểm xã hội\nBảo hiểm sức khỏe\nXem chi tiết Quyền lợi\nChuyên môn:\nBiên phiên dịch tiếng Nhật\nGiáo dục / Đào tạo\nNhân sự\nTài chính\nMô tả công việc\nNhập thông tin từ dữ liệu được cung cấp lên trên excel hoặc hệ thống của khách hàng chỉ định;\nXử lý và gia công dữ liệu theo quy trình được đào tạo;\nBáo cáo tiến độ công việc/sự cố phát sinh cho Quản lý;\nYêu cầu ứng viên\nTrình độ tiếng Nhật tương đương N3 trở lên (có bằng JLPT là lợi thế);\nThao tác đánh máy nhanh và chính xác;\nLàm việc được ngày Lễ và Tết âm lịch Việt Nam (Nghỉ theo Lễ Nhật);\nQuyền lợi\nLương tổng 8.300.000 VNĐ – 11.000.000 VNĐ/tháng tùy theo năng lực bao gồm: LCB + Phụ cấp tiếng Nhật + Thưởng hiệu suất;\nHưởng lương tháng 13 theo quy định Công ty;\nReview lương hàng năm theo năng lực;\nLàm việc ngày Lễ, Tết Việt Nam hưởng lương theo Luật Lao động Việt Nam;\nĐược tham gia BHXH, BHYT, BHTN theo Luật\nHưởng chế độ 14 ngày phép/năm theo quy định Công ty;\nTham gia Công đoàn hưởng các chế độ ngày Lễ, Tết, sinh nhật, kết hôn, thăm hỏi,...\nMôi trường làm việc thân thiện, chuyên nghiệp;\nĐược trang bị máy tính hiện đại phục vụ công việc;\nCơ hội được đào tạo nâng cao, thăng tiến trong công việc;\nThiết bị làm việc\nĐược cấp Máy tính\nQuyền lợi\nBảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13\nĐịa điểm làm việc (đã được cập nhật theo Danh mục Hành chính mới - thêm quận/huyện cũ tương ứng để dễ dàng tra cứu)\n- Hà Nội: Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy (quận Cầu Giấy cũ)\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)\nThứ 2 - Thứ 6 (từ 07:00 đến 16:00)",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N3+)",
+          "JLPT N3",
+          "matched"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "Evidence found",
+          "matched"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Excel proficiency highlighted in CV.",
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": "attempt-cv-daovanson-1776156779124"
+  },
+  {
+    "id": "cand-cv-daovanson-nontech-47490",
+    "jobId": "JD-5678",
+    "name": "CV DaoVanSon Nontech",
+    "role": "Tester",
+    "stage": "assessment_completed",
+    "recommendation": "Recommended to Proceed",
+    "risk": "Low Risk",
+    "email": "cv-daovanson-nontech@example.com",
+    "phone": "",
+    "japaneseLevel": "JLPT N3 trở lên",
+    "startDate": "",
+    "summary": "Ứng viên có trình độ tiếng Nhật từ JLPT N3 trở lên, có khả năng nhập liệu và xử lý dữ liệu trên Excel hoặc hệ thống được chỉ định. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc trong các ngày lễ và Tết âm lịch Việt Nam. Môi trường làm việc thân thiện, chuyên nghiệp với cơ hội đào tạo và thăng tiến.",
+    "cvSummary": "Ứng viên có trình độ tiếng Nhật từ JLPT N3 trở lên, có khả năng nhập liệu và xử lý dữ liệu trên Excel hoặc hệ thống được chỉ định. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc trong các ngày lễ và Tết âm lịch Việt Nam. Môi trường làm việc thân thiện, chuyên nghiệp với cơ hội đào tạo và thăng tiến.",
+    "matchScore": 86,
+    "cvFilePath": "/storage/cvs/JD-5678/cand-cv-daovanson-nontech-47490/1776050826786-49515.pdf",
+    "cvTextSnapshot": "%PDF-1.7 %���� 12 0 obj << /Type /ExtGState /BM /Normal /ca 1 >> endobj 13 0 obj << /Type /ExtGState /BM /Normal /CA 1 >> endobj 16 0 obj << /Filter /FlateDecode /Length 44219 /Length1 96280 >> stream x��} |T�����{w7�M6�wv�͋lB�&�$@�y � \u0001\u0011\u0013$�\u0001D^J\u0010DQ+Ak�(5Uk\u0005����(� �\u0002\"Q�i[\u001f`m\u0015�\u001fDŷ\bmŶHv�߹\u001b^������������̙�s�̙3g�ν�l�\u0011Q\u0018\u0012�z��]`O��\u0007��\u0002ԶϽ���\\ {����Dj�ܕ+,+���/�:'\u0010\u0019�/�p�]���&�J���`ɪ�%m�� Z��\u0003�`~Ǽ��՗@���� P\u0011��\u000e@\u0006�\u0019 .\\qY�\u001b��(���j뒥s;�\u0018u\u001c�\u0014���ۅ\u001d�u'�\u001a} �� o�p��\u000e�Q� ��2i�E\u001d\u0017�����.$V�N4�o�K���e�N�|���y[{\u000eQ�\u001f��\u0016�\u001c�>y�O~v��� G \u0006�p��%��~\u0010��#__?�a\"�Ő ��%��Ӽut�����h��NpF �S�D^A?%\u0013�\u0007_r�\u0002�\u0005/݁~\u0005��Xğ&� �\u0006�\b 2�Tl�.\u001e�T� B��\\(C4�7H��\u0007�AR�Lg��p}������H�ƶ9��|>�~H�*GJ1�2�,��q|�6)��Eg �f \u0013�QgG�ټ��B4\u0005�\u0016h�<�\"`�H�\u000e8i�ͦ3闠�H&u\u0016�@�\u0003��\u001f%�uet6�&RN�GK�_G� ��r��>\u0015���R��\"���|�ԉ\u0019�\u0004 \u0003F~W߰+ 6�A[�XG���@���\u001a�N��1�\\���E�k���\u001e���^\u001b�r�\u00066�M\u0003윮�[N��E��� \u0018�]�\u0017h6����q���T*m:C����}~\u001f`\\\u0007����YP�w�ȱY޵��[N�c����c�b��Z�\u0011�\u0006��gt�#q�չ�\u001f3\u0001\b@ \u0002\u0010� \u0004�? �m���n\u001b~((\u001f���\u001a� \u0004 �N`��j ������h��|*T^�J���~�c�'[ o\u001c�O ά�'��]�߳7������o��8�}���W��©�R�{���o�����T���F�S�|}������3�\u0013r�(K89�g�;R�]� \u0004 \u0001\b@ \u0002\u0010� \u0004 \u0001\b@ \u0002\u0010� \u0004 \u0001\b@ \u0002\u0010��<Kg�}��\u001c��k[\u0002\u0010��\u0014`\u001b��\u0016\u0004 \u0001\b�� 8�y���}�ȗ\u0002�����~��\u001f\u0002�ߍ��\u0004�.U�\u00054\u0015ԡ���%����\u001d�\u0011�\u0017_R��+et\u0001��ѩ[�6��V \u000f%���*�@qQ�n.�t��IYE�u}�e\u0014��(Z��F�~J\u0010;)L��0�\u001b��(�Ϥ8QM ʃ\u0014-y�*���wX�3M\u0012��\u000eT�\u001e�[P~�R�k(R�H�:+�c(\u0014��W%�\u001b\u0019C��-_H����Ҧo����������M{�Q8�]\u0001��\u001f�Ô �\u0006֎�+%��ˀ�#y3p\u0019�n��8�/\u0007�\u001c�ix�۟� @ \u0002\u0010� \u0004 \u0001�\u001e\u0010#���f \u001e�}g\u0004�xR�W�X�S�JŔN���PB�T�3�dj�&j����6�㴙ާO� ���Y\u0004\u001b��a.>�����{u��{R�K} �����\u001d�;S_L�m�K����>���wR�;u�����\u001eJ��%�\u0012e)�Ԧ�d���\"�e�,�C��}\u001cz���Ы�fP;]6��\u0010}rJ�\u001b�&��=����\u0013��vJ�\u001f�W��|��5\u0017�[�K�����\u000e�����Ƿ\u001b�xM^6��1ׇ�\u000f�>{u��\u001e\u001e�t߃\u001fL�o}��\u0019`&���κ ��\u0016�b����b�%��\u0006�+���\u0018�I�\u0018��/�8\u0015dt(�� ��\"\"��c(.�\u0012�(�/�����C��<\u001aM�c�ET2v\\iY�� ~vMm]�Y�&Oi��l��4}��3ϙuns �w�_],\\$�\u0006\" \u0001��0�u�?P���'�ۀ;\u0006�(��7ޤ����\u0003��?2�\u001d���tTVL�0���t\\Iq�}La���<[�� kz�Ŝ�����\u0010\u001f\u0017\u001b\u0013\u001d\u0015\u0019a \u000f3��\u0004\u0007\u0019�:U\u0011�Q^������jw)Y�I��e�ځ��S*�]\u0016T՟.㲴kb��%\u001d������/�8!�L� 4!?�Rg��^��Z<l��f���Z[,��Zީ����\u0011��44���/���X���U�rAo]{-���\u0004�Xk�\u0007��Qp\b�!ȹ���,��i\u0019\u001eWW���`�Q�Dkm�+�Z+-p�̺�y����u�Iii-�y.V3���\"k�+ܦ�P�֍KW��k�X\u0016��� �����\u001b=&�l��γ����\u0012\u001d-��\b\u001b��u�]~ �d\u0011�#k�מ�M\u0012�u� -��ۻ���8��Tn�L[Z�\u0003myf}{o=��\u0011Nl8ۂ���-�.v-��ȑ�Q��7�Z'k�\u0017Y\\A�j��E혚�^\u0017�X��NLtl� Qb��wf�5�U�dm�M�\u0019�\u0006\u0012\u001c���9�y��\b�c���G2��S3�O�&.s 3Nx�I���\u0011\u0010.�\\ ,i�bL�2�_J�sK!\u0006hah嚇\u0019Y� �i�5��z�ޥf����#�\b�\u001e������\u001a]��\bɬ��\u0013�\u0006���fs���\u0010��`Nac�V.��[��w[�M\u0016\u0010����ێ��\u0002�?-MN� \u001e\u0007u�����/[�3�M�\u0002[���K��qN�9��s�s�y�\u0015��Y�Kb\\��\u0013?�ب�\u0005�.\u0016�=��~~��ֆ鳛-u��#�m�yZ��/=�\u001bɹ�j�E\u0012\u001f��$�q\u0011�sN\b�Bs�K�ďN �y\u001e�\u0001Q��0K���>ɟ�\u0004����F\u001e�a�J#'����*��^\u001eZ�4�B{\u0005 V�x��ٽ�����\u0003���[-����\u001d\u001e_O��b��n\u0011�\"�������z|[oHr��؂A,`�VN��Vv��~\u0007�����[��Z�����״W��g�׼łMW��VVʂE\u0016��!��ܠ�'mq\u0010�h\\E���s=��:��:Fs=�_g�w��u��9f�G�s\u001cǥ\u0015�\u0019�u=~�\u0011i\u00038&��J��Ic�A�\u001a53�O�\u0007m���SU(�Tb�\u0006\u001c��J �h%�& \u001f5�K1[<J�@h�]RwT�ݣ� �X��U&%�z��V\u0002�\u0014y\u000e�)#�\u0012龬��\u0001��O.�E~2���4\u0004�P�oP�\u001c������P{��� Y�p�.rT\u0005)\u00114K�������T���RK\u0004�\u0019Z�@m��U���bD���\\���\u0005� v\u00037\u0001\u000f\u0003u�>� �}@\u001fP�JRn5�&�F���մ\u0019�«�\u0014\u00138&m�&xʄ6&��]�߂���p� �\u0018h\u001a�nEO�\u0012�%�-P\"\u0006�4Kŀm�F�9��\u001aÝ�lߎ;�z�&3*�;6I㐻�z$3�ԟ\u0019�ͷ� V�\u000e\u0001���\u001f\u000e_Z������;Pf�K��Zql�\u0014����@x��Qe\u0012�& '��A ���\b�\u0006r�or珑\u001d�M\u0003�av\u0013�\u000f�\u0005�\u0003\u0014�\u0011)��\u000e��?4\u0010\u0015+��\u000e����w\u0017\u0016�3\u0003�x{SU�� {~+~OV2��@SA_\u0004E��\u0017�oȨ�y�@��ރ���}b\u0015αf�\u001c�Y�xX\\EI��[�0?o�sr�U��!q�&�\\,�\u0001�,���n�ٲM�/�Q|>\u0010\u0014\"���m��o\u0017���\u0014 �\u0003��3�o\u0017\u0017Q\u0001P��3\u0010d��U� \u000f��[̰���Z�\u0010�wC\u0011����X�v�5\u0014\u0003����\u001dc\u001e�&���}%���{\u00111� \u0018��UA�^\u0019!������޾\u001c�*�SU��� �\u001cN}\u001f���\"�/��\u0002��\u0005�� L�\u0017�� \u0004-���\u001c�L��G��\u001d�\u0003ލ�\u0002�����\u0016-��c�\"~$��'L��;�ګ\u0006�¤eW�#�4�+�\u0002��.ޤi@\u000e���\u0015�t���6����$��\u000f�P�� �\\���r\u000e��\u001eq��5�\u0007\\Ϡ��\u0017�h�}\u0003�\u0011�՘��(.Ez\u0013p7�\u0010P��L�a&�\u0001\u0005ě\u0006������l��dwX�y����OҼ5�\u001d���|�HF w'�ڟ�\u0019�ǞgW�\u0014���<}�h@�L\u0013��yf�>� ��a�@i��p�h�|��6[���\u0004-S�\u000e��U�@p���V\u0013�� aZ�mdI�܁�8�\u0019qZ���H{�\u001c��\u001b��\u0019�uR�M�}�\u0014��'�ڈ��\u000e�\bt\u0001\u0015̱\u001d�v̱����p1\u0016�\u001dK>��܎��@l5b U\u0002o\u0002� \u000e\u0001U��\u001d�Q_�\u001eڑ�\u000194\u0016�lB� �\u0003{�\u001b����@=�\u0012��'\u001f҅H{�.�~���ʃ\u001dy�E \u001b�̴��w��մ����je��ڴ:��(�̳;\u0016�d�Lr��k\u000f�\u000e� \u0012�A��� a �\u0004q�oЭ//\u0002qD�ʋ�v~�<�\u0014���t}z��*�E�~�!��]̄� %�c��U���P�����<�\u0014����wh�ؕ�?�P�p8������R����\u00143+`�l\u001aS��R�Z�$\u0014�(\u0010��\u0005�=�;�'D\u0014�8B�B�)�\u0012��B6��B\u0006Cv��.ݠn�nHwX�6��uݺ\u001e]�n�Ng�\u0017�+�\u000e�r����\u0003�nD�\u0002r�Aڧ�L\u001ag\u0010�n�ܧ�ۑvke\u0007�&-gEZ(s@+t� �\u001e�}@)'�V��� �bw u�H�����HN/�pdpS�%�S\u0006;��vg epW�`\u0006\u001f�*�{4+���=��{�r���\u001e�E\u000eh��ojroB�MM�M��ܙ�ڑvk9\u0007�&-gEZ(s�M�u\\xU\u001c�\u0003\u001aې� �\u000f\u0014T��\u0012�T+��\u0004�\u0003��o\u0018��� �opga�\u0004I��T?I��@B���*\u001c\u0007������d� ��%� _ﮕ���\u0013���hU\u0019�Ҕ�� �i\u001aһ�\\\u0001�J-�I� ?Qv!\u001d�r�H7�hצ夜\u0019x���7�Z�\\8�\u001c��;B8��/\u0011��0Dz�V��H��ov�@\u0006��-IU\u0014\u0017�}����һ��V-=WK�\u001d!V�߭���\u001a\u001f�\u001a���\u0014�@�a-�DK\u00179�2�\u001fg\u0018_�0ޗa�7ø��O�`�9\u0012Ӎ\u001f�\u001b�;��T��t�-��9����Ʃ�RU\u000eY��Sd����dG��x�b|�b|�b���x���b1�[ ���{��ݩ���Ғ����bcJ�q+�o�y�p ��9;��\"؝[a�� ��4�3\u0013$���\u0002Ir;g�$��\u0017�D������x8�ǁ���X�A�Pw�\u001a�C����=\u001fDu疙=��ε�|��J\u00019��J\u0005���U rD���_� G`3����.�g�R�T�>�,�(������S���f�`���#���=�΅q�awn\u000e�C�� �\u0007��>w�\u0019�\u001ew�h���]�����u d�;g�Է�r4=�S�F���I`/s;��n�� d��Y\u0002��]� �Bw�\u0001��\u0002��\u0010ݬ�r5K;�]�`�� ��r4�\u001c*�4��vJ��K%UFV72�ZV#�}���kZ\u001c��B�U�s�@&�=7��e\u0003)u���l�;�.xn�H\u0007���<�2`�Tdu�> !��k\u0014H���\u000e$I��QQ#�FR�fT�;WJ�ܹ\u0016�3,��4����6<i\u001e�ޯ+<l��|��10���9 O�?wv�?szp�5�e����\u0010�W��#ļ7�����t��r!�H2�6w�yg�*�'g�y��j�a��N�.Mï���m~8��\u0019Zo�j�=�f�E�G�p3���>����U櫳֘/A(�p^o^��b��9߼(Gv\u0014g^�;ü \u0003� m�w]`�Ƚ��^�Y|~�+�K�14ti#�\\�1&u�0��\u00020*%\u0003\u0016�G\\��tt�6�#�Vj\u0006^1�3�i�;1�\u0001^�\u0018�߮�Jߩ����='[��Oӧ� �\u0006�!�\u0010j\b6\u0018 :�b�\u0006<��h�o�a��#�u&It�L\u0015-o�2���� 3p<l��D\u0003o8��5�����f�Jm .C�y������5�\u0006�RC�����V\u000f �\u0013�j�f��\u0006j�Y\u001d\u000fa\u0017�\u000eϮ3�=�'[\\�$_cm!��]�$i���ZZ(vee|edEDY}�\u0019������v\u0012�m��J)��\u001a�nv=���ˌ/���5J����Eu�[�bIZ���\u0005|I� Y�\u0016Զ@l�&F\u0015|1��) ��\u001c��b��s�\u0018�GumE�_h\u001a�BX4�4��~��S�� �F\u0013�\u00117hBw�;̅\u001d��! ��%��u��.���XV\u00164ueI�~{\u0016\u0004���\u001a{�Iv�������d{\u0018;�/��[�CYZ\u000fY<\u00072�#̯�\u0007\u001a���+/j��(ۭu���\u001bV.�w�tZ,�\u0017�\u001cyw���9w��\u001d�]+��k]\u0017Yk-�\u0013���n����~j������_��Xg��m\u0019h\\S�촾�?�W�3([#��ʾ\u001a����L�\u001be_�d_�d_��F���\u0019լ����@�-5s�t��\u0004c��'��Tǚ�+��3>-���� ��)��� �V��@�ʯʯ�,,i� ���GX�W�OK��\u001e\u001ea�P\u001da��\u0015�u k�\u001c�b�% �x�r�����\u0015�:�\u000f�\u0015ȭ� ��K\\�Վ�W�%'�f���r[Ms��Y\u0017��6 \u0007�\u0001y���,'��ߡ�F�\u0013��\u000e���a?D\u0017[�G�\u0007�#N1���w\u0003��S� N���C8姊���\u0015C\u0015bй�9\u0004�}�� �\u0013�����Ÿ\u0011 dW- \u0016��.�-�DVۘ6Zm��\u0010\u0018��\u001c�q7,�\u0018+4� ��ZS\u001b\u0014�N4���,�3/њ�k���a0��\u0015�ؾ �Z(��m6��dV�j�,n�$\"߻�\u0003���S|���d�.� �(�|���\u001f2��8�}L��\u000ej��pv�c���\u0014\u0016O ��˨\u0001.�#\u0015��\u001c�\u001c���b�������Ч����\u0006=���ٰ\u0011\u000f�U�3����}Bk�u��\u001eE뇙��i*���Oө��\u0014��k`<��6�0ܰ��`f�탆崖��\u001b��t��\u0011Z�h\u0006]�{���kl6;ϗL��\"��n�{h;\u001d`ױAE��S u��LϢX����0��{���=��M&��\u0003��s�R���\u001c���|�ADQ\u0011���^z���xV\"j( G�9�ŕ�I���It=ƶ�]�6�0��\u0018�8�K�\u0011V��A���Q\u000f�.�H��\u0018�����,��Ϡ���\u0014\u0017z+}��O\u001a�Fu����\u0013�5<�\u001c��Y8Kc���Y���+.\u0012\u001fB�Ct�����\u001c��]�+�ժ}x�� ��\b\u001d��[ϥ%�\u0018�b\u000ev\u001e���/�W��I�W�Q\u000e�J};IGx4���\u0011��Uz���|�3'{�_%\u0006ԟ����\u0005� ��1=@[�\bSY\u0010 e���8�� 6���)�ʛE�ؤ��[�[Gi��V�����\u001a����]�\u001e}F\u0007Y\"Z\u0016�e%kb���<�%�\u0015s�m�C�MyTyN9�F��y_�\u000e��RO!9q�R\u0017]\u000e_{p����`I,\u0015�&�)��ƺؕ������\u001edO�\u0017�n� ;�������V���\u0017��w�\u0014�+j���e%My[�Z�1����=� ��|E�>ߝ�w|\u0007�YHF�WR �k1�`�}�s�%|��^�?\"��k�\u0001:�9���\u0010M �(�YY6����e��R��na��\u0017ػ� ;Ɖ��t\\�|,��������\b\u0016VQ%.\u0013�\u0010�\u0017G�U�\u001dף�\u0013�a�\u0001}���cw ��w��6�\u001d�\u0012Ģ\u000e�\u0017�5WLՈ�)��y� �Ŵ�.��.���D�l\"7m������.z��j���\u0013�ė4L^�1�*3���^���A�����[�u\u0005��]�n�u\u0007���\u0003���~�^g����\b�D<�W�0�&~\u001eo�����5�\u0006�\u0019׫� �\u000e�\u001f\u0015&\u0011!�\"[ԉ �u�W��f�\u0007�G%K�R&)��\u0017��0�I�d�M��ޠޣާ>��N=��t����yt\u001f��c�M8�^���~�~��g�F<9a��S~S} ;O)�}��=\u0018�3|�x���\u001e=���j/,���j���ye�xO<Ư&R��\u0017�D�b/������\u0012�~L/�D�\u0002�᭢�?���x6V�W�U^Ʈ� v���s=�\u0004��0\u001bmt\u000eK�?+��\u0010��K�O��>�(\u0001�ϭ�����\b\u000f�4���u�� :J?c[��=��[M��s\u001a:i�R0\\�+u�|��\u001c3��M���G�>ê�]K��Y��\u0015Ѓ�>f�����\u0015��D�a�K�;\u0010�\u001f� ��� ��#�E\u0014�le\bs^0�[o��B\\þ�U��8m�&wc���c���h\u0018mB$`\u0017�V�g� K�\u0017_׽M\u001b�&�*b(S<�{�O�F���4$���\u001faJf��t!-�8,�\u000f��C�\"*�R��fS-8�(�w!,\u0010{��7Ƿ^mQm�*��bh\u0007v�xx�65�{\u0010���\u000eߡI�\u0006\u001a�ΣA�W�Y&�#�\u000e�+�>�\u0011u�����n ]�U{\u0007f�=�\u0012w � _|JE�Wc��a�T��I��-�-b;հD��\u001e��}�\u001a>���\\\u000e-WӍXO\u000f�\u001e�*\u001df&<�>C{�r���\u0003�4�9���� v�k� j�Q*��OGY\u0018+�+П�go�>;\b��҇�9|�]yl<\u001e�gA�_�ZF\u000fc� �\u0004�{��p��\u0015/�\u0007���k5���h׎�\b�\u0014*S�g�򼍾R�Plg��\u001b�!�f��>�-�\u0015�\u0018�0ŰiT�= �\u001e�^֤>��� w�\u0018\u001e����\u0003��Ɲ�U����6�kś�ҍ{z2f8Y�\u001f\u0006�S�f�v��\u001eapD���\u0014\u0014�Wv2J0�ԝ\\<ͪ(\b\u00131��m��& Oh4}9�9<�*�7\u001dC2�0-\"-\"\u0013 KV�E \u001es��5Y�A�Y�M�\u000f�<���^���0�D~ ��\u0007R�\u0018yD�#1br\\H_��T�\u001a\u0017�\u0018\u001a=9�\u001c �bz�1�u.�,4<ќ�\u0013��C͡<�â\u001cA;tL���gW� 6�:\u000f�\u001eh�,�\u0015\u001c��\u000e6����~�J���\u000f+�\u0014�����ɵ̚���UR<��\u001e\u001b\u0013��네:k��cK����\u0005s�Lj��$�״��Դ�϶\\|��ϟ�<�m���o���V�qڵ\u0017z���\u0018Y(��͑� ���ܐ�RL,X1��E\u0010���b�x��]�H��ֳ��K���q�I�k- S\u0012\u0012O��h���9 ��\u000e.�(+c\u0011�ee\u0012a>\u000e�Vq��� �c\u0016D�;��1����ǷT�Ր�_ck\u001a�*�=�$�|�\u001a��\\X�|�\u0018�\u0002��>���o�Ց���Y\u001b�T8\u001f���o z�?\u0010���H�>g�2��B�0:\\/�O ����\u0011�01Ӭ����@h=؊h0�ʃ�\u0007�\u0014R+ke1:=�\bSd\\l\\L\u0016E��߼`LmV� ŭ���Fu��ڪ��6y_���z�חا��`�8��;'��\u0016Ͷ\u0019����Z��pO�r\u001b_\u001f� �U�\u0002�`\u001d�֤��X\u00151MZ\u0015M���\u001a �f\\\u000f�� ӌ<ź����pE�xvVvI��.a���l�ql����5��j��.V���Y�q^��i�^yl&;[�W� ��DG(�(Qe ����\u0004\u001e0}H\u0005N���J����-�,�t�l5��\u0011{\b;e\b�o�ɺ\u0010!c7�\u0012T\u0018ă\u0012B�^/[\u001f������\u001a�T��YW����5RWש�u��+�#Ac\u001d)\u0018v%\u0017�\u001c�v�\u0018\u000f\u0011��Q�x��t�t� *�zB儵�hۏLϣ\u000f�\u001ax�����P\u0017\u001f]���U:�w@<�.��\u0007��H\bJҙu�A����I1����QAz\u0003�Ԑ�a��H5\u001bd@g���`G&92���a\u001b��h,��\u0013�\u001d؟6JO�G���q6��a7\u0019��\u0011\u0015SlL�;�'9�l\u0017c��4;��\u001d\u0019���RI�T�.�,Mg��N \u0004���|%\u0014�'C\b��'D�k\u0014M$}\u0002���FZ��}�*G'˵��Ӹ.<�\u0014�u\u0019�L+ׅ�\u0006�\u0006�\u001aB\u0015]Llt,�%�'�'� \u001d�\u0011TaB�k\u001be�Ԉ�N��#I���d9*����Nf ���X�l 9흃LrG` -c�X�>�c:\u0011q��qc嚍�UM�lM��V�bc��\bL�DY��gu�51/�VQ�{��W k�/+�Y �����������\\\u001d�%ג���Zk���￷�����e���0�\u0012o�\u001f>�\u001d�<��Rz�������bV�蚧)�=�J��\u001ex2�M�T�Y�Q�ѳ��.�=@�쯸��P,现p\u0003�\u0006}(*͸'z\u0004�XXS���M��\u0014��\u0013�Þ�D\u0006�\u0002��8�_�?\u001c�[Y�\u0004�i�U�!*#ˎ\u001c<Ǝ�X� �\u0017\u0011��\u0016Ť�\u0014�ǎ-�(Β>���w��;��c3Ν�\u00189�R49��E]���?����̩��;�/H�d\u001c�� Ft'F�L\u001f;2��� �\u001d�s��C�C\u0018�I�\u001bc7���d\u000e��C �\u001e��ddA� �����Y�A�K����\u0011\u0019��T\u0016�\u0005��#�T��ս���'�\u001d�,915��\u001d�����8�����[�aWY��r�� UV\u001e��\"\u001cQ\u0006G����� C�\u0010��X��\u001f�P3g$^!��)�4�dҨ;9�R�=\u0010�m�r�o�(�,C��[���Z��J(��X�\u0016@r�ױ4�p\\�h:�\u001e[�˫��pN�ؽ}\u0017<�>e��1���*7=#�=�F�-�a�q�����k���}\"�V'׻���Ï�d����J#��� �냂U�1�\u0014��\u0011�-pNTg��If&יd���2�d&�M2��n���\u000e�E@�ED\u0005�@�p��� �R����\u0015�V@mž�_EQ\b�V����[���O۟m�[���n�����d�s&YĶ���3g&�!s���<��s΀���e\u0006\u000f�\u000f\u000f�\u0003g3��\u0016�\"<\u0003���x��B+�t\u0001�g\u0011�\"e�\u0017f� C�[\u0006-���,�\u0012� �x\u0010t�=�$I\u001e��\u0013}&B\u0006q�>���v��XN��\u0018�q\\�֛`�S���^Ļ�\"ھ��[j�5�J��&�5gv\u001f��\u0005 Ǒ��1�#�A�<��a#禡�\u001e��@������?Bu�s��V�a�8�F,\u0012�[�\u0002C\u0016��ߥ��R�� \u0002�7\u0003��y/�9�\u0002�z�+S/Q\b��\u001c��\u0012��\u0007 ;�\u0014kBM�9]��^?\b΂\u0017\u0011 \u0014 �����\u000e��X� %���T�B�@ ��1��Q�$\u000ei�8mL` ���1�\"`1|��!A\u0019\u0018\u001f\u0014A\u0014E�e\"�6j�ɂ��ϰ4@di����S��9�����d�L>dD\u0015rQ�\\T!\u0017U�E\u0015\u0003��\u0018^G�\\}I#A �W �\u00100� �e��< �T������EU�\u0018\u0014��8ruv�'� ����WU�T�K�V{�%\u0003�����-�� ����M�;��j�1�÷���_\u001eh�֧�33��Ƌ\u000e�\u0007\u001b�;��g\u0007�\u001b\u000e` Z\u0011�b0�+�[\u0006W��\u001d\u0002��@�!\u001e����%�E*�\u00109d��\u0016�+� �n 9w1�9���\b��D���$\u0013\u0012���nY\u001fjDF\u0005�QAdT�١>�\u000f��9 �cr��\u0015���\u0019�)\u000e�:8Z�`���d� T�V�X���Ep��!�z6���� \u001cu\u0013�3,0R����q������7%\u0019 v \u0017�m�܆�\u0007\u001fp=�x��T��\u001e�9���::C�Q~.Ӫ���\b��E����| ɽ9�y�v������F�\u000e\u0006A��Z�\u001c֮p^� X5���&&\u0012�ɉZ�\u0002�a���h�&b���m0� a��j��\u0013a�R�\\��+\u0001�,�9�s�+܈�� \u0005 �_h}Ϡ��}\u0014E�����=��1l�� 9ý�\u0006m\u0004�`� ���q}�P���n~��W�S�1wN\u001fso�cO'��Qo�q�}cn��1�ߖ4Hf�3�ԕ<˃i\u0006��v�Ui�/@a\u001aJ�u���;���\u0017?yo��\u001f�샟����W�Dwf���dc.�\\X��s%��y�G��_|t��\u000f�����m+�c�n�{�P���s�Y{=\"�w̹|k���+u]�\u0001<C��y� ڎ� \u0016*AoS;=\u00070�9^\u0007Gͱ�����x��OT��2� �0��sY��&�[�rf��Q������� ��@��\u0002�\u0001\u001c��XA\u0016��\u0014��\u001d����oR��;ԧ\\�y�~�A\u0017� \u0015\u0001EU�v�C� qQ\u0012\u001c�<��l\u0001�_ ��\u001d(��T��U\u0010��(��x���<\u001e^Ej\u001c�ܜ����F7t�7{`��s��\u001a���\u0005 *�$R�7!<�\u001b<Ga:c��X. \u0003G�@�9C���Br$�-�/�V�D�����4���Ȯ�$��x�F��D04��9�8h\u0012���\u0010�\u0011U�\u001f�\u0002\u001d+�� \u0017\u0016{&ފ�S>���Y*��\u001f�����|�\u000e���1}} \b�0�`x\u0010�\u0012��i\u0014'�@}�P1\u0002��f �j�R$\u0017^[�s�\u0010�C\u0013�pVV\u0019���\u0017�\u0001\u001aE���-x���z)̳���AK��'���Y5-�G�M����Y�∠���\u0019Ƕ0�\b�p�q�\u001e\u0001z� oD\u001b ��O�\u001c�\u001emy�y/���=\u0005��l8'�\u0018- _��@� O��Z~��~�ʩ�ʧ\u0005�l6�E\u0012�f�,�\u0014��%��\u0016�(� 9�К\u0001Z4����\u0017�i�͗���>�ɱ��\u00052/#�7�oz-�b��k�5��,�\u000e�\u0015+�r0����\u0017\u0010y_>I��K\u000f�\u001c�C��\u001f�����/� � T��.�\u001f\u000f���� ��m�/���>2ژ{��ٸ\u001a\u0010���)IA��-�\u001a��P!����0.&H��cj֚�\u0003��} 6M~����H��n.|�E�\u0016�PR�����\u0019ڌ � \b&1�t�,�숛l���#� ��0�@��G���\u0005#7ﮝ�.�|F8<��v|�������=6����®��ٗ>��g����{�M�ڽ�\u001aY_R�E��_��5�_���>X}�6���뼱E�w�\u0011��p�w�K�BK@�\b\bLn;h��G*�-�غ��X�;ΐ-��4?tG�+���\"�:�:�M���wy\u001e��p�\u0017^\u0013�\b�� H�\bL�l �.�\u0011�\u001e9ly1j�'W�6�\u001b]\u001b�w4\u001d�.�Ǜ��R$AX�>,\u000e�Ɵ�x�ֵ\u0012�^���y\u000f�F�0���\u001f�m&������cvd�\u001f N\u0010C\u001f��Ʊ�*�*��I2M��� �H�\u0013�\u0010��\u0017��l\u001b�͛\bDh�\u0013\u001b��16D����]\u0003t\u00047\u000eѭ\u0001[Ȫ��13Ĕ�< 0�0�G% �&��%V���8 &PG�7Ql3�E���斏�l�E��c\u000fm{{�O������7��Wv>�,(�\u0019�Z�r�ލ��\u001c���w�\u001b6��.�Uy\u0005.{y �/�X\u0019��7j��\u000e\u001dƲ�6<�*ix��YմZ\\�=�����<k��nϞ��M�\u0015nF������V�H�s#�#\u001c\u0006�7\u001bᤘ��\u0001���a�6����P���ą� ˃$�D����� >�׉�\u0014\u000f����\u000f�{�K\u001a.5������ �\\U�C�&O\u0013�S���L3E���_�����B'4�Oj0C\u001a5���\bit|L���v�;Օ��Md�H�XW�Y��\b\u0001���F �RX� �2��j5��\u001d�l�\u0019�,Z������{_���R�)\\|��\u001b/�v�lM��k�[V�7k�\u0017�*�w��o.\u000f9-��sQ��mx ΄և6�İ��\u0001��7�G+��\u0018\u000fX�6$\u0017 ő��\u0013�;�w���O\u0004�M��������Y������?A=a�eߐ�(\u000e\u0017o��v�nGEBd�ny���延�|V'\u0004�B�� VbdY\u0012\u0015E_����\u0016I�\u0017B��U�㲔VTH\u0003'�\u0002~ޏ�\u0001��\u000fP\u0002#\u0004\u000ezsbk* sN��F\"K3\u001c��A����<�\u001cg~��\u001cQ�L[�\u0019�%\u001d��A}��\\�Vߪ��\u001f�Y�6>0\u0012�\u0015�\u0002!�\b��s�\\�5\u0010��m x��h8Wy�(�� y\"�H@���x_#�a-h\u0006V\u001d;ޟ\u0001_ml�v)��Hi�h\u0019��Q�!\u0006-z�\u001cR�j��R��f\u001aڬ<`S\u0013��=� �z>�tοzeS{��\u001f��M�?}M�7\u0011r;��prz�rmRZ���\u0001K��U�����ڭ#m��k 5�[\u0011��nY�W1�j�޷-J��X4y�NX�\u0001Ex�\u0011���\u0004���7��mOl׾��3cW\u001bq��\u000fq1C�� �YͬvlrlJ\u001c�~`�Ї\u0013���3��ꬴ�\u0019Kߑ��M��<N�\u001b��G�\u001bif�[$D~D���%q�Bĵ��G� ��$(j�Ш���'�h �1� ���C�\\\u001d� xx\u000f� �h��|����;��`{���\"L���\u0013�̐$3r�� ���h3��~�o~��� ه ,�/�O�MR\u0004�\u0017B q�!��mr��\u001c�\u0012Zs\u0002;8�9U�\u0006�q~:�c\u001cOg�٥\u0001NvM\u0007lڌ�ؕ =2#��ˣ�3\u0013��\u0004\u000e�h*�N�5��8�z�z#V��\u0001q�z|�]�Q�xx�O/Z��_k]�\u0019\u0018jU�}���[k\u001f����]� \u000e�W-l��7R��`�\u001c{����\u001ey���\u001d~\u001f 瓚f�%������]���\u001dO�6�\u0018Ϟ�.�l��\u000f�þ>\u0003\u000e\u001a�\u0019 昘�H���D{�d��]�A ��>�\"\u001e[A�<���RFQz��M��\u001e\u0003����z�顦�R\u000f>�+0g����>���Đ+�\u001e��==u��y�t,�L�Rq\u0004��\u0018��EY*)�\u0012O� \u001c�a E\u0001&�N���zJ%�eX\u0015L秣�\u0003m\\\u0011�?˱Oo\u0001C+��14<�o���eH���\u0006<����0\u000f�-",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "JLPT N3 trở lên"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Location",
+        "Hà Nội, Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy"
+      ],
+      [
+        "Skills",
+        "Nhập liệu trên Excel, Xử lý và gia công dữ liệu, Thao tác đánh máy nhanh và chính xác, Biên phiên dịch tiếng Nhật (ưu tiên), Làm việc ngày lễ và Tết âm lịch Việt Nam"
+      ],
+      [
+        "Experience",
+        "Không yêu cầu kinh nghiệm"
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:27:10.284Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-14T10:31:07.384Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "Chi tiết tin tuyển dụng\nYêu cầu:\nKhông yêu cầu kinh nghiệm\nTrung cấp trở lên\nTuổi 20 - 40\nTiếng Nhật JLPT N3\nTiếng Nhật JLPT N2\nXem chi tiết Yêu cầu\nQuyền lợi:\nNghỉ thứ 7\nBảo hiểm xã hội\nBảo hiểm sức khỏe\nXem chi tiết Quyền lợi\nChuyên môn:\nBiên phiên dịch tiếng Nhật\nGiáo dục / Đào tạo\nNhân sự\nTài chính\nMô tả công việc\nNhập thông tin từ dữ liệu được cung cấp lên trên excel hoặc hệ thống của khách hàng chỉ định;\nXử lý và gia công dữ liệu theo quy trình được đào tạo;\nBáo cáo tiến độ công việc/sự cố phát sinh cho Quản lý;\nYêu cầu ứng viên\nTrình độ tiếng Nhật tương đương N3 trở lên (có bằng JLPT là lợi thế);\nThao tác đánh máy nhanh và chính xác;\nLàm việc được ngày Lễ và Tết âm lịch Việt Nam (Nghỉ theo Lễ Nhật);\nQuyền lợi\nLương tổng 8.300.000 VNĐ – 11.000.000 VNĐ/tháng tùy theo năng lực bao gồm: LCB + Phụ cấp tiếng Nhật + Thưởng hiệu suất;\nHưởng lương tháng 13 theo quy định Công ty;\nReview lương hàng năm theo năng lực;\nLàm việc ngày Lễ, Tết Việt Nam hưởng lương theo Luật Lao động Việt Nam;\nĐược tham gia BHXH, BHYT, BHTN theo Luật\nHưởng chế độ 14 ngày phép/năm theo quy định Công ty;\nTham gia Công đoàn hưởng các chế độ ngày Lễ, Tết, sinh nhật, kết hôn, thăm hỏi,...\nMôi trường làm việc thân thiện, chuyên nghiệp;\nĐược trang bị máy tính hiện đại phục vụ công việc;\nCơ hội được đào tạo nâng cao, thăng tiến trong công việc;\nThiết bị làm việc\nĐược cấp Máy tính\nQuyền lợi\nBảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13\nĐịa điểm làm việc (đã được cập nhật theo Danh mục Hành chính mới - thêm quận/huyện cũ tương ứng để dễ dàng tra cứu)\n- Hà Nội: Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy (quận Cầu Giấy cũ)\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)\nThứ 2 - Thứ 6 (từ 07:00 đến 16:00)",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N3+)",
+          "JLPT N3 trở lên",
+          "matched"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "Evidence found",
+          "matched"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Excel proficiency highlighted in CV.",
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": "attempt-cv-daovanson-nontech-1776162667384"
+  },
+  {
+    "id": "cand-cv-daovanson-13971",
+    "jobId": "JD-5678",
+    "name": "CV DaoVanSon",
+    "role": "Tester",
+    "stage": "assessment_invited",
+    "recommendation": "Recommended to Proceed",
+    "risk": "Low Risk",
+    "email": "cv-daovanson@example.com",
+    "phone": "",
+    "japaneseLevel": "JLPT N3 trở lên",
+    "startDate": "",
+    "summary": "Ứng viên có trình độ tiếng Nhật từ JLPT N3 trở lên, có khả năng nhập liệu và xử lý dữ liệu trên Excel hoặc hệ thống khách hàng. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc trong các ngày lễ và Tết âm lịch Việt Nam. Có kinh nghiệm làm việc trong môi trường thân thiện, chuyên nghiệp, được trang bị máy tính hiện đại và có cơ hội đào tạo nâng cao, thăng tiến.",
+    "cvSummary": "Ứng viên có trình độ tiếng Nhật từ JLPT N3 trở lên, có khả năng nhập liệu và xử lý dữ liệu trên Excel hoặc hệ thống khách hàng. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc trong các ngày lễ và Tết âm lịch Việt Nam. Có kinh nghiệm làm việc trong môi trường thân thiện, chuyên nghiệp, được trang bị máy tính hiện đại và có cơ hội đào tạo nâng cao, thăng tiến.",
+    "matchScore": 86,
+    "cvFilePath": "/storage/cvs/JD-5678/cand-cv-daovanson-13971/1776050917072-85506.pdf",
+    "cvTextSnapshot": "%PDF-1.7 %���� 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en) /StructTreeRoot 52 0 R/MarkInfo<</Marked true>>/Metadata 353 0 R/ViewerPreferences 354 0 R>> endobj 2 0 obj <</Type/Pages/Count 4/Kids[ 3 0 R 31 0 R 35 0 R 43 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</ExtGState<</GS5 5 0 R/GS8 8 0 R>>/Font<</F1 6 0 R/F2 10 0 R/F3 12 0 R/F4 17 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 9 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 4401>> stream x��]mo�F\u0012�n���� �W3�Nn�(�I�6mҤ�����\u0007Ŗm6\u0012�J�S\u0003��of)9�����/�\u0014Zo������\u000e�G��o�y����������'٣�mv1��\u0013���^!rk3gTnTf�/o3��2����ο��ˎ^>ɲ{�#���~��2�;~S}�MY��\u0016��Y�ҭ��jT�}_?z1�/���>x{<\\��\u001f�H.�\u0007:D���*�Я_f������G�d��s&;9�ߓ�9��+�̍\u0007zL.��rL`���\b}�������O��d'?��\u001d�O���� �(��u�%T�\bT�\\�8Pv \u001fw��NN\u001b<=|Ň��ˍ} ���[�Ӣ��C��Ӆ�\u001d\u0001��]l �~KX�u����5�+]�� �~\u001a\u001e���� .�Q�\u001f��d�\u0006���\u0019|� �\u001e|�/_��5<.����c�L�u�6�T�^`�\u0013D��\u0013��ZS@�W_ ��\u0002$p\u00145 g\u0011\u001e�\u0007^\bx���� |H>z�\u0004M&\u001f�q�dnI�\u0019�R+�+�#G1Q�ܢ�U�˵U���.VWo\u0002mg0���,\u0006 \\�QĚ�t)�Æ�� �zE��\u0001\u0017\u0006.�5�6��t��gJ\u0010[xg\u0002/�C)\u0007��\u001f���\b8�\u00110^�\u0018Ǧ���lQ��N\u0017�c���p� ��ߓ��\u0012y������\u001dԛ\u000e8���>Ԩ\b5�ʅ\u0002��˝۠�\bV�S����\u001a���!<Np1<��W�nG3\u0017#EZ��B���������#�\u0016s�}?��\u0007v�T���\u001cM �\u001bG�uT�\u0011\u0014�K �m\u001dl��\u0018�v�J�Z�r�Z��29w V4Js�\u0005\u0003+C� ��� �#P�q�Nѽ\u001aקc&H%U�ujƔ���\u0014 ��\u0006c�\u000e���@ p5�\u0006_\u0012^ o6��ka*_\u0004�\"-�Z�-(�\u0006J(�\u0005�Bp�ː�@��W�@�F���[&vtA\u0003�͏\u0011[P^�\u00074\u001bJ\u0003k\u0011��c4�5�* �x7�\"�\u0004���R��?)z�*q�\u0007Q�Q\u001b��\u001c ���f�ug�{�2\u0019��\u0004Z�Pb\u001d���%P�R��fC S�\u0004�m^�gK��S\u0014����\u0018&�� U�\u0019\u0017d�\u001f�1p������/��9\u0013��:\u0017>5W \u0016�/(�\u0011�m\\Ӥ�\u000e�-1C� I�<\u000f�r1F�\u0002\u0003�I�\u00120�A\u0012��A�mƺz�\u001b0Z����eF�r ��eU_pɓ6*�S\u00123��7r �\u001b��{>T�9��)�C���job��nw�0j�e\u001f�m\b�m�@��N�\u0013��_\u001fv4�\u001b`\u001e̎#�:N�\u0006�\u0014\u0012ǖ@�C%0I%\u0006� \u000f\u0002��ĳ\\(J�ŎC\u0017]7*Q*�B\u0014me��������� �\u001f\u001fǌ�\u001f\u0005�\u0002�e<z��ٍ�-��0.7:\u0012�\u0014�MR�}\u0017�A�ͭ�Hbt�K��B�\u0015f��}`�KΑ����jqɆ�&�\b��\u00102ޢ�Z ��%^4�T�Sލ��e+A%\u0017[���70��v��\u000eR� �-|Wq��@�[�$vq���\u0011��\u001c�m\u001c�\u0010�8ғa1x\u0004����\u0003\u00137�O� �W� �O�zm@��&�\\ڮ��k\u0017�\u0014�(I�\u0016GI#h�9��8J!hq�\u0017\u0018T�P�\u0016�T�?y �¢\u0017r���Y��CR�D̟�Q�T��.)gQ���,��F�\u0012s���S (f\\8�?\u00047 �4 ��&��A\u0011��\u0016���N�rh�c9Vb�p\u000f�F9E-�L�+����\u000e;;��9� \u0011�\u0002S\u0010V\u001bK+\u00026\u0005�z%�(\u0005f�\"/�� �W��R`q��\u0015\u0018�\u00122h�1����_����� ��\\'�φL �_qO,P\u0018>\u0017 N��(*XŢg��\u001a�\u0016�_�s��\u0013��WBhK���\"/6=3���\u0012�7������p\u0003��E[���\\���3��C�\u001bA�.cֳ�R�ޭ͠��ecu��b�<\u0003�h�T@�L��\u0015$��6J\u0012����\u001c�\u000e]бa�zZ�\u0005O\\*��69{��Ir\u0010\u000fW>�e5�����f�\u0013U� Fb�� ��\u0004�]��e3 \u0015\u0015��� �T�K>���w\u0019E 'Y� G=� �.�Jϗ\u0007U\\P(�G3\u001d��vH�6<�=`-���mp��b\u001e`��v[F�{�\u001c�H�k��&�s�$\u0007��-W�%����U[yܽ�x\u0003�H��Zb����'G��8�h�G\u0016S3\u0003+�\u001e��ʎ�c��&l\u0011�詙+ \u0016�\u0010(m�����p���\u0003~\u001b�8�X �W[ ���B|6�`,\\\\��-k�Յ*�8U��Y��\u0004ғ\u0016\u001e��:zҽ���'\u001d%�ݓ������z��ز\u0014\u001a�\u0014�Y2�\b'�����עa��mX󉹂0����|q}\u0006Q W�\u001dnQ> K��\u0013�n�)�L�آ\u001b\u0011N8$fK�pЛ@�\u0017�4\u0013.Dc\u001e�/Sl��YQ��Ezf �v�B9���k�1*�V�t\u0002�ta�.6�H�!��jr�XKŵ�[\u0006��!U�\b����A؍A����n@�\u0002\u0002�� �\"�4��EU� �NŶs�.�OΛ1\u0012s�\u0004 W�m����\u000e�1�\u0010I^�\u001f�^\u0014\u0007�� �H�Ql\u0019<6�p�� � ��\u0011�h��\b���ɎO�1\u001e\u0010A}�$f8�ː�d��C�����O��YX�0Lq�8#\u001dݫ���tt)��F�HG��/�\"�8Iܑ\u000e�� \u0005�?_R(\\z\u000e�\u0019xr�N�pk�eǭ�薇#\u0007�yσ@�� p\u001d Uң 'fPa�OS(��{Q��9��9ۑDg0\u0019��/W��\u0013(�G\u0012K���S3T\u0016XvC��ƕ8k�O��L\u0019][I� ΍��\u001c��A� v�as.1q��3�-��3����\u0013�㉾�dwbƌ��$e���\u001a�fX���gc�bu� �IHw����U�E�9�\u0002;'tu��\u001f�͉�����Q�^>�*���\u0010G>=�'.��\u0004'!1s\u0010\b�̅pd���D�D 5W�2�{��\u000f\u001b.K�^�-Rs����\u0013�r���^H�f�\u001f�5�A�����5~�\u0014���^�� ��\u0012��}�N�(oV�B\u001a4�y���ca�K�\u001fv\u0003�$)K��׸?��_���0yCڻ�m�\".���\u0018\u001d\u001f�\u0005\u001f��?��K���>\\1\u0006\u0016w\u001a\u0012��?k�\"�\u00167���\u001c\u0013���U���+���{�2�{[� � ��j�y�K��\u0014�z4�B�{3���\"\u0004���;�Ҷ�'����\u0017�\u000f��U�D�]s�f<�\u001a�i��-��Y ^!�m�\u001bVg�W�6�̂\u000e\u0013�sv���Ig6J\u0012�3\u001bG9�/&a��/�\u001c>\u0003�xr�l��A���\u0002�?z�A�\u0013.��m\u0019F6��2/J �a���I�\u0013\u001e��x�\u0005g���\"�n(I���r���Jȕ�\u0011��-�ߤ���QT�r�A� ��g\u0007���>D��\bqz~�ւ�!���_�@��\u0011\\\b�\u001a;��\u0011��� |b�^����\u000edI^��\u0016��\u0019&�L��5E�O;��y����\"G�@�a&�c��\u001e�eY�Q\u0010�(rQ�s\u0007z\u001c3=\u0016[;�\u0018����vK�Z�J�'\u000eQ��P���\b���ҵf�\u001dM���;\u0010�K��̡*�I\u0006�\u001c�[�@�n�|����\u001bHK.<�+�f�m�\u0006\u000e�%�R���Q~l0��J$�|^��s��Y3\u001eO?\u0013(���W����\u0002�6T��ᵰ9���ݘLL\u0019+�\u0016N?�&i �|ؙ�(\u001aIZ\u0003�I� \u0002�eu��Mh��9[�h��Lj�l�\"A��:�ګ��4�<_��HD�\u001d��7�@ �����\u0005��Ahb�J��\u0017ٯ ��\u0019[}J!�Ҧ�Y\u0015f �����g1|�u�t][\u0015A* >%��\u0001�*\u0005��Q�%i \u001a'�]��Q�)��\\�\u001d#K \u0005�� :���*��D�Tr�J�(kJn4��l�pt��\"5{X�K���G�\u0011�'�^7!�\\/�\u000e��a;�Qm\u0011�!�Y��}\u0010Uj����aU�I��*\u0017�뎪4Is�8I�4��N�&�j�J�()Uib���4�� �4-{+U\u001aG9��t\u0019�O8=^�����\u001bG�w����]���HMǧ��t\u0005VV�\u0003�$M��\u0014���(H:�����v���T�i�Z��(HT5\u0003�Y�m����+��--��4I��?���fƵ\u001eѻ�Ԃ�2\u0003Z8<��v�0�J�lO{$�\u0002Ncu\u001d�M��@���J;L\u0007v�\u0002.I��8I�f ���\u000e$�ji\b�()-Ab��� �� nzZ�Vnz\u001c垛�l�\u0012s�4k\u0014Wi�Z\u001c�۰�\u001d9�l\u0005�\u001e>e�\\$��L<\u0019j<9-�K�Q�d��|�Z�4\u001b�Q��-Z\u001c�-�>k{�c ��f�9\u0005���Ή\\R l�� ���Yq�\u0003�@ ����e�5?J�-�M� �\u0005�\u001c�(��\u0019��\u0013n�N7z͇{�L���\u0010\u001aŒ:�O��ُ\u0004�\u0013���N�,�~d�$v]\u0016GI��\u0012s��8\b�.K�J�˨��;����\u0014�\u0016�u\u0015\u0016\u0014՚�\u001aa]&��2&\u0004\u0007�\u0012�S^�v �ܩB\u0016\u001e���G�;\u0018�W�8\\�]��β\"�\u0014�\u000e%�.��\u001e��X��Q�'��C�$n=N�\u001c^]Mn3T�C^�ү��\u0011�\u001d< ��>u\u0006�>� ��q\u0012\u000e�^�~a�&�_�5��jf��\u001c�\u0007^�vbmO��΂��W\u0017�W���M���\u001e-�&���[��n�/��y��� �\u0005\u0005\u0019�^4S\u001c����`�Y�11��^��\u001b�2}�4�� \u0001��1��c1�\u0014# !��m\u0004�.\u0012�� 5ޜNt�:������.�q��(ӡ�ह��\u001d�Y\u0003<���>��<���:[�ErYW���M��V<Q���V)���W�\u001c����]�\u0016�DnVwHh�\u001aE\u001aT\b�^�\u001aӫ�E�\u001a��\u0012W���pC��Cl�݂�z���dB�D\u0004�AO�Ӽ�C�\u0015N�R{fU�h�\u000f�'�W�wW\u0013\u0016�f�\u0004�χ��gl*Ay�GG���\u0011�$�\u001a%�m���/��k��Į\u0011�(m�V/o�w�\\�'��mV\u0005Su5knP��l4�A�'c��9�Ĝ*A\u0016Wԥ�� M�̛�M��.��� \u0005�WM=\u000fc��sV\u0005\u0011�]y$�\u0013Q\u0017N?6hF?��sڠ��\u0017��=�oP|�L�F�����b �7i�\u0005W#;X�\u0018\u0004$���\u0007\u0015�6\u0003��\u0018\u000fOMqM�]�^�\"��z4YN5[\u0002.t\u0016�S�G���O�F-uK�R\u0001�� �T��Dآ�f\"7� ��t�����\u0001K�� endstream endobj 5 0 obj <</Type/ExtGState/BM/Normal/ca 1>> endobj 6 0 obj <</Type/Font/Subtype/TrueType/Name/F1/BaseFont/BCDEEE+TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 7 0 R/FirstChar 32/LastChar 124/Widths 334 0 R>> endobj 7 0 obj <</Type/FontDescriptor/FontName/BCDEEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 8 0 obj <</Type/ExtGState/BM/Normal/CA 1>> endobj 9 0 obj <</Subtype/Link/Rect[ 324.76 683.85 494.9 699.65] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(mailto:daoson25102004@gmail.com) >>/StructParent 1>> endobj 10 0 obj <</Type/Font/Subtype/TrueType/Name/F2/BaseFont/BCDFEE+TimesNewRomanPS-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 11 0 R/FirstChar 32/LastChar 121/Widths 338 0 R>> endobj 11 0 obj <</Type/FontDescriptor/FontName/BCDFEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 12 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Encoding/Identity-H/DescendantFonts 13 0 R/ToUnicode 335 0 R>> endobj 13 0 obj [ 14 0 R] endobj 14 0 obj <</BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 15 0 R/FontDescriptor 16 0 R/W 337 0 R>> endobj 15 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 16 0 obj <</Type/FontDescriptor/FontName/BCDGEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 17 0 obj <</Type/Font/Subtype/TrueType/Name/F4/BaseFont/BCDHEE+TimesNewRomanPS-ItalicMT/Encoding/WinAnsiEncoding/FontDescriptor 18 0 R/FirstChar 32/LastChar 121/Widths 342 0 R>> endobj 18 0 obj <</Type/FontDescriptor/FontName/BCDHEE+TimesNewRomanPS-ItalicMT/Flags 32/ItalicAngle -16.4/Ascent 891/Descent -216/CapHeight 694/AvgWidth 402/MaxWidth 1831/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -498 -216 1333 694] /FontFile2 340 0 R>> endobj 19 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDIEE+SymbolMT/Encoding/Identity-H/DescendantFonts 20 0 R/ToUnicode 343 0 R>> endobj 20 0 obj [ 21 0 R] endobj 21 0 obj <</BaseFont/BCDIEE+SymbolMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 22 0 R/FontDescriptor 23 0 R/W 345 0 R>> endobj 22 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 23 0 obj <</Type/FontDescriptor/FontName/BCDIEE+SymbolMT/Flags 32/ItalicAngle 0/Ascent 1005/Descent -216/CapHeight 693/AvgWidth 600/MaxWidth 1113/FontWeight 400/XHeight 250/StemV 60/FontBBox[ 0 -216 1113 693] /FontFile2 344 0 R>> endobj 24 0 obj <</Type/Font/Subtype/TrueType/Name/F6/BaseFont/BCDJEE+ArialMT/Encoding/WinAnsiEncoding/FontDescriptor 25 0 R/FirstChar 32/LastChar 32/Widths 346 0 R>> endobj 25 0 obj <</Type/FontDescriptor/FontName/BCDJEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 347 0 R>> endobj 26 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDKEE+TimesNewRomanPSMT/Encoding/Identity-H/DescendantFonts 27 0 R/ToUnicode 331 0 R>> endobj 27 0 obj [ 28 0 R] endobj 28 0 obj <</BaseFont/BCDKEE+TimesNewRomanPSMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 29 0 R/FontDescriptor 30 0 R/W 333 0 R>> endobj 29 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 30 0 obj <</Type/FontDescriptor/FontName/BCDKEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 31 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F2 10 0 R/F1 6 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R/F8 33 0 R/F4 17 0 R>>/ExtGState<</GS5 5 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 32 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 2>> endobj 32 0 obj <</Filter/FlateDecode/Length 4916>> stream x��][s�F�~w���<m��\b��p٤R%�Y�^��\u0015�n���� 0 (��ן�\u0006@S�a\u0012�=I�\"�\u0014�o\u001a���o\u0006���rV�o�=~��� \u0011\u001f�Ϊ\u001b1)��\u001f?L��N<{�\\���I\u001c��_.��E\u0002?�\\��x��\u001f_���g�O�\u001c�M i�؈��O$|/\u0016R�qd3\u0003��Q���\u0005|��\u0007+nZ����w�����'�������O��+���'\u0007A�(�\u001f@\u0013� ��4��sj&����2���\u0017��7o������m<2QQ�v��Qpkd�$�\u0013H|��8>i��zvىg�����8\u0013�0p3�T�H�C��j���\u001e'b<T2y����Ӭ�X\u0019�d\u0012\u0006<H;�𑚼8��|����� ~�'ᆧ>��gp\u001b ������t2��xr1M&5�h���\u001fu��5���\u001aFj�L�ɉ�mk��Id]Y\u0005\\PY���'of{ ��K�(ӁeJ�HJ\u000f�\u00025僱���oz�81Lp\u0015�`��o9�C�n@狩�'-��\u0002���R�����,�9$\u001cM閭S��:���%\u0019��9��t�`�������4���n�@\b���f��\u0016\u0017� �����2\u0016���׸\u0003�_S\u001e\u0002h�#%= ?��\u001aVuɅcUd}8l�X\u001bI�\u0001��*�hJڲ���=\u00043���<�4&�� �5\u0017�\u0004\u0004��b\u0013AI���\u001e��%�HYT��d\u0005\u0017�\u0005�B��I@\"ߤ�@�� %͢, )\u0006\u0018e/�9�0 3\u0003��B�F��\u001cL\u001a���\u001f\\+\b���\u0010r�Ї�\u0007�=�<���Q�I6��m\u001c��wnܿ5\u0018s�`\u0012g06��3\u00186\u0005�1͊ �j�q\u0005�w3\u0019�\u0007\u0001%�}0� �ӣ|r-�[.�#a��A'\u0005V�\u0007 C�<����\u0015\u0017Tn@�Bʒ����듅ij PW�r�?��@�5�\u0014��һ�c�\u001d�ձA�\u000e\u000e\\=��$A���`ح�\u0003�\u001c� �|�a\u0003zڋ��AXޕ�Auö��\u001f�M>ȑ��\u0003PWl&\"�#�[I��\u0001X6�O��RT׵�#�&bՖ8ql\u0013� �Kl@�\u0014�w�\u0003�\u000e\u0015��������r�E\u0006�E�22�\u0007��l�\u0007߷e����ёNCJc�H� NQ��&4Uɦh:�#\u0013T�\\Eڧ�a�\u001e%eB�$0��\u0003�((�3ູ��<ʃ��\u0015e�>�:2�rM�2>K��R�34l2��\u001f�\u001b U}���\u0015%z%|� �X �.�������\u0005gȕ\u0006 ���d���+ \u0012rm\u000f�=�r Λi���$��=�A8a��\u0004i @\u001c��LF\u0019�l�\u0002�v^i(q '�M1Kq\u0001�c�1� ' d{^��X\u0004BF9a H�\u0006��\u0006\u0014Ia\u0012i= C@rd���-^��> *\u0010D��O v��e\u0012e>$��J�~�M�>=J&�\u0011c\u0002�M��)I\"�{ �i`�P��\u0002m\u0003�TFK���Ie��\u0003t\u0005�\u0005n��rz��ls��(�h/�LY�\u0007X\u000e�\u0002�QLof�G��!W��*M% O��\u0016q嬭W� \u0016����f�7 y(���\u0001�\u0019\u0005\u0011�ݪ��\u0003��<k\u0006c(�\u0003S�n� �=~�7~1h�Onī NWLS���.>\u00113�<8����O E�i��.�1(�����h�H�\u001e��+�Ejud��`-��.���e���\u0018{ ���x�g\"`�?��]�;�\u0019%\b\u0001g\u0002\u0012.�L������1^;�\b\u0016l���#T�}ڙ{�d�a��꫼B�S�|���B�p��q$=�l�i��Ms\u0001~�?���A��;\u0004r\u000f�J��]�ޡl\u0016\u001f������f ���� �ö�W�\u001a{O\u0013=�|��j�˃\u0018���+֤H ytqE\u001e���U]qF�]]q\u0001�6�*���V��*�A��`\u001d�4\u0017`�V���KBJ I{�E��\u000e�$\u0012\u000f.Z�_�l�$����\u0014+C&�{�9��\u0015��n���V�P\u0010N\u001c�I���S�p�pvz\u0014X�4 ) �|}w�3�U.؊7 ��\u0002���X�r\u0001��Yw=E�����\u0017��\u000f& 6+� \u0005&ml,>�H���0��ȷ\u0001,��\u0001D�c����\\P)�i\u0002ʒf��y愑X��>� �Zy�\u0007�\\v�l��\u00187 �\u0013�(�\u0007x\u0007\u0016�~�!n��PJ+��\u0017S�&?� ��W�\"מZ�D�\u0006Bp� @8K[2\bm�Bl��=\u0002� �Qg4�\u0001�\u0003�\u000f�8�-��i���\u0003|��< \u0018\"��z12�:j[���Q\u0012TF�n!_3�6K� ]�v{���x\u0001�NʀR(�P�� |�,��s��\u001c/�;,�RLϕg�L�~\u0019\u0017��\u0017*�\u0017d�\u0001�\u001a �v��V��P�\u001bl��J��z �\u0002s��\u0019�$�`�`��է6J� \u0006\u0011���\u0001 S_��qM��5�y��b�*�^sǷ�\u0005�4�\u0018�z�.@I�z��w�tWhMv�2E\u0006�ƨ�b ?����?Ƒ-�2{M��!eo\u00163X\u0012���^�F\\��\u000fu��ŕ�+�\u0003�����\u000f+�ȅ�gQ|QLѠ��Wwe�\u0019�#W�р���\u0015�5D ±�1���!Z\u0010��3\u001a�\u0010�\u0001��t7þ��e��v�q\u0006jX�t \u0002��R:�!�,H\u001c�M���h\u0005��ld\"��S\u000e&�R2ʵwZ�ЌM\u0014k(\u001a '�� &� �p\u000e�����s�0i�|`�/�(�A�\u0011�2?��ɳ�rzH\u0004��4�~���l�fJ,���� \u0011>�~�� �8c�����x�� ����\u001e%A�U�\b�N6�i���g�كx�>��ɨ`�H��A��],\u001f�nǈ�\u001eO!٬�x�X���9i۲�講U\u001d�r����� '})�Nf]�d\u001e5ac��Ir�8�����ea\u0004�Є46�] >f�\u0001㯃�`\u0013�\"] N�\u0010�}/\u0006\u001fM��\u000e /M\b /�D����\u0012��.��q69�i6.�R��� r�I���\u001fN�qaٜ�`�\\��l\u001e�\u0013��\u0014<�9\u001aw��?~\u0010�D\u0006x�\u0016����G:����m-^�<�9\u001b��x\u0002 7z�+=���+q6�`,���Y\u001dD�ݕ8;��N�]�� 9\u0016���a\u0004q%��C����J���Zr=�?㿭@�Iu%� �͗5�\u001cW�\u0004 ;\\�7h�G\u000f�X����H .�\u0005��A$�>9 \u0013ڳ_W���D�\u001a?hEG��\u0005�勾Vg�X\u0003;ΰ��ܺՄ�ƪ\\yY\u0016=�;� �~��� jW�u�N,f8�Պ�/��\u0001y�\u001a)����<�\u0002����\u0011�\u001d�\u0016��g �M���� �?g4�&�\u0001�=Ut&ټ^\u0016�RҾo�X�:\\\u000f���]ٖ�T��/�ߔ�T�k4\u001e¿��Bb�~I K+R Y�4s\\�U]�/���4fs���Gl����p�w��A=���\u0006aO�n���]58y��K����˦�� \u0007`܋��q\u0007f\u0003fj���Of���aͨ)�\u001b6C��X\u0006s��v�\u000fb\"�2\u0004:�\u0018�=�\u0010\u001c�\u0002�e\b��p\u001b\u0002\u0017�\u0001\u0011X��A7���b岘�U\u0001 �\u0002 ���\u001d ��P� *",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "JLPT N3 trở lên"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Location",
+        "Hà Nội, Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy (quận Cầu Giấy cũ)"
+      ],
+      [
+        "Skills",
+        "Nhập liệu trên Excel, Xử lý và gia công dữ liệu, Đánh máy nhanh và chính xác, Biên phiên dịch tiếng Nhật (ưu tiên), Sử dụng hệ thống khách hàng chỉ định"
+      ],
+      [
+        "Experience",
+        "Không yêu cầu kinh nghiệm"
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:28:51.766Z"
+      },
+      {
+        "title": "Assessment completed by candidate",
+        "time": "2026-04-13T05:03:16.445Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "Chi tiết tin tuyển dụng\nYêu cầu:\nKhông yêu cầu kinh nghiệm\nTrung cấp trở lên\nTuổi 20 - 40\nTiếng Nhật JLPT N3\nTiếng Nhật JLPT N2\nXem chi tiết Yêu cầu\nQuyền lợi:\nNghỉ thứ 7\nBảo hiểm xã hội\nBảo hiểm sức khỏe\nXem chi tiết Quyền lợi\nChuyên môn:\nBiên phiên dịch tiếng Nhật\nGiáo dục / Đào tạo\nNhân sự\nTài chính\nMô tả công việc\nNhập thông tin từ dữ liệu được cung cấp lên trên excel hoặc hệ thống của khách hàng chỉ định;\nXử lý và gia công dữ liệu theo quy trình được đào tạo;\nBáo cáo tiến độ công việc/sự cố phát sinh cho Quản lý;\nYêu cầu ứng viên\nTrình độ tiếng Nhật tương đương N3 trở lên (có bằng JLPT là lợi thế);\nThao tác đánh máy nhanh và chính xác;\nLàm việc được ngày Lễ và Tết âm lịch Việt Nam (Nghỉ theo Lễ Nhật);\nQuyền lợi\nLương tổng 8.300.000 VNĐ – 11.000.000 VNĐ/tháng tùy theo năng lực bao gồm: LCB + Phụ cấp tiếng Nhật + Thưởng hiệu suất;\nHưởng lương tháng 13 theo quy định Công ty;\nReview lương hàng năm theo năng lực;\nLàm việc ngày Lễ, Tết Việt Nam hưởng lương theo Luật Lao động Việt Nam;\nĐược tham gia BHXH, BHYT, BHTN theo Luật\nHưởng chế độ 14 ngày phép/năm theo quy định Công ty;\nTham gia Công đoàn hưởng các chế độ ngày Lễ, Tết, sinh nhật, kết hôn, thăm hỏi,...\nMôi trường làm việc thân thiện, chuyên nghiệp;\nĐược trang bị máy tính hiện đại phục vụ công việc;\nCơ hội được đào tạo nâng cao, thăng tiến trong công việc;\nThiết bị làm việc\nĐược cấp Máy tính\nQuyền lợi\nBảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13\nĐịa điểm làm việc (đã được cập nhật theo Danh mục Hành chính mới - thêm quận/huyện cũ tương ứng để dễ dàng tra cứu)\n- Hà Nội: Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy (quận Cầu Giấy cũ)\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)\nThứ 2 - Thứ 6 (từ 07:00 đến 16:00)",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N3+)",
+          "JLPT N3 trở lên",
+          "matched"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "Evidence found",
+          "matched"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Excel proficiency highlighted in CV.",
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": "attempt-cv-daovanson-1776056596445"
+  },
+  {
+    "id": "cand-cv-daovanson-33628",
+    "jobId": "JD-9921",
+    "name": "CV DaoVanSon",
+    "role": "Japanese Data Processing Specialist",
+    "stage": "assessment_invited",
+    "recommendation": "Manual Review",
+    "risk": "Low Risk",
+    "email": "cv-daovanson@example.com",
+    "phone": "",
+    "japaneseLevel": "N2+",
+    "startDate": "",
+    "summary": "AI parsed summary unavailable.",
+    "cvSummary": "AI parsed summary unavailable.",
+    "matchScore": 66,
+    "cvFilePath": "/storage/cvs/JD-9921/cand-cv-daovanson-33628/1776050949783-71408.pdf",
+    "cvTextSnapshot": "%PDF-1.7 %���� 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en) /StructTreeRoot 52 0 R/MarkInfo<</Marked true>>/Metadata 353 0 R/ViewerPreferences 354 0 R>> endobj 2 0 obj <</Type/Pages/Count 4/Kids[ 3 0 R 31 0 R 35 0 R 43 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</ExtGState<</GS5 5 0 R/GS8 8 0 R>>/Font<</F1 6 0 R/F2 10 0 R/F3 12 0 R/F4 17 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 9 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 4401>> stream x��]mo�F\u0012�n���� �W3�Nn�(�I�6mҤ�����\u0007Ŗm6\u0012�J�S\u0003��of)9�����/�\u0014Zo������\u000e�G��o�y����������'٣�mv1��\u0013���^!rk3gTnTf�/o3��2����ο��ˎ^>ɲ{�#���~��2�;~S}�MY��\u0016��Y�ҭ��jT�}_?z1�/���>x{<\\��\u001f�H.�\u0007:D���*�Я_f������G�d��s&;9�ߓ�9��+�̍\u0007zL.��rL`���\b}�������O��d'?��\u001d�O���� �(��u�%T�\bT�\\�8Pv \u001fw��NN\u001b<=|Ň��ˍ} ���[�Ӣ��C��Ӆ�\u001d\u0001��]l �~KX�u����5�+]�� �~\u001a\u001e���� .�Q�\u001f��d�\u0006���\u0019|� �\u001e|�/_��5<.����c�L�u�6�T�^`�\u0013D��\u0013��ZS@�W_ ��\u0002$p\u00145 g\u0011\u001e�\u0007^\bx���� |H>z�\u0004M&\u001f�q�dnI�\u0019�R+�+�#G1Q�ܢ�U�˵U���.VWo\u0002mg0���,\u0006 \\�QĚ�t)�Æ�� �zE��\u0001\u0017\u0006.�5�6��t��gJ\u0010[xg\u0002/�C)\u0007��\u001f���\b8�\u00110^�\u0018Ǧ���lQ��N\u0017�c���p� ��ߓ��\u0012y������\u001dԛ\u000e8���>Ԩ\b5�ʅ\u0002��˝۠�\bV�S����\u001a���!<Np1<��W�nG3\u0017#EZ��B���������#�\u0016s�}?��\u0007v�T���\u001cM �\u001bG�uT�\u0011\u0014�K �m\u001dl��\u0018�v�J�Z�r�Z��29w V4Js�\u0005\u0003+C� ��� �#P�q�Nѽ\u001aקc&H%U�ujƔ���\u0014 ��\u0006c�\u000e���@ p5�\u0006_\u0012^ o6��ka*_\u0004�\"-�Z�-(�\u0006J(�\u0005�Bp�ː�@��W�@�F���[&vtA\u0003�͏\u0011[P^�\u00074\u001bJ\u0003k\u0011��c4�5�* �x7�\"�\u0004���R��?)z�*q�\u0007Q�Q\u001b��\u001c ���f�ug�{�2\u0019��\u0004Z�Pb\u001d���%P�R��fC S�\u0004�m^�gK��S\u0014����\u0018&�� U�\u0019\u0017d�\u001f�1p������/��9\u0013��:\u0017>5W \u0016�/(�\u0011�m\\Ӥ�\u000e�-1C� I�<\u000f�r1F�\u0002\u0003�I�\u00120�A\u0012��A�mƺz�\u001b0Z����eF�r ��eU_pɓ6*�S\u00123��7r �\u001b��{>T�9��)�C���job��nw�0j�e\u001f�m\b�m�@��N�\u0013��_\u001fv4�\u001b`\u001e̎#�:N�\u0006�\u0014\u0012ǖ@�C%0I%\u0006� \u000f\u0002��ĳ\\(J�ŎC\u0017]7*Q*�B\u0014me��������� �\u001f\u001fǌ�\u001f\u0005�\u0002�e<z��ٍ�-��0.7:\u0012�\u0014�MR�}\u0017�A�ͭ�Hbt�K��B�\u0015f��}`�KΑ����jqɆ�&�\b��\u00102ޢ�Z ��%^4�T�Sލ��e+A%\u0017[���70��v��\u000eR� �-|Wq��@�[�$vq���\u0011��\u001c�m\u001c�\u0010�8ғa1x\u0004����\u0003\u00137�O� �W� �O�zm@��&�\\ڮ��k\u0017�\u0014�(I�\u0016GI#h�9��8J!hq�\u0017\u0018T�P�\u0016�T�?y �¢\u0017r���Y��CR�D̟�Q�T��.)gQ���,��F�\u0012s���S (f\\8�?\u00047 �4 ��&��A\u0011��\u0016���N�rh�c9Vb�p\u000f�F9E-�L�+����\u000e;;��9� \u0011�\u0002S\u0010V\u001bK+\u00026\u0005�z%�(\u0005f�\"/�� �W��R`q��\u0015\u0018�\u00122h�1����_����� ��\\'�φL �_qO,P\u0018>\u0017 N��(*XŢg��\u001a�\u0016�_�s��\u0013��WBhK���\"/6=3���\u0012�7������p\u0003��E[���\\���3��C�\u001bA�.cֳ�R�ޭ͠��ecu��b�<\u0003�h�T@�L��\u0015$��6J\u0012����\u001c�\u000e]бa�zZ�\u0005O\\*��69{��Ir\u0010\u000fW>�e5�����f�\u0013U� Fb�� ��\u0004�]��e3 \u0015\u0015��� �T�K>���w\u0019E 'Y� G=� �.�Jϗ\u0007U\\P(�G3\u001d��vH�6<�=`-���mp��b\u001e`��v[F�{�\u001c�H�k��&�s�$\u0007��-W�%����U[yܽ�x\u0003�H��Zb����'G��8�h�G\u0016S3\u0003+�\u001e��ʎ�c��&l\u0011�詙+ \u0016�\u0010(m�����p���\u0003~\u001b�8�X �W[ ���B|6�`,\\\\��-k�Յ*�8U��Y��\u0004ғ\u0016\u001e��:zҽ���'\u001d%�ݓ������z��ز\u0014\u001a�\u0014�Y2�\b'�����עa��mX󉹂0����|q}\u0006Q W�\u001dnQ> K��\u0013�n�)�L�آ\u001b\u0011N8$fK�pЛ@�\u0017�4\u0013.Dc\u001e�/Sl��YQ��Ezf �v�B9���k�1*�V�t\u0002�ta�.6�H�!��jr�XKŵ�[\u0006��!U�\b����A؍A����n@�\u0002\u0002�� �\"�4��EU� �NŶs�.�OΛ1\u0012s�\u0004 W�m����\u000e�1�\u0010I^�\u001f�^\u0014\u0007�� �H�Ql\u0019<6�p�� � ��\u0011�h��\b���ɎO�1\u001e\u0010A}�$f8�ː�d��C�����O��YX�0Lq�8#\u001dݫ���tt)��F�HG��/�\"�8Iܑ\u000e�� \u0005�?_R(\\z\u000e�\u0019xr�N�pk�eǭ�薇#\u0007�yσ@�� p\u001d Uң 'fPa�OS(��{Q��9��9ۑDg0\u0019��/W��\u0013(�G\u0012K���S3T\u0016XvC��ƕ8k�O��L\u0019][I� ΍��\u001c��A� v�as.1q��3�-��3����\u0013�㉾�dwbƌ��$e���\u001a�fX���gc�bu� �IHw����U�E�9�\u0002;'tu��\u001f�͉�����Q�^>�*���\u0010G>=�'.��\u0004'!1s\u0010\b�̅pd���D�D 5W�2�{��\u000f\u001b.K�^�-Rs����\u0013�r���^H�f�\u001f�5�A�����5~�\u0014���^�� ��\u0012��}�N�(oV�B\u001a4�y���ca�K�\u001fv\u0003�$)K��׸?��_���0yCڻ�m�\".���\u0018\u001d\u001f�\u0005\u001f��?��K���>\\1\u0006\u0016w\u001a\u0012��?k�\"�\u00167���\u001c\u0013���U���+���{�2�{[� � ��j�y�K��\u0014�z4�B�{3���\"\u0004���;�Ҷ�'����\u0017�\u000f��U�D�]s�f<�\u001a�i��-��Y ^!�m�\u001bVg�W�6�̂\u000e\u0013�sv���Ig6J\u0012�3\u001bG9�/&a��/�\u001c>\u0003�xr�l��A���\u0002�?z�A�\u0013.��m\u0019F6��2/J �a���I�\u0013\u001e��x�\u0005g���\"�n(I���r���Jȕ�\u0011��-�ߤ���QT�r�A� ��g\u0007���>D��\bqz~�ւ�!���_�@��\u0011\\\b�\u001a;��\u0011��� |b�^����\u000edI^��\u0016��\u0019&�L��5E�O;��y����\"G�@�a&�c��\u001e�eY�Q\u0010�(rQ�s\u0007z\u001c3=\u0016[;�\u0018����vK�Z�J�'\u000eQ��P���\b���ҵf�\u001dM���;\u0010�K��̡*�I\u0006�\u001c�[�@�n�|����\u001bHK.<�+�f�m�\u0006\u000e�%�R���Q~l0��J$�|^��s��Y3\u001eO?\u0013(���W����\u0002�6T��ᵰ9���ݘLL\u0019+�\u0016N?�&i �|ؙ�(\u001aIZ\u0003�I� \u0002�eu��Mh��9[�h��Lj�l�\"A��:�ګ��4�<_��HD�\u001d��7�@ �����\u0005��Ahb�J��\u0017ٯ ��\u0019[}J!�Ҧ�Y\u0015f �����g1|�u�t][\u0015A* >%��\u0001�*\u0005��Q�%i \u001a'�]��Q�)��\\�\u001d#K \u0005�� :���*��D�Tr�J�(kJn4��l�pt��\"5{X�K���G�\u0011�'�^7!�\\/�\u000e��a;�Qm\u0011�!�Y��}\u0010Uj����aU�I��*\u0017�뎪4Is�8I�4��N�&�j�J�()Uib���4�� �4-{+U\u001aG9��t\u0019�O8=^�����\u001bG�w����]���HMǧ��t\u0005VV�\u0003�$M��\u0014���(H:�����v���T�i�Z��(HT5\u0003�Y�m����+��--��4I��?���fƵ\u001eѻ�Ԃ�2\u0003Z8<��v�0�J�lO{$�\u0002Ncu\u001d�M��@���J;L\u0007v�\u0002.I��8I�f ���\u000e$�ji\b�()-Ab��� �� nzZ�Vnz\u001c垛�l�\u0012s�4k\u0014Wi�Z\u001c�۰�\u001d9�l\u0005�\u001e>e�\\$��L<\u0019j<9-�K�Q�d��|�Z�4\u001b�Q��-Z\u001c�-�>k{�c ��f�9\u0005���Ή\\R l�� ���Yq�\u0003�@ ����e�5?J�-�M� �\u0005�\u001c�(��\u0019��\u0013n�N7z͇{�L���\u0010\u001aŒ:�O��ُ\u0004�\u0013���N�,�~d�$v]\u0016GI��\u0012s��8\b�.K�J�˨��;����\u0014�\u0016�u\u0015\u0016\u0014՚�\u001aa]&��2&\u0004\u0007�\u0012�S^�v �ܩB\u0016\u001e���G�;\u0018�W�8\\�]��β\"�\u0014�\u000e%�.��\u001e��X��Q�'��C�$n=N�\u001c^]Mn3T�C^�ү��\u0011�\u001d< ��>u\u0006�>� ��q\u0012\u000e�^�~a�&�_�5��jf��\u001c�\u0007^�vbmO��΂��W\u0017�W���M���\u001e-�&���[��n�/��y��� �\u0005\u0005\u0019�^4S\u001c����`�Y�11��^��\u001b�2}�4�� \u0001��1��c1�\u0014# !��m\u0004�.\u0012�� 5ޜNt�:������.�q��(ӡ�ह��\u001d�Y\u0003<���>��<���:[�ErYW���M��V<Q���V)���W�\u001c����]�\u0016�DnVwHh�\u001aE\u001aT\b�^�\u001aӫ�E�\u001a��\u0012W���pC��Cl�݂�z���dB�D\u0004�AO�Ӽ�C�\u0015N�R{fU�h�\u000f�'�W�wW\u0013\u0016�f�\u0004�χ��gl*Ay�GG���\u0011�$�\u001a%�m���/��k��Į\u0011�(m�V/o�w�\\�'��mV\u0005Su5knP��l4�A�'c��9�Ĝ*A\u0016Wԥ�� M�̛�M��.��� \u0005�WM=\u000fc��sV\u0005\u0011�]y$�\u0013Q\u0017N?6hF?��sڠ��\u0017��=�oP|�L�F�����b �7i�\u0005W#;X�\u0018\u0004$���\u0007\u0015�6\u0003��\u0018\u000fOMqM�]�^�\"��z4YN5[\u0002.t\u0016�S�G���O�F-uK�R\u0001�� �T��Dآ�f\"7� ��t�����\u0001K�� endstream endobj 5 0 obj <</Type/ExtGState/BM/Normal/ca 1>> endobj 6 0 obj <</Type/Font/Subtype/TrueType/Name/F1/BaseFont/BCDEEE+TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 7 0 R/FirstChar 32/LastChar 124/Widths 334 0 R>> endobj 7 0 obj <</Type/FontDescriptor/FontName/BCDEEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 8 0 obj <</Type/ExtGState/BM/Normal/CA 1>> endobj 9 0 obj <</Subtype/Link/Rect[ 324.76 683.85 494.9 699.65] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(mailto:daoson25102004@gmail.com) >>/StructParent 1>> endobj 10 0 obj <</Type/Font/Subtype/TrueType/Name/F2/BaseFont/BCDFEE+TimesNewRomanPS-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 11 0 R/FirstChar 32/LastChar 121/Widths 338 0 R>> endobj 11 0 obj <</Type/FontDescriptor/FontName/BCDFEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 12 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Encoding/Identity-H/DescendantFonts 13 0 R/ToUnicode 335 0 R>> endobj 13 0 obj [ 14 0 R] endobj 14 0 obj <</BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 15 0 R/FontDescriptor 16 0 R/W 337 0 R>> endobj 15 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 16 0 obj <</Type/FontDescriptor/FontName/BCDGEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 17 0 obj <</Type/Font/Subtype/TrueType/Name/F4/BaseFont/BCDHEE+TimesNewRomanPS-ItalicMT/Encoding/WinAnsiEncoding/FontDescriptor 18 0 R/FirstChar 32/LastChar 121/Widths 342 0 R>> endobj 18 0 obj <</Type/FontDescriptor/FontName/BCDHEE+TimesNewRomanPS-ItalicMT/Flags 32/ItalicAngle -16.4/Ascent 891/Descent -216/CapHeight 694/AvgWidth 402/MaxWidth 1831/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -498 -216 1333 694] /FontFile2 340 0 R>> endobj 19 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDIEE+SymbolMT/Encoding/Identity-H/DescendantFonts 20 0 R/ToUnicode 343 0 R>> endobj 20 0 obj [ 21 0 R] endobj 21 0 obj <</BaseFont/BCDIEE+SymbolMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 22 0 R/FontDescriptor 23 0 R/W 345 0 R>> endobj 22 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 23 0 obj <</Type/FontDescriptor/FontName/BCDIEE+SymbolMT/Flags 32/ItalicAngle 0/Ascent 1005/Descent -216/CapHeight 693/AvgWidth 600/MaxWidth 1113/FontWeight 400/XHeight 250/StemV 60/FontBBox[ 0 -216 1113 693] /FontFile2 344 0 R>> endobj 24 0 obj <</Type/Font/Subtype/TrueType/Name/F6/BaseFont/BCDJEE+ArialMT/Encoding/WinAnsiEncoding/FontDescriptor 25 0 R/FirstChar 32/LastChar 32/Widths 346 0 R>> endobj 25 0 obj <</Type/FontDescriptor/FontName/BCDJEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 347 0 R>> endobj 26 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDKEE+TimesNewRomanPSMT/Encoding/Identity-H/DescendantFonts 27 0 R/ToUnicode 331 0 R>> endobj 27 0 obj [ 28 0 R] endobj 28 0 obj <</BaseFont/BCDKEE+TimesNewRomanPSMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 29 0 R/FontDescriptor 30 0 R/W 333 0 R>> endobj 29 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 30 0 obj <</Type/FontDescriptor/FontName/BCDKEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 31 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F2 10 0 R/F1 6 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R/F8 33 0 R/F4 17 0 R>>/ExtGState<</GS5 5 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 32 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 2>> endobj 32 0 obj <</Filter/FlateDecode/Length 4916>> stream x��][s�F�~w���<m��\b��p٤R%�Y�^��\u0015�n���� 0 (��ן�\u0006@S�a\u0012�=I�\"�\u0014�o\u001a���o\u0006���rV�o�=~��� \u0011\u001f�Ϊ\u001b1)��\u001f?L��N<{�\\���I\u001c��_.��E\u0002?�\\��x��\u001f_���g�O�\u001c�M i�؈��O$|/\u0016R�qd3\u0003��Q���\u0005|��\u0007+nZ����w�����'�������O��+���'\u0007A�(�\u001f@\u0013� ��4��sj&����2���\u0017��7o������m<2QQ�v��Qpkd�$�\u0013H|��8>i��zvىg�����8\u0013�0p3�T�H�C��j���\u001e'b<T2y����Ӭ�X\u0019�d\u0012\u0006<H;�𑚼8��|����� ~�'ᆧ>��gp\u001b ������t2��xr1M&5�h���\u001fu��5���\u001aFj�L�ɉ�mk��Id]Y\u0005\\PY���'of{ ��K�(ӁeJ�HJ\u000f�\u00025僱���oz�81Lp\u0015�`��o9�C�n@狩�'-��\u0002���R�����,�9$\u001cM閭S��:���%\u0019��9��t�`�������4���n�@\b���f��\u0016\u0017� �����2\u0016���׸\u0003�_S\u001e\u0002h�#%= ?��\u001aVuɅcUd}8l�X\u001bI�\u0001��*�hJڲ���=\u00043���<�4&�� �5\u0017�\u0004\u0004��b\u0013AI���\u001e��%�HYT��d\u0005\u0017�\u0005�B��I@\"ߤ�@�� %͢, )\u0006\u0018e/�9�0 3\u0003��B�F��\u001cL\u001a���\u001f\\+\b���\u0010r�Ї�\u0007�=�<���Q�I6��m\u001c��wnܿ5\u0018s�`\u0012g06��3\u00186\u0005�1͊ �j�q\u0005�w3\u0019�\u0007\u0001%�}0� �ӣ|r-�[.�#a��A'\u0005V�\u0007 C�<����\u0015\u0017Tn@�Bʒ����듅ij PW�r�?��@�5�\u0014��һ�c�\u001d�ձA�\u000e\u000e\\=��$A���`ح�\u0003�\u001c� �|�a\u0003zڋ��AXޕ�Auö��\u001f�M>ȑ��\u0003PWl&\"�#�[I��\u0001X6�O��RT׵�#�&bՖ8ql\u0013� �Kl@�\u0014�w�\u0003�\u000e\u0015��������r�E\u0006�E�22�\u0007��l�\u0007߷e����ёNCJc�H� NQ��&4Uɦh:�#\u0013T�\\Eڧ�a�\u001e%eB�$0��\u0003�((�3ູ��<ʃ��\u0015e�>�:2�rM�2>K��R�34l2��\u001f�\u001b U}���\u0015%z%|� �X �.�������\u0005gȕ\u0006 ���d���+ \u0012rm\u000f�=�r Λi���$��=�A8a��\u0004i @\u001c��LF\u0019�l�\u0002�v^i(q '�M1Kq\u0001�c�1� ' d{^��X\u0004BF9a H�\u0006��\u0006\u0014Ia\u0012i= C@rd���-^��> *\u0010D��O v��e\u0012e>$��J�~�M�>=J&�\u0011c\u0002�M��)I\"�{ �i`�P��\u0002m\u0003�TFK���Ie��\u0003t\u0005�\u0005n��rz��ls��(�h/�LY�\u0007X\u000e�\u0002�QLof�G��!W��*M% O��\u0016q嬭W� \u0016����f�7 y(���\u0001�\u0019\u0005\u0011�ݪ��\u0003��<k\u0006c(�\u0003S�n� �=~�7~1h�Onī NWLS���.>\u00113�<8����O E�i��.�1(�����h�H�\u001e��+�Ejud��`-��.���e���\u0018{ ���x�g\"`�?��]�;�\u0019%\b\u0001g\u0002\u0012.�L������1^;�\b\u0016l���#T�}ڙ{�d�a��꫼B�S�|���B�p��q$=�l�i��Ms\u0001~�?���A��;\u0004r\u000f�J��]�ޡl\u0016\u001f������f ���� �ö�W�\u001a{O\u0013=�|��j�˃\u0018���+֤H ytqE\u001e���U]qF�]]q\u0001�6�*���V��*�A��`\u001d�4\u0017`�V���KBJ I{�E��\u000e�$\u0012\u000f.Z�_�l�$����\u0014+C&�{�9��\u0015��n���V�P\u0010N\u001c�I���S�p�pvz\u0014X�4 ) �|}w�3�U.؊7 ��\u0002���X�r\u0001��Yw=E�����\u0017��\u000f& 6+� \u0005&ml,>�H���0��ȷ\u0001,��\u0001D�c����\\P)�i\u0002ʒf��y愑X��>� �Zy�\u0007�\\v�l��\u00187 �\u0013�(�\u0007x\u0007\u0016�~�!n��PJ+��\u0017S�&?� ��W�\"מZ�D�\u0006Bp� @8K[2\bm�Bl��=\u0002� �Qg4�\u0001�\u0003�\u000f�8�-��i���\u0003|��< \u0018\"��z12�:j[���Q\u0012TF�n!_3�6K� ]�v{���x\u0001�NʀR(�P�� |�,��s��\u001c/�;,�RLϕg�L�~\u0019\u0017��\u0017*�\u0017d�\u0001�\u001a �v��V��P�\u001bl��J��z �\u0002s��\u0019�$�`�`��է6J� \u0006\u0011���\u0001 S_��qM��5�y��b�*�^sǷ�\u0005�4�\u0018�z�.@I�z��w�tWhMv�2E\u0006�ƨ�b ?����?Ƒ-�2{M��!eo\u00163X\u0012���^�F\\��\u000fu��ŕ�+�\u0003�����\u000f+�ȅ�gQ|QLѠ��Wwe�\u0019�#W�р���\u0015�5D ±�1���!Z\u0010��3\u001a�\u0010�\u0001��t7þ��e��v�q\u0006jX�t \u0002��R:�!�,H\u001c�M���h\u0005��ld\"��S\u000e&�R2ʵwZ�ЌM\u0014k(\u001a '�� &� �p\u000e�����s�0i�|`�/�(�A�\u0011�2?��ɳ�rzH\u0004��4�~���l�fJ,���� \u0011>�~�� �8c�����x�� ����\u001e%A�U�\b�N6�i���g�كx�>��ɨ`�H��A��],\u001f�nǈ�\u001eO!٬�x�X���9i۲�講U\u001d�r����� '})�Nf]�d\u001e5ac��Ir�8�����ea\u0004�Є46�] >f�\u0001㯃�`\u0013�\"] N�\u0010�}/\u0006\u001fM��\u000e /M\b /�D����\u0012��.��q69�i6.�R��� r�I���\u001fN�qaٜ�`�\\��l\u001e�\u0013��\u0014<�9\u001aw��?~\u0010�D\u0006x�\u0016����G:����m-^�<�9\u001b��x\u0002 7z�+=���+q6�`,���Y\u001dD�ݕ8;��N�]�� 9\u0016���a\u0004q%��C����J���Zr=�?㿭@�Iu%� �͗5�\u001cW�\u0004 ;\\�7h�G\u000f�X����H .�\u0005��A$�>9 \u0013ڳ_W���D�\u001a?hEG��\u0005�勾Vg�X\u0003;ΰ��ܺՄ�ƪ\\yY\u0016=�;� �~��� jW�u�N,f8�Պ�/��\u0001y�\u001a)����<�\u0002����\u0011�\u001d�\u0016��g �M���� �?g4�&�\u0001�=Ut&ټ^\u0016�RҾo�X�:\\\u000f���]ٖ�T��/�ߔ�T�k4\u001e¿��Bb�~I K+R Y�4s\\�U]�/���4fs���Gl����p�w��A=���\u0006aO�n���]58y��K����˦�� \u0007`܋��q\u0007f\u0003fj���Of���aͨ)�\u001b6C��X\u0006s��v�\u000fb\"�2\u0004:�\u0018�=�\u0010\u001c�\u0002�e\b��p\u001b\u0002\u0017�\u0001\u0011X��A7���b岘�U\u0001 �\u0002 ���\u001d ��P� *",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "N2+"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Location",
+        "Hà Nội"
+      ],
+      [
+        "Skills",
+        "kỹ năng máy tính cơ bản"
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:29:17.289Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "Yêu cầu bắt buộc: N2+, full-time, có kỹ năng máy tính cơ bản và có thể làm tại Hà Nội.",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N2-N1)",
+          "N2+",
+          "partial"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "No clear evidence",
+          "missing"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": null
+  },
+  {
+    "id": "cand-cv-daovanson-30233",
+    "jobId": "JD-9921",
+    "name": "CV DaoVanSon",
+    "role": "Japanese Data Processing Specialist",
+    "stage": "cv_screening",
+    "recommendation": "Manual Review",
+    "risk": "Low Risk",
+    "email": "cv-daovanson@example.com",
+    "phone": "",
+    "japaneseLevel": "N2+",
+    "startDate": "",
+    "summary": "AI parsed summary unavailable.",
+    "cvSummary": "AI parsed summary unavailable.",
+    "matchScore": 66,
+    "cvFilePath": "/storage/cvs/JD-9921/cand-cv-daovanson-30233/1776051191779-43595.pdf",
+    "cvTextSnapshot": "%PDF-1.7 %���� 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en) /StructTreeRoot 52 0 R/MarkInfo<</Marked true>>/Metadata 353 0 R/ViewerPreferences 354 0 R>> endobj 2 0 obj <</Type/Pages/Count 4/Kids[ 3 0 R 31 0 R 35 0 R 43 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</ExtGState<</GS5 5 0 R/GS8 8 0 R>>/Font<</F1 6 0 R/F2 10 0 R/F3 12 0 R/F4 17 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 9 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 4401>> stream x��]mo�F\u0012�n���� �W3�Nn�(�I�6mҤ�����\u0007Ŗm6\u0012�J�S\u0003��of)9�����/�\u0014Zo������\u000e�G��o�y����������'٣�mv1��\u0013���^!rk3gTnTf�/o3��2����ο��ˎ^>ɲ{�#���~��2�;~S}�MY��\u0016��Y�ҭ��jT�}_?z1�/���>x{<\\��\u001f�H.�\u0007:D���*�Я_f������G�d��s&;9�ߓ�9��+�̍\u0007zL.��rL`���\b}�������O��d'?��\u001d�O���� �(��u�%T�\bT�\\�8Pv \u001fw��NN\u001b<=|Ň��ˍ} ���[�Ӣ��C��Ӆ�\u001d\u0001��]l �~KX�u����5�+]�� �~\u001a\u001e���� .�Q�\u001f��d�\u0006���\u0019|� �\u001e|�/_��5<.����c�L�u�6�T�^`�\u0013D��\u0013��ZS@�W_ ��\u0002$p\u00145 g\u0011\u001e�\u0007^\bx���� |H>z�\u0004M&\u001f�q�dnI�\u0019�R+�+�#G1Q�ܢ�U�˵U���.VWo\u0002mg0���,\u0006 \\�QĚ�t)�Æ�� �zE��\u0001\u0017\u0006.�5�6��t��gJ\u0010[xg\u0002/�C)\u0007��\u001f���\b8�\u00110^�\u0018Ǧ���lQ��N\u0017�c���p� ��ߓ��\u0012y������\u001dԛ\u000e8���>Ԩ\b5�ʅ\u0002��˝۠�\bV�S����\u001a���!<Np1<��W�nG3\u0017#EZ��B���������#�\u0016s�}?��\u0007v�T���\u001cM �\u001bG�uT�\u0011\u0014�K �m\u001dl��\u0018�v�J�Z�r�Z��29w V4Js�\u0005\u0003+C� ��� �#P�q�Nѽ\u001aקc&H%U�ujƔ���\u0014 ��\u0006c�\u000e���@ p5�\u0006_\u0012^ o6��ka*_\u0004�\"-�Z�-(�\u0006J(�\u0005�Bp�ː�@��W�@�F���[&vtA\u0003�͏\u0011[P^�\u00074\u001bJ\u0003k\u0011��c4�5�* �x7�\"�\u0004���R��?)z�*q�\u0007Q�Q\u001b��\u001c ���f�ug�{�2\u0019��\u0004Z�Pb\u001d���%P�R��fC S�\u0004�m^�gK��S\u0014����\u0018&�� U�\u0019\u0017d�\u001f�1p������/��9\u0013��:\u0017>5W \u0016�/(�\u0011�m\\Ӥ�\u000e�-1C� I�<\u000f�r1F�\u0002\u0003�I�\u00120�A\u0012��A�mƺz�\u001b0Z����eF�r ��eU_pɓ6*�S\u00123��7r �\u001b��{>T�9��)�C���job��nw�0j�e\u001f�m\b�m�@��N�\u0013��_\u001fv4�\u001b`\u001e̎#�:N�\u0006�\u0014\u0012ǖ@�C%0I%\u0006� \u000f\u0002��ĳ\\(J�ŎC\u0017]7*Q*�B\u0014me��������� �\u001f\u001fǌ�\u001f\u0005�\u0002�e<z��ٍ�-��0.7:\u0012�\u0014�MR�}\u0017�A�ͭ�Hbt�K��B�\u0015f��}`�KΑ����jqɆ�&�\b��\u00102ޢ�Z ��%^4�T�Sލ��e+A%\u0017[���70��v��\u000eR� �-|Wq��@�[�$vq���\u0011��\u001c�m\u001c�\u0010�8ғa1x\u0004����\u0003\u00137�O� �W� �O�zm@��&�\\ڮ��k\u0017�\u0014�(I�\u0016GI#h�9��8J!hq�\u0017\u0018T�P�\u0016�T�?y �¢\u0017r���Y��CR�D̟�Q�T��.)gQ���,��F�\u0012s���S (f\\8�?\u00047 �4 ��&��A\u0011��\u0016���N�rh�c9Vb�p\u000f�F9E-�L�+����\u000e;;��9� \u0011�\u0002S\u0010V\u001bK+\u00026\u0005�z%�(\u0005f�\"/�� �W��R`q��\u0015\u0018�\u00122h�1����_����� ��\\'�φL �_qO,P\u0018>\u0017 N��(*XŢg��\u001a�\u0016�_�s��\u0013��WBhK���\"/6=3���\u0012�7������p\u0003��E[���\\���3��C�\u001bA�.cֳ�R�ޭ͠��ecu��b�<\u0003�h�T@�L��\u0015$��6J\u0012����\u001c�\u000e]бa�zZ�\u0005O\\*��69{��Ir\u0010\u000fW>�e5�����f�\u0013U� Fb�� ��\u0004�]��e3 \u0015\u0015��� �T�K>���w\u0019E 'Y� G=� �.�Jϗ\u0007U\\P(�G3\u001d��vH�6<�=`-���mp��b\u001e`��v[F�{�\u001c�H�k��&�s�$\u0007��-W�%����U[yܽ�x\u0003�H��Zb����'G��8�h�G\u0016S3\u0003+�\u001e��ʎ�c��&l\u0011�詙+ \u0016�\u0010(m�����p���\u0003~\u001b�8�X �W[ ���B|6�`,\\\\��-k�Յ*�8U��Y��\u0004ғ\u0016\u001e��:zҽ���'\u001d%�ݓ������z��ز\u0014\u001a�\u0014�Y2�\b'�����עa��mX󉹂0����|q}\u0006Q W�\u001dnQ> K��\u0013�n�)�L�آ\u001b\u0011N8$fK�pЛ@�\u0017�4\u0013.Dc\u001e�/Sl��YQ��Ezf �v�B9���k�1*�V�t\u0002�ta�.6�H�!��jr�XKŵ�[\u0006��!U�\b����A؍A����n@�\u0002\u0002�� �\"�4��EU� �NŶs�.�OΛ1\u0012s�\u0004 W�m����\u000e�1�\u0010I^�\u001f�^\u0014\u0007�� �H�Ql\u0019<6�p�� � ��\u0011�h��\b���ɎO�1\u001e\u0010A}�$f8�ː�d��C�����O��YX�0Lq�8#\u001dݫ���tt)��F�HG��/�\"�8Iܑ\u000e�� \u0005�?_R(\\z\u000e�\u0019xr�N�pk�eǭ�薇#\u0007�yσ@�� p\u001d Uң 'fPa�OS(��{Q��9��9ۑDg0\u0019��/W��\u0013(�G\u0012K���S3T\u0016XvC��ƕ8k�O��L\u0019][I� ΍��\u001c��A� v�as.1q��3�-��3����\u0013�㉾�dwbƌ��$e���\u001a�fX���gc�bu� �IHw����U�E�9�\u0002;'tu��\u001f�͉�����Q�^>�*���\u0010G>=�'.��\u0004'!1s\u0010\b�̅pd���D�D 5W�2�{��\u000f\u001b.K�^�-Rs����\u0013�r���^H�f�\u001f�5�A�����5~�\u0014���^�� ��\u0012��}�N�(oV�B\u001a4�y���ca�K�\u001fv\u0003�$)K��׸?��_���0yCڻ�m�\".���\u0018\u001d\u001f�\u0005\u001f��?��K���>\\1\u0006\u0016w\u001a\u0012��?k�\"�\u00167���\u001c\u0013���U���+���{�2�{[� � ��j�y�K��\u0014�z4�B�{3���\"\u0004���;�Ҷ�'����\u0017�\u000f��U�D�]s�f<�\u001a�i��-��Y ^!�m�\u001bVg�W�6�̂\u000e\u0013�sv���Ig6J\u0012�3\u001bG9�/&a��/�\u001c>\u0003�xr�l��A���\u0002�?z�A�\u0013.��m\u0019F6��2/J �a���I�\u0013\u001e��x�\u0005g���\"�n(I���r���Jȕ�\u0011��-�ߤ���QT�r�A� ��g\u0007���>D��\bqz~�ւ�!���_�@��\u0011\\\b�\u001a;��\u0011��� |b�^����\u000edI^��\u0016��\u0019&�L��5E�O;��y����\"G�@�a&�c��\u001e�eY�Q\u0010�(rQ�s\u0007z\u001c3=\u0016[;�\u0018����vK�Z�J�'\u000eQ��P���\b���ҵf�\u001dM���;\u0010�K��̡*�I\u0006�\u001c�[�@�n�|����\u001bHK.<�+�f�m�\u0006\u000e�%�R���Q~l0��J$�|^��s��Y3\u001eO?\u0013(���W����\u0002�6T��ᵰ9���ݘLL\u0019+�\u0016N?�&i �|ؙ�(\u001aIZ\u0003�I� \u0002�eu��Mh��9[�h��Lj�l�\"A��:�ګ��4�<_��HD�\u001d��7�@ �����\u0005��Ahb�J��\u0017ٯ ��\u0019[}J!�Ҧ�Y\u0015f �����g1|�u�t][\u0015A* >%��\u0001�*\u0005��Q�%i \u001a'�]��Q�)��\\�\u001d#K \u0005�� :���*��D�Tr�J�(kJn4��l�pt��\"5{X�K���G�\u0011�'�^7!�\\/�\u000e��a;�Qm\u0011�!�Y��}\u0010Uj����aU�I��*\u0017�뎪4Is�8I�4��N�&�j�J�()Uib���4�� �4-{+U\u001aG9��t\u0019�O8=^�����\u001bG�w����]���HMǧ��t\u0005VV�\u0003�$M��\u0014���(H:�����v���T�i�Z��(HT5\u0003�Y�m����+��--��4I��?���fƵ\u001eѻ�Ԃ�2\u0003Z8<��v�0�J�lO{$�\u0002Ncu\u001d�M��@���J;L\u0007v�\u0002.I��8I�f ���\u000e$�ji\b�()-Ab��� �� nzZ�Vnz\u001c垛�l�\u0012s�4k\u0014Wi�Z\u001c�۰�\u001d9�l\u0005�\u001e>e�\\$��L<\u0019j<9-�K�Q�d��|�Z�4\u001b�Q��-Z\u001c�-�>k{�c ��f�9\u0005���Ή\\R l�� ���Yq�\u0003�@ ����e�5?J�-�M� �\u0005�\u001c�(��\u0019��\u0013n�N7z͇{�L���\u0010\u001aŒ:�O��ُ\u0004�\u0013���N�,�~d�$v]\u0016GI��\u0012s��8\b�.K�J�˨��;����\u0014�\u0016�u\u0015\u0016\u0014՚�\u001aa]&��2&\u0004\u0007�\u0012�S^�v �ܩB\u0016\u001e���G�;\u0018�W�8\\�]��β\"�\u0014�\u000e%�.��\u001e��X��Q�'��C�$n=N�\u001c^]Mn3T�C^�ү��\u0011�\u001d< ��>u\u0006�>� ��q\u0012\u000e�^�~a�&�_�5��jf��\u001c�\u0007^�vbmO��΂��W\u0017�W���M���\u001e-�&���[��n�/��y��� �\u0005\u0005\u0019�^4S\u001c����`�Y�11��^��\u001b�2}�4�� \u0001��1��c1�\u0014# !��m\u0004�.\u0012�� 5ޜNt�:������.�q��(ӡ�ह��\u001d�Y\u0003<���>��<���:[�ErYW���M��V<Q���V)���W�\u001c����]�\u0016�DnVwHh�\u001aE\u001aT\b�^�\u001aӫ�E�\u001a��\u0012W���pC��Cl�݂�z���dB�D\u0004�AO�Ӽ�C�\u0015N�R{fU�h�\u000f�'�W�wW\u0013\u0016�f�\u0004�χ��gl*Ay�GG���\u0011�$�\u001a%�m���/��k��Į\u0011�(m�V/o�w�\\�'��mV\u0005Su5knP��l4�A�'c��9�Ĝ*A\u0016Wԥ�� M�̛�M��.��� \u0005�WM=\u000fc��sV\u0005\u0011�]y$�\u0013Q\u0017N?6hF?��sڠ��\u0017��=�oP|�L�F�����b �7i�\u0005W#;X�\u0018\u0004$���\u0007\u0015�6\u0003��\u0018\u000fOMqM�]�^�\"��z4YN5[\u0002.t\u0016�S�G���O�F-uK�R\u0001�� �T��Dآ�f\"7� ��t�����\u0001K�� endstream endobj 5 0 obj <</Type/ExtGState/BM/Normal/ca 1>> endobj 6 0 obj <</Type/Font/Subtype/TrueType/Name/F1/BaseFont/BCDEEE+TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 7 0 R/FirstChar 32/LastChar 124/Widths 334 0 R>> endobj 7 0 obj <</Type/FontDescriptor/FontName/BCDEEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 8 0 obj <</Type/ExtGState/BM/Normal/CA 1>> endobj 9 0 obj <</Subtype/Link/Rect[ 324.76 683.85 494.9 699.65] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(mailto:daoson25102004@gmail.com) >>/StructParent 1>> endobj 10 0 obj <</Type/Font/Subtype/TrueType/Name/F2/BaseFont/BCDFEE+TimesNewRomanPS-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 11 0 R/FirstChar 32/LastChar 121/Widths 338 0 R>> endobj 11 0 obj <</Type/FontDescriptor/FontName/BCDFEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 12 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Encoding/Identity-H/DescendantFonts 13 0 R/ToUnicode 335 0 R>> endobj 13 0 obj [ 14 0 R] endobj 14 0 obj <</BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 15 0 R/FontDescriptor 16 0 R/W 337 0 R>> endobj 15 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 16 0 obj <</Type/FontDescriptor/FontName/BCDGEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 17 0 obj <</Type/Font/Subtype/TrueType/Name/F4/BaseFont/BCDHEE+TimesNewRomanPS-ItalicMT/Encoding/WinAnsiEncoding/FontDescriptor 18 0 R/FirstChar 32/LastChar 121/Widths 342 0 R>> endobj 18 0 obj <</Type/FontDescriptor/FontName/BCDHEE+TimesNewRomanPS-ItalicMT/Flags 32/ItalicAngle -16.4/Ascent 891/Descent -216/CapHeight 694/AvgWidth 402/MaxWidth 1831/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -498 -216 1333 694] /FontFile2 340 0 R>> endobj 19 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDIEE+SymbolMT/Encoding/Identity-H/DescendantFonts 20 0 R/ToUnicode 343 0 R>> endobj 20 0 obj [ 21 0 R] endobj 21 0 obj <</BaseFont/BCDIEE+SymbolMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 22 0 R/FontDescriptor 23 0 R/W 345 0 R>> endobj 22 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 23 0 obj <</Type/FontDescriptor/FontName/BCDIEE+SymbolMT/Flags 32/ItalicAngle 0/Ascent 1005/Descent -216/CapHeight 693/AvgWidth 600/MaxWidth 1113/FontWeight 400/XHeight 250/StemV 60/FontBBox[ 0 -216 1113 693] /FontFile2 344 0 R>> endobj 24 0 obj <</Type/Font/Subtype/TrueType/Name/F6/BaseFont/BCDJEE+ArialMT/Encoding/WinAnsiEncoding/FontDescriptor 25 0 R/FirstChar 32/LastChar 32/Widths 346 0 R>> endobj 25 0 obj <</Type/FontDescriptor/FontName/BCDJEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 347 0 R>> endobj 26 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDKEE+TimesNewRomanPSMT/Encoding/Identity-H/DescendantFonts 27 0 R/ToUnicode 331 0 R>> endobj 27 0 obj [ 28 0 R] endobj 28 0 obj <</BaseFont/BCDKEE+TimesNewRomanPSMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 29 0 R/FontDescriptor 30 0 R/W 333 0 R>> endobj 29 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 30 0 obj <</Type/FontDescriptor/FontName/BCDKEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 31 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F2 10 0 R/F1 6 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R/F8 33 0 R/F4 17 0 R>>/ExtGState<</GS5 5 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 32 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 2>> endobj 32 0 obj <</Filter/FlateDecode/Length 4916>> stream x��][s�F�~w���<m��\b��p٤R%�Y�^��\u0015�n���� 0 (��ן�\u0006@S�a\u0012�=I�\"�\u0014�o\u001a���o\u0006���rV�o�=~��� \u0011\u001f�Ϊ\u001b1)��\u001f?L��N<{�\\���I\u001c��_.��E\u0002?�\\��x��\u001f_���g�O�\u001c�M i�؈��O$|/\u0016R�qd3\u0003��Q���\u0005|��\u0007+nZ����w�����'�������O��+���'\u0007A�(�\u001f@\u0013� ��4��sj&����2���\u0017��7o������m<2QQ�v��Qpkd�$�\u0013H|��8>i��zvىg�����8\u0013�0p3�T�H�C��j���\u001e'b<T2y����Ӭ�X\u0019�d\u0012\u0006<H;�𑚼8��|����� ~�'ᆧ>��gp\u001b ������t2��xr1M&5�h���\u001fu��5���\u001aFj�L�ɉ�mk��Id]Y\u0005\\PY���'of{ ��K�(ӁeJ�HJ\u000f�\u00025僱���oz�81Lp\u0015�`��o9�C�n@狩�'-��\u0002���R�����,�9$\u001cM閭S��:���%\u0019��9��t�`�������4���n�@\b���f��\u0016\u0017� �����2\u0016���׸\u0003�_S\u001e\u0002h�#%= ?��\u001aVuɅcUd}8l�X\u001bI�\u0001��*�hJڲ���=\u00043���<�4&�� �5\u0017�\u0004\u0004��b\u0013AI���\u001e��%�HYT��d\u0005\u0017�\u0005�B��I@\"ߤ�@�� %͢, )\u0006\u0018e/�9�0 3\u0003��B�F��\u001cL\u001a���\u001f\\+\b���\u0010r�Ї�\u0007�=�<���Q�I6��m\u001c��wnܿ5\u0018s�`\u0012g06��3\u00186\u0005�1͊ �j�q\u0005�w3\u0019�\u0007\u0001%�}0� �ӣ|r-�[.�#a��A'\u0005V�\u0007 C�<����\u0015\u0017Tn@�Bʒ����듅ij PW�r�?��@�5�\u0014��һ�c�\u001d�ձA�\u000e\u000e\\=��$A���`ح�\u0003�\u001c� �|�a\u0003zڋ��AXޕ�Auö��\u001f�M>ȑ��\u0003PWl&\"�#�[I��\u0001X6�O��RT׵�#�&bՖ8ql\u0013� �Kl@�\u0014�w�\u0003�\u000e\u0015��������r�E\u0006�E�22�\u0007��l�\u0007߷e����ёNCJc�H� NQ��&4Uɦh:�#\u0013T�\\Eڧ�a�\u001e%eB�$0��\u0003�((�3ູ��<ʃ��\u0015e�>�:2�rM�2>K��R�34l2��\u001f�\u001b U}���\u0015%z%|� �X �.�������\u0005gȕ\u0006 ���d���+ \u0012rm\u000f�=�r Λi���$��=�A8a��\u0004i @\u001c��LF\u0019�l�\u0002�v^i(q '�M1Kq\u0001�c�1� ' d{^��X\u0004BF9a H�\u0006��\u0006\u0014Ia\u0012i= C@rd���-^��> *\u0010D��O v��e\u0012e>$��J�~�M�>=J&�\u0011c\u0002�M��)I\"�{ �i`�P��\u0002m\u0003�TFK���Ie��\u0003t\u0005�\u0005n��rz��ls��(�h/�LY�\u0007X\u000e�\u0002�QLof�G��!W��*M% O��\u0016q嬭W� \u0016����f�7 y(���\u0001�\u0019\u0005\u0011�ݪ��\u0003��<k\u0006c(�\u0003S�n� �=~�7~1h�Onī NWLS���.>\u00113�<8����O E�i��.�1(�����h�H�\u001e��+�Ejud��`-��.���e���\u0018{ ���x�g\"`�?��]�;�\u0019%\b\u0001g\u0002\u0012.�L������1^;�\b\u0016l���#T�}ڙ{�d�a��꫼B�S�|���B�p��q$=�l�i��Ms\u0001~�?���A��;\u0004r\u000f�J��]�ޡl\u0016\u001f������f ���� �ö�W�\u001a{O\u0013=�|��j�˃\u0018���+֤H ytqE\u001e���U]qF�]]q\u0001�6�*���V��*�A��`\u001d�4\u0017`�V���KBJ I{�E��\u000e�$\u0012\u000f.Z�_�l�$����\u0014+C&�{�9��\u0015��n���V�P\u0010N\u001c�I���S�p�pvz\u0014X�4 ) �|}w�3�U.؊7 ��\u0002���X�r\u0001��Yw=E�����\u0017��\u000f& 6+� \u0005&ml,>�H���0��ȷ\u0001,��\u0001D�c����\\P)�i\u0002ʒf��y愑X��>� �Zy�\u0007�\\v�l��\u00187 �\u0013�(�\u0007x\u0007\u0016�~�!n��PJ+��\u0017S�&?� ��W�\"מZ�D�\u0006Bp� @8K[2\bm�Bl��=\u0002� �Qg4�\u0001�\u0003�\u000f�8�-��i���\u0003|��< \u0018\"��z12�:j[���Q\u0012TF�n!_3�6K� ]�v{���x\u0001�NʀR(�P�� |�,��s��\u001c/�;,�RLϕg�L�~\u0019\u0017��\u0017*�\u0017d�\u0001�\u001a �v��V��P�\u001bl��J��z �\u0002s��\u0019�$�`�`��է6J� \u0006\u0011���\u0001 S_��qM��5�y��b�*�^sǷ�\u0005�4�\u0018�z�.@I�z��w�tWhMv�2E\u0006�ƨ�b ?����?Ƒ-�2{M��!eo\u00163X\u0012���^�F\\��\u000fu��ŕ�+�\u0003�����\u000f+�ȅ�gQ|QLѠ��Wwe�\u0019�#W�р���\u0015�5D ±�1���!Z\u0010��3\u001a�\u0010�\u0001��t7þ��e��v�q\u0006jX�t \u0002��R:�!�,H\u001c�M���h\u0005��ld\"��S\u000e&�R2ʵwZ�ЌM\u0014k(\u001a '�� &� �p\u000e�����s�0i�|`�/�(�A�\u0011�2?��ɳ�rzH\u0004��4�~���l�fJ,���� \u0011>�~�� �8c�����x�� ����\u001e%A�U�\b�N6�i���g�كx�>��ɨ`�H��A��],\u001f�nǈ�\u001eO!٬�x�X���9i۲�講U\u001d�r����� '})�Nf]�d\u001e5ac��Ir�8�����ea\u0004�Є46�] >f�\u0001㯃�`\u0013�\"] N�\u0010�}/\u0006\u001fM��\u000e /M\b /�D����\u0012��.��q69�i6.�R��� r�I���\u001fN�qaٜ�`�\\��l\u001e�\u0013��\u0014<�9\u001aw��?~\u0010�D\u0006x�\u0016����G:����m-^�<�9\u001b��x\u0002 7z�+=���+q6�`,���Y\u001dD�ݕ8;��N�]�� 9\u0016���a\u0004q%��C����J���Zr=�?㿭@�Iu%� �͗5�\u001cW�\u0004 ;\\�7h�G\u000f�X����H .�\u0005��A$�>9 \u0013ڳ_W���D�\u001a?hEG��\u0005�勾Vg�X\u0003;ΰ��ܺՄ�ƪ\\yY\u0016=�;� �~��� jW�u�N,f8�Պ�/��\u0001y�\u001a)����<�\u0002����\u0011�\u001d�\u0016��g �M���� �?g4�&�\u0001�=Ut&ټ^\u0016�RҾo�X�:\\\u000f���]ٖ�T��/�ߔ�T�k4\u001e¿��Bb�~I K+R Y�4s\\�U]�/���4fs���Gl����p�w��A=���\u0006aO�n���]58y��K����˦�� \u0007`܋��q\u0007f\u0003fj���Of���aͨ)�\u001b6C��X\u0006s��v�\u000fb\"�2\u0004:�\u0018�=�\u0010\u001c�\u0002�e\b��p\u001b\u0002\u0017�\u0001\u0011X��A7���b岘�U\u0001 �\u0002 ���\u001d ��P� *",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "N2+"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Location",
+        "Hà Nội"
+      ],
+      [
+        "Skills",
+        "kỹ năng máy tính cơ bản"
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:33:18.265Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "Yêu cầu bắt buộc: N2+, full-time, có kỹ năng máy tính cơ bản và có thể làm tại Hà Nội.",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N2-N1)",
+          "N2+",
+          "partial"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "No clear evidence",
+          "missing"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": null
+  },
+  {
+    "id": "cand-cv-daovanson-26389",
+    "jobId": "JD-5678",
+    "name": "CV DaoVanSon",
+    "role": "Tester",
+    "stage": "cv_screening",
+    "recommendation": "Recommended to Proceed",
+    "risk": "Low Risk",
+    "email": "cv-daovanson@example.com",
+    "phone": "",
+    "japaneseLevel": "JLPT N3 trở lên",
+    "startDate": "",
+    "summary": "Ứng viên có trình độ tiếng Nhật từ JLPT N3 trở lên, có khả năng nhập liệu và xử lý dữ liệu trên Excel hoặc hệ thống khách hàng chỉ định. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc các ngày lễ và Tết âm lịch Việt Nam. Có kinh nghiệm trong biên phiên dịch tiếng Nhật, giáo dục/đào tạo, nhân sự và tài chính.",
+    "cvSummary": "Ứng viên có trình độ tiếng Nhật từ JLPT N3 trở lên, có khả năng nhập liệu và xử lý dữ liệu trên Excel hoặc hệ thống khách hàng chỉ định. Có kỹ năng thao tác đánh máy nhanh và chính xác, sẵn sàng làm việc các ngày lễ và Tết âm lịch Việt Nam. Có kinh nghiệm trong biên phiên dịch tiếng Nhật, giáo dục/đào tạo, nhân sự và tài chính.",
+    "matchScore": 86,
+    "cvFilePath": "/storage/cvs/JD-5678/cand-cv-daovanson-26389/1776051215874-81646.pdf",
+    "cvTextSnapshot": "%PDF-1.7 %���� 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en) /StructTreeRoot 52 0 R/MarkInfo<</Marked true>>/Metadata 353 0 R/ViewerPreferences 354 0 R>> endobj 2 0 obj <</Type/Pages/Count 4/Kids[ 3 0 R 31 0 R 35 0 R 43 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</ExtGState<</GS5 5 0 R/GS8 8 0 R>>/Font<</F1 6 0 R/F2 10 0 R/F3 12 0 R/F4 17 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 9 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 4401>> stream x��]mo�F\u0012�n���� �W3�Nn�(�I�6mҤ�����\u0007Ŗm6\u0012�J�S\u0003��of)9�����/�\u0014Zo������\u000e�G��o�y����������'٣�mv1��\u0013���^!rk3gTnTf�/o3��2����ο��ˎ^>ɲ{�#���~��2�;~S}�MY��\u0016��Y�ҭ��jT�}_?z1�/���>x{<\\��\u001f�H.�\u0007:D���*�Я_f������G�d��s&;9�ߓ�9��+�̍\u0007zL.��rL`���\b}�������O��d'?��\u001d�O���� �(��u�%T�\bT�\\�8Pv \u001fw��NN\u001b<=|Ň��ˍ} ���[�Ӣ��C��Ӆ�\u001d\u0001��]l �~KX�u����5�+]�� �~\u001a\u001e���� .�Q�\u001f��d�\u0006���\u0019|� �\u001e|�/_��5<.����c�L�u�6�T�^`�\u0013D��\u0013��ZS@�W_ ��\u0002$p\u00145 g\u0011\u001e�\u0007^\bx���� |H>z�\u0004M&\u001f�q�dnI�\u0019�R+�+�#G1Q�ܢ�U�˵U���.VWo\u0002mg0���,\u0006 \\�QĚ�t)�Æ�� �zE��\u0001\u0017\u0006.�5�6��t��gJ\u0010[xg\u0002/�C)\u0007��\u001f���\b8�\u00110^�\u0018Ǧ���lQ��N\u0017�c���p� ��ߓ��\u0012y������\u001dԛ\u000e8���>Ԩ\b5�ʅ\u0002��˝۠�\bV�S����\u001a���!<Np1<��W�nG3\u0017#EZ��B���������#�\u0016s�}?��\u0007v�T���\u001cM �\u001bG�uT�\u0011\u0014�K �m\u001dl��\u0018�v�J�Z�r�Z��29w V4Js�\u0005\u0003+C� ��� �#P�q�Nѽ\u001aקc&H%U�ujƔ���\u0014 ��\u0006c�\u000e���@ p5�\u0006_\u0012^ o6��ka*_\u0004�\"-�Z�-(�\u0006J(�\u0005�Bp�ː�@��W�@�F���[&vtA\u0003�͏\u0011[P^�\u00074\u001bJ\u0003k\u0011��c4�5�* �x7�\"�\u0004���R��?)z�*q�\u0007Q�Q\u001b��\u001c ���f�ug�{�2\u0019��\u0004Z�Pb\u001d���%P�R��fC S�\u0004�m^�gK��S\u0014����\u0018&�� U�\u0019\u0017d�\u001f�1p������/��9\u0013��:\u0017>5W \u0016�/(�\u0011�m\\Ӥ�\u000e�-1C� I�<\u000f�r1F�\u0002\u0003�I�\u00120�A\u0012��A�mƺz�\u001b0Z����eF�r ��eU_pɓ6*�S\u00123��7r �\u001b��{>T�9��)�C���job��nw�0j�e\u001f�m\b�m�@��N�\u0013��_\u001fv4�\u001b`\u001e̎#�:N�\u0006�\u0014\u0012ǖ@�C%0I%\u0006� \u000f\u0002��ĳ\\(J�ŎC\u0017]7*Q*�B\u0014me��������� �\u001f\u001fǌ�\u001f\u0005�\u0002�e<z��ٍ�-��0.7:\u0012�\u0014�MR�}\u0017�A�ͭ�Hbt�K��B�\u0015f��}`�KΑ����jqɆ�&�\b��\u00102ޢ�Z ��%^4�T�Sލ��e+A%\u0017[���70��v��\u000eR� �-|Wq��@�[�$vq���\u0011��\u001c�m\u001c�\u0010�8ғa1x\u0004����\u0003\u00137�O� �W� �O�zm@��&�\\ڮ��k\u0017�\u0014�(I�\u0016GI#h�9��8J!hq�\u0017\u0018T�P�\u0016�T�?y �¢\u0017r���Y��CR�D̟�Q�T��.)gQ���,��F�\u0012s���S (f\\8�?\u00047 �4 ��&��A\u0011��\u0016���N�rh�c9Vb�p\u000f�F9E-�L�+����\u000e;;��9� \u0011�\u0002S\u0010V\u001bK+\u00026\u0005�z%�(\u0005f�\"/�� �W��R`q��\u0015\u0018�\u00122h�1����_����� ��\\'�φL �_qO,P\u0018>\u0017 N��(*XŢg��\u001a�\u0016�_�s��\u0013��WBhK���\"/6=3���\u0012�7������p\u0003��E[���\\���3��C�\u001bA�.cֳ�R�ޭ͠��ecu��b�<\u0003�h�T@�L��\u0015$��6J\u0012����\u001c�\u000e]бa�zZ�\u0005O\\*��69{��Ir\u0010\u000fW>�e5�����f�\u0013U� Fb�� ��\u0004�]��e3 \u0015\u0015��� �T�K>���w\u0019E 'Y� G=� �.�Jϗ\u0007U\\P(�G3\u001d��vH�6<�=`-���mp��b\u001e`��v[F�{�\u001c�H�k��&�s�$\u0007��-W�%����U[yܽ�x\u0003�H��Zb����'G��8�h�G\u0016S3\u0003+�\u001e��ʎ�c��&l\u0011�詙+ \u0016�\u0010(m�����p���\u0003~\u001b�8�X �W[ ���B|6�`,\\\\��-k�Յ*�8U��Y��\u0004ғ\u0016\u001e��:zҽ���'\u001d%�ݓ������z��ز\u0014\u001a�\u0014�Y2�\b'�����עa��mX󉹂0����|q}\u0006Q W�\u001dnQ> K��\u0013�n�)�L�آ\u001b\u0011N8$fK�pЛ@�\u0017�4\u0013.Dc\u001e�/Sl��YQ��Ezf �v�B9���k�1*�V�t\u0002�ta�.6�H�!��jr�XKŵ�[\u0006��!U�\b����A؍A����n@�\u0002\u0002�� �\"�4��EU� �NŶs�.�OΛ1\u0012s�\u0004 W�m����\u000e�1�\u0010I^�\u001f�^\u0014\u0007�� �H�Ql\u0019<6�p�� � ��\u0011�h��\b���ɎO�1\u001e\u0010A}�$f8�ː�d��C�����O��YX�0Lq�8#\u001dݫ���tt)��F�HG��/�\"�8Iܑ\u000e�� \u0005�?_R(\\z\u000e�\u0019xr�N�pk�eǭ�薇#\u0007�yσ@�� p\u001d Uң 'fPa�OS(��{Q��9��9ۑDg0\u0019��/W��\u0013(�G\u0012K���S3T\u0016XvC��ƕ8k�O��L\u0019][I� ΍��\u001c��A� v�as.1q��3�-��3����\u0013�㉾�dwbƌ��$e���\u001a�fX���gc�bu� �IHw����U�E�9�\u0002;'tu��\u001f�͉�����Q�^>�*���\u0010G>=�'.��\u0004'!1s\u0010\b�̅pd���D�D 5W�2�{��\u000f\u001b.K�^�-Rs����\u0013�r���^H�f�\u001f�5�A�����5~�\u0014���^�� ��\u0012��}�N�(oV�B\u001a4�y���ca�K�\u001fv\u0003�$)K��׸?��_���0yCڻ�m�\".���\u0018\u001d\u001f�\u0005\u001f��?��K���>\\1\u0006\u0016w\u001a\u0012��?k�\"�\u00167���\u001c\u0013���U���+���{�2�{[� � ��j�y�K��\u0014�z4�B�{3���\"\u0004���;�Ҷ�'����\u0017�\u000f��U�D�]s�f<�\u001a�i��-��Y ^!�m�\u001bVg�W�6�̂\u000e\u0013�sv���Ig6J\u0012�3\u001bG9�/&a��/�\u001c>\u0003�xr�l��A���\u0002�?z�A�\u0013.��m\u0019F6��2/J �a���I�\u0013\u001e��x�\u0005g���\"�n(I���r���Jȕ�\u0011��-�ߤ���QT�r�A� ��g\u0007���>D��\bqz~�ւ�!���_�@��\u0011\\\b�\u001a;��\u0011��� |b�^����\u000edI^��\u0016��\u0019&�L��5E�O;��y����\"G�@�a&�c��\u001e�eY�Q\u0010�(rQ�s\u0007z\u001c3=\u0016[;�\u0018����vK�Z�J�'\u000eQ��P���\b���ҵf�\u001dM���;\u0010�K��̡*�I\u0006�\u001c�[�@�n�|����\u001bHK.<�+�f�m�\u0006\u000e�%�R���Q~l0��J$�|^��s��Y3\u001eO?\u0013(���W����\u0002�6T��ᵰ9���ݘLL\u0019+�\u0016N?�&i �|ؙ�(\u001aIZ\u0003�I� \u0002�eu��Mh��9[�h��Lj�l�\"A��:�ګ��4�<_��HD�\u001d��7�@ �����\u0005��Ahb�J��\u0017ٯ ��\u0019[}J!�Ҧ�Y\u0015f �����g1|�u�t][\u0015A* >%��\u0001�*\u0005��Q�%i \u001a'�]��Q�)��\\�\u001d#K \u0005�� :���*��D�Tr�J�(kJn4��l�pt��\"5{X�K���G�\u0011�'�^7!�\\/�\u000e��a;�Qm\u0011�!�Y��}\u0010Uj����aU�I��*\u0017�뎪4Is�8I�4��N�&�j�J�()Uib���4�� �4-{+U\u001aG9��t\u0019�O8=^�����\u001bG�w����]���HMǧ��t\u0005VV�\u0003�$M��\u0014���(H:�����v���T�i�Z��(HT5\u0003�Y�m����+��--��4I��?���fƵ\u001eѻ�Ԃ�2\u0003Z8<��v�0�J�lO{$�\u0002Ncu\u001d�M��@���J;L\u0007v�\u0002.I��8I�f ���\u000e$�ji\b�()-Ab��� �� nzZ�Vnz\u001c垛�l�\u0012s�4k\u0014Wi�Z\u001c�۰�\u001d9�l\u0005�\u001e>e�\\$��L<\u0019j<9-�K�Q�d��|�Z�4\u001b�Q��-Z\u001c�-�>k{�c ��f�9\u0005���Ή\\R l�� ���Yq�\u0003�@ ����e�5?J�-�M� �\u0005�\u001c�(��\u0019��\u0013n�N7z͇{�L���\u0010\u001aŒ:�O��ُ\u0004�\u0013���N�,�~d�$v]\u0016GI��\u0012s��8\b�.K�J�˨��;����\u0014�\u0016�u\u0015\u0016\u0014՚�\u001aa]&��2&\u0004\u0007�\u0012�S^�v �ܩB\u0016\u001e���G�;\u0018�W�8\\�]��β\"�\u0014�\u000e%�.��\u001e��X��Q�'��C�$n=N�\u001c^]Mn3T�C^�ү��\u0011�\u001d< ��>u\u0006�>� ��q\u0012\u000e�^�~a�&�_�5��jf��\u001c�\u0007^�vbmO��΂��W\u0017�W���M���\u001e-�&���[��n�/��y��� �\u0005\u0005\u0019�^4S\u001c����`�Y�11��^��\u001b�2}�4�� \u0001��1��c1�\u0014# !��m\u0004�.\u0012�� 5ޜNt�:������.�q��(ӡ�ह��\u001d�Y\u0003<���>��<���:[�ErYW���M��V<Q���V)���W�\u001c����]�\u0016�DnVwHh�\u001aE\u001aT\b�^�\u001aӫ�E�\u001a��\u0012W���pC��Cl�݂�z���dB�D\u0004�AO�Ӽ�C�\u0015N�R{fU�h�\u000f�'�W�wW\u0013\u0016�f�\u0004�χ��gl*Ay�GG���\u0011�$�\u001a%�m���/��k��Į\u0011�(m�V/o�w�\\�'��mV\u0005Su5knP��l4�A�'c��9�Ĝ*A\u0016Wԥ�� M�̛�M��.��� \u0005�WM=\u000fc��sV\u0005\u0011�]y$�\u0013Q\u0017N?6hF?��sڠ��\u0017��=�oP|�L�F�����b �7i�\u0005W#;X�\u0018\u0004$���\u0007\u0015�6\u0003��\u0018\u000fOMqM�]�^�\"��z4YN5[\u0002.t\u0016�S�G���O�F-uK�R\u0001�� �T��Dآ�f\"7� ��t�����\u0001K�� endstream endobj 5 0 obj <</Type/ExtGState/BM/Normal/ca 1>> endobj 6 0 obj <</Type/Font/Subtype/TrueType/Name/F1/BaseFont/BCDEEE+TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 7 0 R/FirstChar 32/LastChar 124/Widths 334 0 R>> endobj 7 0 obj <</Type/FontDescriptor/FontName/BCDEEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 8 0 obj <</Type/ExtGState/BM/Normal/CA 1>> endobj 9 0 obj <</Subtype/Link/Rect[ 324.76 683.85 494.9 699.65] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(mailto:daoson25102004@gmail.com) >>/StructParent 1>> endobj 10 0 obj <</Type/Font/Subtype/TrueType/Name/F2/BaseFont/BCDFEE+TimesNewRomanPS-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 11 0 R/FirstChar 32/LastChar 121/Widths 338 0 R>> endobj 11 0 obj <</Type/FontDescriptor/FontName/BCDFEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 12 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Encoding/Identity-H/DescendantFonts 13 0 R/ToUnicode 335 0 R>> endobj 13 0 obj [ 14 0 R] endobj 14 0 obj <</BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 15 0 R/FontDescriptor 16 0 R/W 337 0 R>> endobj 15 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 16 0 obj <</Type/FontDescriptor/FontName/BCDGEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 17 0 obj <</Type/Font/Subtype/TrueType/Name/F4/BaseFont/BCDHEE+TimesNewRomanPS-ItalicMT/Encoding/WinAnsiEncoding/FontDescriptor 18 0 R/FirstChar 32/LastChar 121/Widths 342 0 R>> endobj 18 0 obj <</Type/FontDescriptor/FontName/BCDHEE+TimesNewRomanPS-ItalicMT/Flags 32/ItalicAngle -16.4/Ascent 891/Descent -216/CapHeight 694/AvgWidth 402/MaxWidth 1831/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -498 -216 1333 694] /FontFile2 340 0 R>> endobj 19 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDIEE+SymbolMT/Encoding/Identity-H/DescendantFonts 20 0 R/ToUnicode 343 0 R>> endobj 20 0 obj [ 21 0 R] endobj 21 0 obj <</BaseFont/BCDIEE+SymbolMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 22 0 R/FontDescriptor 23 0 R/W 345 0 R>> endobj 22 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 23 0 obj <</Type/FontDescriptor/FontName/BCDIEE+SymbolMT/Flags 32/ItalicAngle 0/Ascent 1005/Descent -216/CapHeight 693/AvgWidth 600/MaxWidth 1113/FontWeight 400/XHeight 250/StemV 60/FontBBox[ 0 -216 1113 693] /FontFile2 344 0 R>> endobj 24 0 obj <</Type/Font/Subtype/TrueType/Name/F6/BaseFont/BCDJEE+ArialMT/Encoding/WinAnsiEncoding/FontDescriptor 25 0 R/FirstChar 32/LastChar 32/Widths 346 0 R>> endobj 25 0 obj <</Type/FontDescriptor/FontName/BCDJEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 347 0 R>> endobj 26 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDKEE+TimesNewRomanPSMT/Encoding/Identity-H/DescendantFonts 27 0 R/ToUnicode 331 0 R>> endobj 27 0 obj [ 28 0 R] endobj 28 0 obj <</BaseFont/BCDKEE+TimesNewRomanPSMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 29 0 R/FontDescriptor 30 0 R/W 333 0 R>> endobj 29 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 30 0 obj <</Type/FontDescriptor/FontName/BCDKEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 31 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F2 10 0 R/F1 6 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R/F8 33 0 R/F4 17 0 R>>/ExtGState<</GS5 5 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 32 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 2>> endobj 32 0 obj <</Filter/FlateDecode/Length 4916>> stream x��][s�F�~w���<m��\b��p٤R%�Y�^��\u0015�n���� 0 (��ן�\u0006@S�a\u0012�=I�\"�\u0014�o\u001a���o\u0006���rV�o�=~��� \u0011\u001f�Ϊ\u001b1)��\u001f?L��N<{�\\���I\u001c��_.��E\u0002?�\\��x��\u001f_���g�O�\u001c�M i�؈��O$|/\u0016R�qd3\u0003��Q���\u0005|��\u0007+nZ����w�����'�������O��+���'\u0007A�(�\u001f@\u0013� ��4��sj&����2���\u0017��7o������m<2QQ�v��Qpkd�$�\u0013H|��8>i��zvىg�����8\u0013�0p3�T�H�C��j���\u001e'b<T2y����Ӭ�X\u0019�d\u0012\u0006<H;�𑚼8��|����� ~�'ᆧ>��gp\u001b ������t2��xr1M&5�h���\u001fu��5���\u001aFj�L�ɉ�mk��Id]Y\u0005\\PY���'of{ ��K�(ӁeJ�HJ\u000f�\u00025僱���oz�81Lp\u0015�`��o9�C�n@狩�'-��\u0002���R�����,�9$\u001cM閭S��:���%\u0019��9��t�`�������4���n�@\b���f��\u0016\u0017� �����2\u0016���׸\u0003�_S\u001e\u0002h�#%= ?��\u001aVuɅcUd}8l�X\u001bI�\u0001��*�hJڲ���=\u00043���<�4&�� �5\u0017�\u0004\u0004��b\u0013AI���\u001e��%�HYT��d\u0005\u0017�\u0005�B��I@\"ߤ�@�� %͢, )\u0006\u0018e/�9�0 3\u0003��B�F��\u001cL\u001a���\u001f\\+\b���\u0010r�Ї�\u0007�=�<���Q�I6��m\u001c��wnܿ5\u0018s�`\u0012g06��3\u00186\u0005�1͊ �j�q\u0005�w3\u0019�\u0007\u0001%�}0� �ӣ|r-�[.�#a��A'\u0005V�\u0007 C�<����\u0015\u0017Tn@�Bʒ����듅ij PW�r�?��@�5�\u0014��һ�c�\u001d�ձA�\u000e\u000e\\=��$A���`ح�\u0003�\u001c� �|�a\u0003zڋ��AXޕ�Auö��\u001f�M>ȑ��\u0003PWl&\"�#�[I��\u0001X6�O��RT׵�#�&bՖ8ql\u0013� �Kl@�\u0014�w�\u0003�\u000e\u0015��������r�E\u0006�E�22�\u0007��l�\u0007߷e����ёNCJc�H� NQ��&4Uɦh:�#\u0013T�\\Eڧ�a�\u001e%eB�$0��\u0003�((�3ູ��<ʃ��\u0015e�>�:2�rM�2>K��R�34l2��\u001f�\u001b U}���\u0015%z%|� �X �.�������\u0005gȕ\u0006 ���d���+ \u0012rm\u000f�=�r Λi���$��=�A8a��\u0004i @\u001c��LF\u0019�l�\u0002�v^i(q '�M1Kq\u0001�c�1� ' d{^��X\u0004BF9a H�\u0006��\u0006\u0014Ia\u0012i= C@rd���-^��> *\u0010D��O v��e\u0012e>$��J�~�M�>=J&�\u0011c\u0002�M��)I\"�{ �i`�P��\u0002m\u0003�TFK���Ie��\u0003t\u0005�\u0005n��rz��ls��(�h/�LY�\u0007X\u000e�\u0002�QLof�G��!W��*M% O��\u0016q嬭W� \u0016����f�7 y(���\u0001�\u0019\u0005\u0011�ݪ��\u0003��<k\u0006c(�\u0003S�n� �=~�7~1h�Onī NWLS���.>\u00113�<8����O E�i��.�1(�����h�H�\u001e��+�Ejud��`-��.���e���\u0018{ ���x�g\"`�?��]�;�\u0019%\b\u0001g\u0002\u0012.�L������1^;�\b\u0016l���#T�}ڙ{�d�a��꫼B�S�|���B�p��q$=�l�i��Ms\u0001~�?���A��;\u0004r\u000f�J��]�ޡl\u0016\u001f������f ���� �ö�W�\u001a{O\u0013=�|��j�˃\u0018���+֤H ytqE\u001e���U]qF�]]q\u0001�6�*���V��*�A��`\u001d�4\u0017`�V���KBJ I{�E��\u000e�$\u0012\u000f.Z�_�l�$����\u0014+C&�{�9��\u0015��n���V�P\u0010N\u001c�I���S�p�pvz\u0014X�4 ) �|}w�3�U.؊7 ��\u0002���X�r\u0001��Yw=E�����\u0017��\u000f& 6+� \u0005&ml,>�H���0��ȷ\u0001,��\u0001D�c����\\P)�i\u0002ʒf��y愑X��>� �Zy�\u0007�\\v�l��\u00187 �\u0013�(�\u0007x\u0007\u0016�~�!n��PJ+��\u0017S�&?� ��W�\"מZ�D�\u0006Bp� @8K[2\bm�Bl��=\u0002� �Qg4�\u0001�\u0003�\u000f�8�-��i���\u0003|��< \u0018\"��z12�:j[���Q\u0012TF�n!_3�6K� ]�v{���x\u0001�NʀR(�P�� |�,��s��\u001c/�;,�RLϕg�L�~\u0019\u0017��\u0017*�\u0017d�\u0001�\u001a �v��V��P�\u001bl��J��z �\u0002s��\u0019�$�`�`��է6J� \u0006\u0011���\u0001 S_��qM��5�y��b�*�^sǷ�\u0005�4�\u0018�z�.@I�z��w�tWhMv�2E\u0006�ƨ�b ?����?Ƒ-�2{M��!eo\u00163X\u0012���^�F\\��\u000fu��ŕ�+�\u0003�����\u000f+�ȅ�gQ|QLѠ��Wwe�\u0019�#W�р���\u0015�5D ±�1���!Z\u0010��3\u001a�\u0010�\u0001��t7þ��e��v�q\u0006jX�t \u0002��R:�!�,H\u001c�M���h\u0005��ld\"��S\u000e&�R2ʵwZ�ЌM\u0014k(\u001a '�� &� �p\u000e�����s�0i�|`�/�(�A�\u0011�2?��ɳ�rzH\u0004��4�~���l�fJ,���� \u0011>�~�� �8c�����x�� ����\u001e%A�U�\b�N6�i���g�كx�>��ɨ`�H��A��],\u001f�nǈ�\u001eO!٬�x�X���9i۲�講U\u001d�r����� '})�Nf]�d\u001e5ac��Ir�8�����ea\u0004�Є46�] >f�\u0001㯃�`\u0013�\"] N�\u0010�}/\u0006\u001fM��\u000e /M\b /�D����\u0012��.��q69�i6.�R��� r�I���\u001fN�qaٜ�`�\\��l\u001e�\u0013��\u0014<�9\u001aw��?~\u0010�D\u0006x�\u0016����G:����m-^�<�9\u001b��x\u0002 7z�+=���+q6�`,���Y\u001dD�ݕ8;��N�]�� 9\u0016���a\u0004q%��C����J���Zr=�?㿭@�Iu%� �͗5�\u001cW�\u0004 ;\\�7h�G\u000f�X����H .�\u0005��A$�>9 \u0013ڳ_W���D�\u001a?hEG��\u0005�勾Vg�X\u0003;ΰ��ܺՄ�ƪ\\yY\u0016=�;� �~��� jW�u�N,f8�Պ�/��\u0001y�\u001a)����<�\u0002����\u0011�\u001d�\u0016��g �M���� �?g4�&�\u0001�=Ut&ټ^\u0016�RҾo�X�:\\\u000f���]ٖ�T��/�ߔ�T�k4\u001e¿��Bb�~I K+R Y�4s\\�U]�/���4fs���Gl����p�w��A=���\u0006aO�n���]58y��K����˦�� \u0007`܋��q\u0007f\u0003fj���Of���aͨ)�\u001b6C��X\u0006s��v�\u000fb\"�2\u0004:�\u0018�=�\u0010\u001c�\u0002�e\b��p\u001b\u0002\u0017�\u0001\u0011X��A7���b岘�U\u0001 �\u0002 ���\u001d ��P� *",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "JLPT N3 trở lên"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Location",
+        "Hà Nội, Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy"
+      ],
+      [
+        "Skills",
+        "Nhập liệu trên Excel, Xử lý và gia công dữ liệu, Biên phiên dịch tiếng Nhật, Thao tác đánh máy nhanh và chính xác"
+      ],
+      [
+        "Experience",
+        "Không yêu cầu kinh nghiệm, có khả năng làm việc theo quy trình được đào tạo, báo cáo tiến độ công việc/sự cố phát sinh cho quản lý."
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:33:45.860Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "Chi tiết tin tuyển dụng\nYêu cầu:\nKhông yêu cầu kinh nghiệm\nTrung cấp trở lên\nTuổi 20 - 40\nTiếng Nhật JLPT N3\nTiếng Nhật JLPT N2\nXem chi tiết Yêu cầu\nQuyền lợi:\nNghỉ thứ 7\nBảo hiểm xã hội\nBảo hiểm sức khỏe\nXem chi tiết Quyền lợi\nChuyên môn:\nBiên phiên dịch tiếng Nhật\nGiáo dục / Đào tạo\nNhân sự\nTài chính\nMô tả công việc\nNhập thông tin từ dữ liệu được cung cấp lên trên excel hoặc hệ thống của khách hàng chỉ định;\nXử lý và gia công dữ liệu theo quy trình được đào tạo;\nBáo cáo tiến độ công việc/sự cố phát sinh cho Quản lý;\nYêu cầu ứng viên\nTrình độ tiếng Nhật tương đương N3 trở lên (có bằng JLPT là lợi thế);\nThao tác đánh máy nhanh và chính xác;\nLàm việc được ngày Lễ và Tết âm lịch Việt Nam (Nghỉ theo Lễ Nhật);\nQuyền lợi\nLương tổng 8.300.000 VNĐ – 11.000.000 VNĐ/tháng tùy theo năng lực bao gồm: LCB + Phụ cấp tiếng Nhật + Thưởng hiệu suất;\nHưởng lương tháng 13 theo quy định Công ty;\nReview lương hàng năm theo năng lực;\nLàm việc ngày Lễ, Tết Việt Nam hưởng lương theo Luật Lao động Việt Nam;\nĐược tham gia BHXH, BHYT, BHTN theo Luật\nHưởng chế độ 14 ngày phép/năm theo quy định Công ty;\nTham gia Công đoàn hưởng các chế độ ngày Lễ, Tết, sinh nhật, kết hôn, thăm hỏi,...\nMôi trường làm việc thân thiện, chuyên nghiệp;\nĐược trang bị máy tính hiện đại phục vụ công việc;\nCơ hội được đào tạo nâng cao, thăng tiến trong công việc;\nThiết bị làm việc\nĐược cấp Máy tính\nQuyền lợi\nBảo hiểm xã hội, Bảo hiểm sức khỏe, Thưởng tháng 13\nĐịa điểm làm việc (đã được cập nhật theo Danh mục Hành chính mới - thêm quận/huyện cũ tương ứng để dễ dàng tra cứu)\n- Hà Nội: Tòa nhà Detech II, số 107 Nguyễn Phong Sắc, Phường Cầu Giấy (quận Cầu Giấy cũ)\nThời gian làm việc\nThứ 2 - Thứ 6 (từ 08:00 đến 17:00)\nThứ 2 - Thứ 6 (từ 07:00 đến 16:00)",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N3+)",
+          "JLPT N3 trở lên",
+          "matched"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "Evidence found",
+          "matched"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Excel proficiency highlighted in CV.",
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": null
+  },
+  {
+    "id": "cand-cv-daovanson-23311",
+    "jobId": "JD-9817",
+    "name": "CV DaoVanSon",
+    "role": "Bilingual Data Entry Operator",
+    "stage": "expired",
+    "recommendation": "Manual Review",
+    "risk": "Low Risk",
+    "email": "cv-daovanson@example.com",
+    "phone": "",
+    "japaneseLevel": "N3+",
+    "startDate": "",
+    "summary": "AI parsed summary unavailable.",
+    "cvSummary": "AI parsed summary unavailable.",
+    "matchScore": 78,
+    "cvFilePath": "/storage/cvs/JD-9817/cand-cv-daovanson-23311/1776051511456-63279.pdf",
+    "cvTextSnapshot": "%PDF-1.7 %���� 1 0 obj <</Type/Catalog/Pages 2 0 R/Lang(en) /StructTreeRoot 52 0 R/MarkInfo<</Marked true>>/Metadata 353 0 R/ViewerPreferences 354 0 R>> endobj 2 0 obj <</Type/Pages/Count 4/Kids[ 3 0 R 31 0 R 35 0 R 43 0 R] >> endobj 3 0 obj <</Type/Page/Parent 2 0 R/Resources<</ExtGState<</GS5 5 0 R/GS8 8 0 R>>/Font<</F1 6 0 R/F2 10 0 R/F3 12 0 R/F4 17 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 9 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 0>> endobj 4 0 obj <</Filter/FlateDecode/Length 4401>> stream x��]mo�F\u0012�n���� �W3�Nn�(�I�6mҤ�����\u0007Ŗm6\u0012�J�S\u0003��of)9�����/�\u0014Zo������\u000e�G��o�y����������'٣�mv1��\u0013���^!rk3gTnTf�/o3��2����ο��ˎ^>ɲ{�#���~��2�;~S}�MY��\u0016��Y�ҭ��jT�}_?z1�/���>x{<\\��\u001f�H.�\u0007:D���*�Я_f������G�d��s&;9�ߓ�9��+�̍\u0007zL.��rL`���\b}�������O��d'?��\u001d�O���� �(��u�%T�\bT�\\�8Pv \u001fw��NN\u001b<=|Ň��ˍ} ���[�Ӣ��C��Ӆ�\u001d\u0001��]l �~KX�u����5�+]�� �~\u001a\u001e���� .�Q�\u001f��d�\u0006���\u0019|� �\u001e|�/_��5<.����c�L�u�6�T�^`�\u0013D��\u0013��ZS@�W_ ��\u0002$p\u00145 g\u0011\u001e�\u0007^\bx���� |H>z�\u0004M&\u001f�q�dnI�\u0019�R+�+�#G1Q�ܢ�U�˵U���.VWo\u0002mg0���,\u0006 \\�QĚ�t)�Æ�� �zE��\u0001\u0017\u0006.�5�6��t��gJ\u0010[xg\u0002/�C)\u0007��\u001f���\b8�\u00110^�\u0018Ǧ���lQ��N\u0017�c���p� ��ߓ��\u0012y������\u001dԛ\u000e8���>Ԩ\b5�ʅ\u0002��˝۠�\bV�S����\u001a���!<Np1<��W�nG3\u0017#EZ��B���������#�\u0016s�}?��\u0007v�T���\u001cM �\u001bG�uT�\u0011\u0014�K �m\u001dl��\u0018�v�J�Z�r�Z��29w V4Js�\u0005\u0003+C� ��� �#P�q�Nѽ\u001aקc&H%U�ujƔ���\u0014 ��\u0006c�\u000e���@ p5�\u0006_\u0012^ o6��ka*_\u0004�\"-�Z�-(�\u0006J(�\u0005�Bp�ː�@��W�@�F���[&vtA\u0003�͏\u0011[P^�\u00074\u001bJ\u0003k\u0011��c4�5�* �x7�\"�\u0004���R��?)z�*q�\u0007Q�Q\u001b��\u001c ���f�ug�{�2\u0019��\u0004Z�Pb\u001d���%P�R��fC S�\u0004�m^�gK��S\u0014����\u0018&�� U�\u0019\u0017d�\u001f�1p������/��9\u0013��:\u0017>5W \u0016�/(�\u0011�m\\Ӥ�\u000e�-1C� I�<\u000f�r1F�\u0002\u0003�I�\u00120�A\u0012��A�mƺz�\u001b0Z����eF�r ��eU_pɓ6*�S\u00123��7r �\u001b��{>T�9��)�C���job��nw�0j�e\u001f�m\b�m�@��N�\u0013��_\u001fv4�\u001b`\u001e̎#�:N�\u0006�\u0014\u0012ǖ@�C%0I%\u0006� \u000f\u0002��ĳ\\(J�ŎC\u0017]7*Q*�B\u0014me��������� �\u001f\u001fǌ�\u001f\u0005�\u0002�e<z��ٍ�-��0.7:\u0012�\u0014�MR�}\u0017�A�ͭ�Hbt�K��B�\u0015f��}`�KΑ����jqɆ�&�\b��\u00102ޢ�Z ��%^4�T�Sލ��e+A%\u0017[���70��v��\u000eR� �-|Wq��@�[�$vq���\u0011��\u001c�m\u001c�\u0010�8ғa1x\u0004����\u0003\u00137�O� �W� �O�zm@��&�\\ڮ��k\u0017�\u0014�(I�\u0016GI#h�9��8J!hq�\u0017\u0018T�P�\u0016�T�?y �¢\u0017r���Y��CR�D̟�Q�T��.)gQ���,��F�\u0012s���S (f\\8�?\u00047 �4 ��&��A\u0011��\u0016���N�rh�c9Vb�p\u000f�F9E-�L�+����\u000e;;��9� \u0011�\u0002S\u0010V\u001bK+\u00026\u0005�z%�(\u0005f�\"/�� �W��R`q��\u0015\u0018�\u00122h�1����_����� ��\\'�φL �_qO,P\u0018>\u0017 N��(*XŢg��\u001a�\u0016�_�s��\u0013��WBhK���\"/6=3���\u0012�7������p\u0003��E[���\\���3��C�\u001bA�.cֳ�R�ޭ͠��ecu��b�<\u0003�h�T@�L��\u0015$��6J\u0012����\u001c�\u000e]бa�zZ�\u0005O\\*��69{��Ir\u0010\u000fW>�e5�����f�\u0013U� Fb�� ��\u0004�]��e3 \u0015\u0015��� �T�K>���w\u0019E 'Y� G=� �.�Jϗ\u0007U\\P(�G3\u001d��vH�6<�=`-���mp��b\u001e`��v[F�{�\u001c�H�k��&�s�$\u0007��-W�%����U[yܽ�x\u0003�H��Zb����'G��8�h�G\u0016S3\u0003+�\u001e��ʎ�c��&l\u0011�詙+ \u0016�\u0010(m�����p���\u0003~\u001b�8�X �W[ ���B|6�`,\\\\��-k�Յ*�8U��Y��\u0004ғ\u0016\u001e��:zҽ���'\u001d%�ݓ������z��ز\u0014\u001a�\u0014�Y2�\b'�����עa��mX󉹂0����|q}\u0006Q W�\u001dnQ> K��\u0013�n�)�L�آ\u001b\u0011N8$fK�pЛ@�\u0017�4\u0013.Dc\u001e�/Sl��YQ��Ezf �v�B9���k�1*�V�t\u0002�ta�.6�H�!��jr�XKŵ�[\u0006��!U�\b����A؍A����n@�\u0002\u0002�� �\"�4��EU� �NŶs�.�OΛ1\u0012s�\u0004 W�m����\u000e�1�\u0010I^�\u001f�^\u0014\u0007�� �H�Ql\u0019<6�p�� � ��\u0011�h��\b���ɎO�1\u001e\u0010A}�$f8�ː�d��C�����O��YX�0Lq�8#\u001dݫ���tt)��F�HG��/�\"�8Iܑ\u000e�� \u0005�?_R(\\z\u000e�\u0019xr�N�pk�eǭ�薇#\u0007�yσ@�� p\u001d Uң 'fPa�OS(��{Q��9��9ۑDg0\u0019��/W��\u0013(�G\u0012K���S3T\u0016XvC��ƕ8k�O��L\u0019][I� ΍��\u001c��A� v�as.1q��3�-��3����\u0013�㉾�dwbƌ��$e���\u001a�fX���gc�bu� �IHw����U�E�9�\u0002;'tu��\u001f�͉�����Q�^>�*���\u0010G>=�'.��\u0004'!1s\u0010\b�̅pd���D�D 5W�2�{��\u000f\u001b.K�^�-Rs����\u0013�r���^H�f�\u001f�5�A�����5~�\u0014���^�� ��\u0012��}�N�(oV�B\u001a4�y���ca�K�\u001fv\u0003�$)K��׸?��_���0yCڻ�m�\".���\u0018\u001d\u001f�\u0005\u001f��?��K���>\\1\u0006\u0016w\u001a\u0012��?k�\"�\u00167���\u001c\u0013���U���+���{�2�{[� � ��j�y�K��\u0014�z4�B�{3���\"\u0004���;�Ҷ�'����\u0017�\u000f��U�D�]s�f<�\u001a�i��-��Y ^!�m�\u001bVg�W�6�̂\u000e\u0013�sv���Ig6J\u0012�3\u001bG9�/&a��/�\u001c>\u0003�xr�l��A���\u0002�?z�A�\u0013.��m\u0019F6��2/J �a���I�\u0013\u001e��x�\u0005g���\"�n(I���r���Jȕ�\u0011��-�ߤ���QT�r�A� ��g\u0007���>D��\bqz~�ւ�!���_�@��\u0011\\\b�\u001a;��\u0011��� |b�^����\u000edI^��\u0016��\u0019&�L��5E�O;��y����\"G�@�a&�c��\u001e�eY�Q\u0010�(rQ�s\u0007z\u001c3=\u0016[;�\u0018����vK�Z�J�'\u000eQ��P���\b���ҵf�\u001dM���;\u0010�K��̡*�I\u0006�\u001c�[�@�n�|����\u001bHK.<�+�f�m�\u0006\u000e�%�R���Q~l0��J$�|^��s��Y3\u001eO?\u0013(���W����\u0002�6T��ᵰ9���ݘLL\u0019+�\u0016N?�&i �|ؙ�(\u001aIZ\u0003�I� \u0002�eu��Mh��9[�h��Lj�l�\"A��:�ګ��4�<_��HD�\u001d��7�@ �����\u0005��Ahb�J��\u0017ٯ ��\u0019[}J!�Ҧ�Y\u0015f �����g1|�u�t][\u0015A* >%��\u0001�*\u0005��Q�%i \u001a'�]��Q�)��\\�\u001d#K \u0005�� :���*��D�Tr�J�(kJn4��l�pt��\"5{X�K���G�\u0011�'�^7!�\\/�\u000e��a;�Qm\u0011�!�Y��}\u0010Uj����aU�I��*\u0017�뎪4Is�8I�4��N�&�j�J�()Uib���4�� �4-{+U\u001aG9��t\u0019�O8=^�����\u001bG�w����]���HMǧ��t\u0005VV�\u0003�$M��\u0014���(H:�����v���T�i�Z��(HT5\u0003�Y�m����+��--��4I��?���fƵ\u001eѻ�Ԃ�2\u0003Z8<��v�0�J�lO{$�\u0002Ncu\u001d�M��@���J;L\u0007v�\u0002.I��8I�f ���\u000e$�ji\b�()-Ab��� �� nzZ�Vnz\u001c垛�l�\u0012s�4k\u0014Wi�Z\u001c�۰�\u001d9�l\u0005�\u001e>e�\\$��L<\u0019j<9-�K�Q�d��|�Z�4\u001b�Q��-Z\u001c�-�>k{�c ��f�9\u0005���Ή\\R l�� ���Yq�\u0003�@ ����e�5?J�-�M� �\u0005�\u001c�(��\u0019��\u0013n�N7z͇{�L���\u0010\u001aŒ:�O��ُ\u0004�\u0013���N�,�~d�$v]\u0016GI��\u0012s��8\b�.K�J�˨��;����\u0014�\u0016�u\u0015\u0016\u0014՚�\u001aa]&��2&\u0004\u0007�\u0012�S^�v �ܩB\u0016\u001e���G�;\u0018�W�8\\�]��β\"�\u0014�\u000e%�.��\u001e��X��Q�'��C�$n=N�\u001c^]Mn3T�C^�ү��\u0011�\u001d< ��>u\u0006�>� ��q\u0012\u000e�^�~a�&�_�5��jf��\u001c�\u0007^�vbmO��΂��W\u0017�W���M���\u001e-�&���[��n�/��y��� �\u0005\u0005\u0019�^4S\u001c����`�Y�11��^��\u001b�2}�4�� \u0001��1��c1�\u0014# !��m\u0004�.\u0012�� 5ޜNt�:������.�q��(ӡ�ह��\u001d�Y\u0003<���>��<���:[�ErYW���M��V<Q���V)���W�\u001c����]�\u0016�DnVwHh�\u001aE\u001aT\b�^�\u001aӫ�E�\u001a��\u0012W���pC��Cl�݂�z���dB�D\u0004�AO�Ӽ�C�\u0015N�R{fU�h�\u000f�'�W�wW\u0013\u0016�f�\u0004�χ��gl*Ay�GG���\u0011�$�\u001a%�m���/��k��Į\u0011�(m�V/o�w�\\�'��mV\u0005Su5knP��l4�A�'c��9�Ĝ*A\u0016Wԥ�� M�̛�M��.��� \u0005�WM=\u000fc��sV\u0005\u0011�]y$�\u0013Q\u0017N?6hF?��sڠ��\u0017��=�oP|�L�F�����b �7i�\u0005W#;X�\u0018\u0004$���\u0007\u0015�6\u0003��\u0018\u000fOMqM�]�^�\"��z4YN5[\u0002.t\u0016�S�G���O�F-uK�R\u0001�� �T��Dآ�f\"7� ��t�����\u0001K�� endstream endobj 5 0 obj <</Type/ExtGState/BM/Normal/ca 1>> endobj 6 0 obj <</Type/Font/Subtype/TrueType/Name/F1/BaseFont/BCDEEE+TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FontDescriptor 7 0 R/FirstChar 32/LastChar 124/Widths 334 0 R>> endobj 7 0 obj <</Type/FontDescriptor/FontName/BCDEEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 8 0 obj <</Type/ExtGState/BM/Normal/CA 1>> endobj 9 0 obj <</Subtype/Link/Rect[ 324.76 683.85 494.9 699.65] /BS<</W 0>>/F 4/A<</Type/Action/S/URI/URI(mailto:daoson25102004@gmail.com) >>/StructParent 1>> endobj 10 0 obj <</Type/Font/Subtype/TrueType/Name/F2/BaseFont/BCDFEE+TimesNewRomanPS-BoldMT/Encoding/WinAnsiEncoding/FontDescriptor 11 0 R/FirstChar 32/LastChar 121/Widths 338 0 R>> endobj 11 0 obj <</Type/FontDescriptor/FontName/BCDFEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 12 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Encoding/Identity-H/DescendantFonts 13 0 R/ToUnicode 335 0 R>> endobj 13 0 obj [ 14 0 R] endobj 14 0 obj <</BaseFont/BCDGEE+TimesNewRomanPS-BoldMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 15 0 R/FontDescriptor 16 0 R/W 337 0 R>> endobj 15 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 16 0 obj <</Type/FontDescriptor/FontName/BCDGEE+TimesNewRomanPS-BoldMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 677/AvgWidth 427/MaxWidth 2558/FontWeight 700/XHeight 250/Leading 42/StemV 42/FontBBox[ -558 -216 2000 677] /FontFile2 336 0 R>> endobj 17 0 obj <</Type/Font/Subtype/TrueType/Name/F4/BaseFont/BCDHEE+TimesNewRomanPS-ItalicMT/Encoding/WinAnsiEncoding/FontDescriptor 18 0 R/FirstChar 32/LastChar 121/Widths 342 0 R>> endobj 18 0 obj <</Type/FontDescriptor/FontName/BCDHEE+TimesNewRomanPS-ItalicMT/Flags 32/ItalicAngle -16.4/Ascent 891/Descent -216/CapHeight 694/AvgWidth 402/MaxWidth 1831/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -498 -216 1333 694] /FontFile2 340 0 R>> endobj 19 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDIEE+SymbolMT/Encoding/Identity-H/DescendantFonts 20 0 R/ToUnicode 343 0 R>> endobj 20 0 obj [ 21 0 R] endobj 21 0 obj <</BaseFont/BCDIEE+SymbolMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 22 0 R/FontDescriptor 23 0 R/W 345 0 R>> endobj 22 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 23 0 obj <</Type/FontDescriptor/FontName/BCDIEE+SymbolMT/Flags 32/ItalicAngle 0/Ascent 1005/Descent -216/CapHeight 693/AvgWidth 600/MaxWidth 1113/FontWeight 400/XHeight 250/StemV 60/FontBBox[ 0 -216 1113 693] /FontFile2 344 0 R>> endobj 24 0 obj <</Type/Font/Subtype/TrueType/Name/F6/BaseFont/BCDJEE+ArialMT/Encoding/WinAnsiEncoding/FontDescriptor 25 0 R/FirstChar 32/LastChar 32/Widths 346 0 R>> endobj 25 0 obj <</Type/FontDescriptor/FontName/BCDJEE+ArialMT/Flags 32/ItalicAngle 0/Ascent 905/Descent -210/CapHeight 728/AvgWidth 441/MaxWidth 2665/FontWeight 400/XHeight 250/Leading 33/StemV 44/FontBBox[ -665 -210 2000 728] /FontFile2 347 0 R>> endobj 26 0 obj <</Type/Font/Subtype/Type0/BaseFont/BCDKEE+TimesNewRomanPSMT/Encoding/Identity-H/DescendantFonts 27 0 R/ToUnicode 331 0 R>> endobj 27 0 obj [ 28 0 R] endobj 28 0 obj <</BaseFont/BCDKEE+TimesNewRomanPSMT/Subtype/CIDFontType2/Type/Font/CIDToGIDMap/Identity/DW 1000/CIDSystemInfo 29 0 R/FontDescriptor 30 0 R/W 333 0 R>> endobj 29 0 obj <</Ordering(Identity) /Registry(Adobe) /Supplement 0>> endobj 30 0 obj <</Type/FontDescriptor/FontName/BCDKEE+TimesNewRomanPSMT/Flags 32/ItalicAngle 0/Ascent 891/Descent -216/CapHeight 693/AvgWidth 401/MaxWidth 2614/FontWeight 400/XHeight 250/Leading 42/StemV 40/FontBBox[ -568 -216 2046 693] /FontFile2 332 0 R>> endobj 31 0 obj <</Type/Page/Parent 2 0 R/Resources<</Font<</F2 10 0 R/F1 6 0 R/F5 19 0 R/F6 24 0 R/F7 26 0 R/F8 33 0 R/F4 17 0 R>>/ExtGState<</GS5 5 0 R/GS8 8 0 R>>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 32 0 R/Group<</Type/Group/S/Transparency/CS/DeviceRGB>>/Tabs/S/StructParents 2>> endobj 32 0 obj <</Filter/FlateDecode/Length 4916>> stream x��][s�F�~w���<m��\b��p٤R%�Y�^��\u0015�n���� 0 (��ן�\u0006@S�a\u0012�=I�\"�\u0014�o\u001a���o\u0006���rV�o�=~��� \u0011\u001f�Ϊ\u001b1)��\u001f?L��N<{�\\���I\u001c��_.��E\u0002?�\\��x��\u001f_���g�O�\u001c�M i�؈��O$|/\u0016R�qd3\u0003��Q���\u0005|��\u0007+nZ����w�����'�������O��+���'\u0007A�(�\u001f@\u0013� ��4��sj&����2���\u0017��7o������m<2QQ�v��Qpkd�$�\u0013H|��8>i��zvىg�����8\u0013�0p3�T�H�C��j���\u001e'b<T2y����Ӭ�X\u0019�d\u0012\u0006<H;�𑚼8��|����� ~�'ᆧ>��gp\u001b ������t2��xr1M&5�h���\u001fu��5���\u001aFj�L�ɉ�mk��Id]Y\u0005\\PY���'of{ ��K�(ӁeJ�HJ\u000f�\u00025僱���oz�81Lp\u0015�`��o9�C�n@狩�'-��\u0002���R�����,�9$\u001cM閭S��:���%\u0019��9��t�`�������4���n�@\b���f��\u0016\u0017� �����2\u0016���׸\u0003�_S\u001e\u0002h�#%= ?��\u001aVuɅcUd}8l�X\u001bI�\u0001��*�hJڲ���=\u00043���<�4&�� �5\u0017�\u0004\u0004��b\u0013AI���\u001e��%�HYT��d\u0005\u0017�\u0005�B��I@\"ߤ�@�� %͢, )\u0006\u0018e/�9�0 3\u0003��B�F��\u001cL\u001a���\u001f\\+\b���\u0010r�Ї�\u0007�=�<���Q�I6��m\u001c��wnܿ5\u0018s�`\u0012g06��3\u00186\u0005�1͊ �j�q\u0005�w3\u0019�\u0007\u0001%�}0� �ӣ|r-�[.�#a��A'\u0005V�\u0007 C�<����\u0015\u0017Tn@�Bʒ����듅ij PW�r�?��@�5�\u0014��һ�c�\u001d�ձA�\u000e\u000e\\=��$A���`ح�\u0003�\u001c� �|�a\u0003zڋ��AXޕ�Auö��\u001f�M>ȑ��\u0003PWl&\"�#�[I��\u0001X6�O��RT׵�#�&bՖ8ql\u0013� �Kl@�\u0014�w�\u0003�\u000e\u0015��������r�E\u0006�E�22�\u0007��l�\u0007߷e����ёNCJc�H� NQ��&4Uɦh:�#\u0013T�\\Eڧ�a�\u001e%eB�$0��\u0003�((�3ູ��<ʃ��\u0015e�>�:2�rM�2>K��R�34l2��\u001f�\u001b U}���\u0015%z%|� �X �.�������\u0005gȕ\u0006 ���d���+ \u0012rm\u000f�=�r Λi���$��=�A8a��\u0004i @\u001c��LF\u0019�l�\u0002�v^i(q '�M1Kq\u0001�c�1� ' d{^��X\u0004BF9a H�\u0006��\u0006\u0014Ia\u0012i= C@rd���-^��> *\u0010D��O v��e\u0012e>$��J�~�M�>=J&�\u0011c\u0002�M��)I\"�{ �i`�P��\u0002m\u0003�TFK���Ie��\u0003t\u0005�\u0005n��rz��ls��(�h/�LY�\u0007X\u000e�\u0002�QLof�G��!W��*M% O��\u0016q嬭W� \u0016����f�7 y(���\u0001�\u0019\u0005\u0011�ݪ��\u0003��<k\u0006c(�\u0003S�n� �=~�7~1h�Onī NWLS���.>\u00113�<8����O E�i��.�1(�����h�H�\u001e��+�Ejud��`-��.���e���\u0018{ ���x�g\"`�?��]�;�\u0019%\b\u0001g\u0002\u0012.�L������1^;�\b\u0016l���#T�}ڙ{�d�a��꫼B�S�|���B�p��q$=�l�i��Ms\u0001~�?���A��;\u0004r\u000f�J��]�ޡl\u0016\u001f������f ���� �ö�W�\u001a{O\u0013=�|��j�˃\u0018���+֤H ytqE\u001e���U]qF�]]q\u0001�6�*���V��*�A��`\u001d�4\u0017`�V���KBJ I{�E��\u000e�$\u0012\u000f.Z�_�l�$����\u0014+C&�{�9��\u0015��n���V�P\u0010N\u001c�I���S�p�pvz\u0014X�4 ) �|}w�3�U.؊7 ��\u0002���X�r\u0001��Yw=E�����\u0017��\u000f& 6+� \u0005&ml,>�H���0��ȷ\u0001,��\u0001D�c����\\P)�i\u0002ʒf��y愑X��>� �Zy�\u0007�\\v�l��\u00187 �\u0013�(�\u0007x\u0007\u0016�~�!n��PJ+��\u0017S�&?� ��W�\"מZ�D�\u0006Bp� @8K[2\bm�Bl��=\u0002� �Qg4�\u0001�\u0003�\u000f�8�-��i���\u0003|��< \u0018\"��z12�:j[���Q\u0012TF�n!_3�6K� ]�v{���x\u0001�NʀR(�P�� |�,��s��\u001c/�;,�RLϕg�L�~\u0019\u0017��\u0017*�\u0017d�\u0001�\u001a �v��V��P�\u001bl��J��z �\u0002s��\u0019�$�`�`��է6J� \u0006\u0011���\u0001 S_��qM��5�y��b�*�^sǷ�\u0005�4�\u0018�z�.@I�z��w�tWhMv�2E\u0006�ƨ�b ?����?Ƒ-�2{M��!eo\u00163X\u0012���^�F\\��\u000fu��ŕ�+�\u0003�����\u000f+�ȅ�gQ|QLѠ��Wwe�\u0019�#W�р���\u0015�5D ±�1���!Z\u0010��3\u001a�\u0010�\u0001��t7þ��e��v�q\u0006jX�t \u0002��R:�!�,H\u001c�M���h\u0005��ld\"��S\u000e&�R2ʵwZ�ЌM\u0014k(\u001a '�� &� �p\u000e�����s�0i�|`�/�(�A�\u0011�2?��ɳ�rzH\u0004��4�~���l�fJ,���� \u0011>�~�� �8c�����x�� ����\u001e%A�U�\b�N6�i���g�كx�>��ɨ`�H��A��],\u001f�nǈ�\u001eO!٬�x�X���9i۲�講U\u001d�r����� '})�Nf]�d\u001e5ac��Ir�8�����ea\u0004�Є46�] >f�\u0001㯃�`\u0013�\"] N�\u0010�}/\u0006\u001fM��\u000e /M\b /�D����\u0012��.��q69�i6.�R��� r�I���\u001fN�qaٜ�`�\\��l\u001e�\u0013��\u0014<�9\u001aw��?~\u0010�D\u0006x�\u0016����G:����m-^�<�9\u001b��x\u0002 7z�+=���+q6�`,���Y\u001dD�ݕ8;��N�]�� 9\u0016���a\u0004q%��C����J���Zr=�?㿭@�Iu%� �͗5�\u001cW�\u0004 ;\\�7h�G\u000f�X����H .�\u0005��A$�>9 \u0013ڳ_W���D�\u001a?hEG��\u0005�勾Vg�X\u0003;ΰ��ܺՄ�ƪ\\yY\u0016=�;� �~��� jW�u�N,f8�Պ�/��\u0001y�\u001a)����<�\u0002����\u0011�\u001d�\u0016��g �M���� �?g4�&�\u0001�=Ut&ټ^\u0016�RҾo�X�:\\\u000f���]ٖ�T��/�ߔ�T�k4\u001e¿��Bb�~I K+R Y�4s\\�U]�/���4fs���Gl����p�w��A=���\u0006aO�n���]58y��K����˦�� \u0007`܋��q\u0007f\u0003fj���Of���aͨ)�\u001b6C��X\u0006s��v�\u000fb\"�2\u0004:�\u0018�=�\u0010\u001c�\u0002�e\b��p\u001b\u0002\u0017�\u0001\u0011X��A7���b岘�U\u0001 �\u0002 ���\u001d ��P� *",
+    "parsedFacts": [
+      [
+        "Japanese Level",
+        "N3+"
+      ],
+      [
+        "Full-time availability",
+        "Yes"
+      ],
+      [
+        "Skills",
+        "kỹ năng nhập liệu, xử lý số liệu cơ bản"
+      ],
+      [
+        "Experience",
+        []
+      ]
+    ],
+    "recruiterNotes": [],
+    "activity": [
+      {
+        "title": "CV imported from third-party source",
+        "time": "2026-04-13T03:38:35.739Z"
+      }
+    ],
+    "storedRecords": [
+      "Original CV file retained"
+    ],
+    "matching": {
+      "hardCriteria": "N3+, full-time, kỹ năng nhập liệu và xử lý số liệu cơ bản.",
+      "softCriteria": "Experience, process discipline, Excel and Japanese context",
+      "requiredConditions": "Ha Noi / Full-time",
+      "requirementRows": [
+        [
+          "Japanese level required (N3+)",
+          "N3+",
+          "matched"
+        ],
+        [
+          "Full-time availability",
+          "Full-time",
+          "matched"
+        ],
+        [
+          "Excel / office skill",
+          "No clear evidence",
+          "missing"
+        ],
+        [
+          "Relevant back-office/data experience",
+          "Need review",
+          "partial"
+        ]
+      ],
+      "standoutStrengths": [
+        "Strong Japanese-language capability."
+      ],
+      "scoreCards": []
+    },
+    "attemptId": null
+  }
+]

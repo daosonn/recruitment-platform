@@ -1,0 +1,744 @@
+[
+  {
+    "attemptId": "attempt-akari",
+    "candidateId": "cand-sato",
+    "jobId": "JD-9921",
+    "aiScore": 91,
+    "hrAdjustedScore": 92,
+    "finalReviewedScore": 92,
+    "riskLevel": "Low",
+    "aiRecommendation": "Proceed",
+    "sectionScores": [
+      {
+        "label": "Japanese Q&A",
+        "value": "96",
+        "note": "Clear structure, confident response."
+      },
+      {
+        "label": "Reading Aloud",
+        "value": "91",
+        "note": "Minor pace issue, good accuracy."
+      },
+      {
+        "label": "Reading Comprehension",
+        "value": "88",
+        "note": "Strong understanding."
+      },
+      {
+        "label": "Typing",
+        "value": "85",
+        "note": "219 CPM / 98.7% accuracy."
+      },
+      {
+        "label": "Data Task",
+        "value": "93",
+        "note": "One field error in reconciliation task."
+      },
+      {
+        "label": "Cheating Risk",
+        "value": "Low",
+        "note": "2 tab switches, no paste event."
+      }
+    ],
+    "transcriptSnippets": [
+      {
+        "who": "Question",
+        "text": "Please introduce your data processing experience in Japanese."
+      },
+      {
+        "who": "Candidate",
+        "text": "I have worked in e-commerce data operations, validating records and reporting by SOP."
+      },
+      {
+        "who": "Reviewer note",
+        "text": "Candidate demonstrates process awareness with concrete examples."
+      }
+    ],
+    "suspiciousSignals": [
+      [
+        "Tab switches",
+        "2"
+      ],
+      [
+        "Window blur",
+        "1 short event"
+      ],
+      [
+        "Paste detection",
+        "None"
+      ],
+      [
+        "Typing anomaly",
+        "No significant issue"
+      ]
+    ],
+    "scoreComparison": [
+      [
+        "Japanese Q&A",
+        "96",
+        "96",
+        "96",
+        "No override"
+      ],
+      [
+        "Reading Aloud",
+        "91",
+        "91",
+        "91",
+        "No override"
+      ],
+      [
+        "Typing",
+        "85",
+        "87",
+        "87",
+        "Accuracy stable under manual review"
+      ],
+      [
+        "Data Task",
+        "93",
+        "94",
+        "94",
+        "One answer accepted after manual check"
+      ]
+    ],
+    "media": [],
+    "overrideHistory": []
+  },
+  {
+    "attemptId": "attempt-akira-yoshi-1776056486016",
+    "candidateId": "cand-akira",
+    "jobId": "JD-9921",
+    "aiScore": 80,
+    "hrAdjustedScore": 80,
+    "finalReviewedScore": 80,
+    "riskLevel": "Medium",
+    "aiRecommendation": "Manual Review",
+    "sectionScores": [
+      {
+        "label": "Japanese Q&A",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Reading Aloud",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Reading Comprehension",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Typing",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Data Task",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Cheating Risk",
+        "value": "Medium",
+        "note": "Support signal only."
+      }
+    ],
+    "transcriptSnippets": [
+      {
+        "who": "System",
+        "text": "Assessment submitted. Awaiting recruiter review."
+      }
+    ],
+    "suspiciousSignals": [
+      [
+        "Tab switches",
+        "N/A"
+      ],
+      [
+        "Window blur",
+        "N/A"
+      ],
+      [
+        "Paste detection",
+        "N/A"
+      ],
+      [
+        "Typing anomaly",
+        "N/A"
+      ]
+    ],
+    "scoreComparison": [
+      [
+        "Japanese Q&A",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Reading Aloud",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Typing",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Data Task",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ]
+    ],
+    "media": [],
+    "overrideHistory": []
+  },
+  {
+    "attemptId": "attempt-cv-daovanson-1776056596445",
+    "candidateId": "cand-cv-daovanson-13971",
+    "jobId": "JD-5678",
+    "aiScore": 80,
+    "hrAdjustedScore": 80,
+    "finalReviewedScore": 80,
+    "riskLevel": "Medium",
+    "aiRecommendation": "Manual Review",
+    "sectionScores": [
+      {
+        "label": "Japanese Q&A",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Reading Aloud",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Reading Comprehension",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Typing",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Data Task",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Cheating Risk",
+        "value": "Medium",
+        "note": "Support signal only."
+      }
+    ],
+    "transcriptSnippets": [
+      {
+        "who": "System",
+        "text": "Assessment submitted. Awaiting recruiter review."
+      }
+    ],
+    "suspiciousSignals": [
+      [
+        "Tab switches",
+        "N/A"
+      ],
+      [
+        "Window blur",
+        "N/A"
+      ],
+      [
+        "Paste detection",
+        "N/A"
+      ],
+      [
+        "Typing anomaly",
+        "N/A"
+      ]
+    ],
+    "scoreComparison": [
+      [
+        "Japanese Q&A",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Reading Aloud",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Typing",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Data Task",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ]
+    ],
+    "media": [],
+    "overrideHistory": []
+  },
+  {
+    "attemptId": "attempt-cv-daovanson-1776156779124",
+    "candidateId": "cand-cv-daovanson-19962",
+    "jobId": "JD-5678",
+    "aiScore": 80,
+    "hrAdjustedScore": 80,
+    "finalReviewedScore": 80,
+    "riskLevel": "Medium",
+    "aiRecommendation": "Manual Review",
+    "sectionScores": [
+      {
+        "label": "Self-introduction / motivation / work-fit",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Reading Aloud",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Japanese Typing Test",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Information Extraction",
+        "value": "80",
+        "note": "Auto-generated placeholder score."
+      },
+      {
+        "label": "Cheating Risk",
+        "value": "Medium",
+        "note": "Support signal only."
+      }
+    ],
+    "transcriptSnippets": [
+      {
+        "who": "System",
+        "text": "Assessment submitted. Awaiting recruiter review."
+      }
+    ],
+    "suspiciousSignals": [
+      [
+        "Tab hidden / tab switch",
+        "0"
+      ],
+      [
+        "Window blur",
+        "0"
+      ],
+      [
+        "Fullscreen exit",
+        "0"
+      ],
+      [
+        "Paste attempts",
+        "0"
+      ]
+    ],
+    "scoreComparison": [
+      [
+        "Self-introduction / motivation / work-fit",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Reading Aloud",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Japanese Typing Test",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ],
+      [
+        "Information Extraction",
+        "80",
+        "80",
+        "80",
+        "Pending recruiter review"
+      ]
+    ],
+    "media": [
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156663008-54181.webm",
+        "originalName": "proctoring-1.webm",
+        "mimeType": "text/plain",
+        "size": 2633265,
+        "uploadedAt": "2026-04-14T08:51:03.016Z",
+        "sequence": 1
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156671036-46297.webm",
+        "originalName": "proctoring-2.webm",
+        "mimeType": "text/plain",
+        "size": 2675931,
+        "uploadedAt": "2026-04-14T08:51:11.044Z",
+        "sequence": 2
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156679090-82784.webm",
+        "originalName": "proctoring-3.webm",
+        "mimeType": "text/plain",
+        "size": 2640077,
+        "uploadedAt": "2026-04-14T08:51:19.110Z",
+        "sequence": 3
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156687153-74608.webm",
+        "originalName": "proctoring-4.webm",
+        "mimeType": "text/plain",
+        "size": 2610611,
+        "uploadedAt": "2026-04-14T08:51:27.166Z",
+        "sequence": 4
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156695178-99628.webm",
+        "originalName": "proctoring-5.webm",
+        "mimeType": "text/plain",
+        "size": 2602137,
+        "uploadedAt": "2026-04-14T08:51:35.186Z",
+        "sequence": 5
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156703253-12015.webm",
+        "originalName": "proctoring-6.webm",
+        "mimeType": "text/plain",
+        "size": 2641265,
+        "uploadedAt": "2026-04-14T08:51:43.260Z",
+        "sequence": 6
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156711286-82350.webm",
+        "originalName": "proctoring-7.webm",
+        "mimeType": "text/plain",
+        "size": 2628931,
+        "uploadedAt": "2026-04-14T08:51:51.300Z",
+        "sequence": 7
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156719303-40444.webm",
+        "originalName": "proctoring-8.webm",
+        "mimeType": "text/plain",
+        "size": 2606413,
+        "uploadedAt": "2026-04-14T08:51:59.323Z",
+        "sequence": 8
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156727351-1391.webm",
+        "originalName": "proctoring-9.webm",
+        "mimeType": "text/plain",
+        "size": 2280744,
+        "uploadedAt": "2026-04-14T08:52:07.372Z",
+        "sequence": 9
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156735424-62509.webm",
+        "originalName": "proctoring-10.webm",
+        "mimeType": "text/plain",
+        "size": 2619453,
+        "uploadedAt": "2026-04-14T08:52:15.435Z",
+        "sequence": 10
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156743422-31520.webm",
+        "originalName": "proctoring-11.webm",
+        "mimeType": "text/plain",
+        "size": 2630873,
+        "uploadedAt": "2026-04-14T08:52:23.431Z",
+        "sequence": 11
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156751476-9905.webm",
+        "originalName": "proctoring-12.webm",
+        "mimeType": "text/plain",
+        "size": 2634289,
+        "uploadedAt": "2026-04-14T08:52:31.485Z",
+        "sequence": 12
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156759489-7912.webm",
+        "originalName": "proctoring-13.webm",
+        "mimeType": "text/plain",
+        "size": 2600652,
+        "uploadedAt": "2026-04-14T08:52:39.503Z",
+        "sequence": 13
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156768100-30334.webm",
+        "originalName": "proctoring-14.webm",
+        "mimeType": "text/plain",
+        "size": 2421877,
+        "uploadedAt": "2026-04-14T08:52:48.111Z",
+        "sequence": 14
+      },
+      {
+        "path": "/storage/assessment-media/session-1776156639591-542/proctoring/1776156775561-7904.webm",
+        "originalName": "proctoring-15.webm",
+        "mimeType": "text/plain",
+        "size": 2630911,
+        "uploadedAt": "2026-04-14T08:52:55.574Z",
+        "sequence": 15
+      }
+    ],
+    "overrideHistory": []
+  },
+  {
+    "attemptId": "attempt-cv-daovanson-nontech-1776162667384",
+    "candidateId": "cand-cv-daovanson-nontech-47490",
+    "jobId": "JD-5678",
+    "aiScore": 8,
+    "hrAdjustedScore": 8,
+    "finalReviewedScore": 8,
+    "riskLevel": "Low",
+    "aiRecommendation": "Reject",
+    "sectionScores": [
+      {
+        "label": "Basic Japanese work response",
+        "value": "1",
+        "note": "4 item(s) captured."
+      },
+      {
+        "label": "Reading Aloud",
+        "value": "1",
+        "note": "2 item(s) captured."
+      },
+      {
+        "label": "Japanese Typing Test",
+        "value": "28",
+        "note": "Kanji Copy 01: 35 | Structured form input: 20"
+      },
+      {
+        "label": "Information Extraction",
+        "value": "0",
+        "note": "請求書 A: 0 | 納品関連書類 B: 0"
+      },
+      {
+        "label": "Cheating Risk",
+        "value": "Low",
+        "note": "Support signal only."
+      }
+    ],
+    "transcriptSnippets": [
+      {
+        "who": "Candidate",
+        "text": "画面に表示された氏名を、そのまま読んでください。: ChatGPT"
+      },
+      {
+        "who": "Candidate",
+        "text": "応募職種を、そのまま読んでください。: 我想把它打破了。"
+      },
+      {
+        "who": "Candidate",
+        "text": "次の文をそのまま読んでください。: 本日。"
+      },
+      {
+        "who": "Candidate",
+        "text": "次の文をそのまま読んでください。: これはいい。"
+      },
+      {
+        "who": "Reading",
+        "text": "シフト案内: All right."
+      },
+      {
+        "who": "Reading",
+        "text": "業務手順メモ: 一關係。"
+      },
+      {
+        "who": "System",
+        "text": "Assessment submitted and scored automatically."
+      }
+    ],
+    "suspiciousSignals": [
+      [
+        "Tab hidden / tab switch",
+        "0"
+      ],
+      [
+        "Window blur",
+        "0"
+      ],
+      [
+        "Fullscreen exit",
+        "0"
+      ],
+      [
+        "Paste attempts",
+        "0"
+      ],
+      [
+        "Copy attempts",
+        "0"
+      ]
+    ],
+    "scoreComparison": [
+      [
+        "Basic Japanese work response",
+        "1",
+        "1",
+        "1",
+        "4 item(s) captured."
+      ],
+      [
+        "Reading Aloud",
+        "1",
+        "1",
+        "1",
+        "2 item(s) captured."
+      ],
+      [
+        "Japanese Typing Test",
+        "28",
+        "28",
+        "28",
+        "Kanji Copy 01: 35 | Structured form input: 20"
+      ],
+      [
+        "Information Extraction",
+        "0",
+        "0",
+        "0",
+        "請求書 A: 0 | 納品関連書類 B: 0"
+      ]
+    ],
+    "media": [
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162562379-44897.webm",
+        "originalName": "proctoring-1.webm",
+        "mimeType": "text/plain",
+        "size": 2602883,
+        "uploadedAt": "2026-04-14T10:29:22.392Z",
+        "sequence": 1
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162570375-97821.webm",
+        "originalName": "proctoring-2.webm",
+        "mimeType": "text/plain",
+        "size": 2619918,
+        "uploadedAt": "2026-04-14T10:29:30.386Z",
+        "sequence": 2
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162578425-34672.webm",
+        "originalName": "proctoring-3.webm",
+        "mimeType": "text/plain",
+        "size": 2621491,
+        "uploadedAt": "2026-04-14T10:29:38.432Z",
+        "sequence": 3
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162586488-24271.webm",
+        "originalName": "proctoring-4.webm",
+        "mimeType": "text/plain",
+        "size": 2611051,
+        "uploadedAt": "2026-04-14T10:29:46.502Z",
+        "sequence": 4
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162594531-1111.webm",
+        "originalName": "proctoring-5.webm",
+        "mimeType": "text/plain",
+        "size": 2642228,
+        "uploadedAt": "2026-04-14T10:29:54.548Z",
+        "sequence": 5
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162602553-1990.webm",
+        "originalName": "proctoring-6.webm",
+        "mimeType": "text/plain",
+        "size": 2619280,
+        "uploadedAt": "2026-04-14T10:30:02.571Z",
+        "sequence": 6
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162611304-78449.webm",
+        "originalName": "proctoring-7.webm",
+        "mimeType": "text/plain",
+        "size": 2217091,
+        "uploadedAt": "2026-04-14T10:30:11.327Z",
+        "sequence": 7
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162619250-18879.webm",
+        "originalName": "proctoring-8.webm",
+        "mimeType": "text/plain",
+        "size": 2680741,
+        "uploadedAt": "2026-04-14T10:30:19.280Z",
+        "sequence": 8
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162627290-44087.webm",
+        "originalName": "proctoring-9.webm",
+        "mimeType": "text/plain",
+        "size": 2601375,
+        "uploadedAt": "2026-04-14T10:30:27.312Z",
+        "sequence": 9
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162635390-50920.webm",
+        "originalName": "proctoring-10.webm",
+        "mimeType": "text/plain",
+        "size": 2601103,
+        "uploadedAt": "2026-04-14T10:30:35.402Z",
+        "sequence": 10
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162643396-79958.webm",
+        "originalName": "proctoring-11.webm",
+        "mimeType": "text/plain",
+        "size": 2633023,
+        "uploadedAt": "2026-04-14T10:30:43.407Z",
+        "sequence": 11
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162651434-83531.webm",
+        "originalName": "proctoring-12.webm",
+        "mimeType": "text/plain",
+        "size": 2600488,
+        "uploadedAt": "2026-04-14T10:30:51.452Z",
+        "sequence": 12
+      },
+      {
+        "path": "/storage/assessment-media/session-1776162537528-1851/proctoring/1776162659469-43740.webm",
+        "originalName": "proctoring-13.webm",
+        "mimeType": "text/plain",
+        "size": 2597883,
+        "uploadedAt": "2026-04-14T10:30:59.477Z",
+        "sequence": 13
+      }
+    ],
+    "overrideHistory": []
+  }
+]
